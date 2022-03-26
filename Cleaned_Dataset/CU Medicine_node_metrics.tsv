@@ -1,373 +1,373 @@
-Node	Betweenness	Eigenvector	Closeness	Eccentricity	PageRank
-https://www.cumedicine.us/	3104.0250666026454	0.1270991337851725	0.649737302977233	2	0.012389058459688273
-https://www.cumedicine.us/get-care-today/	563.5771585616343	0.09553115816633664	0.6062091503267973	2	0.007947794450201086
-https://www.cumedicine.us/faqs	1362.0200503226254	0.12700988813258618	0.6429809358752167	2	0.010461644723613162
-https://www.cumedicine.us/specialties/	396.5771585616343	0.09550629314126213	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/ResourcePackages/Assets/Images/dmg-logo.svg	394.69185175148436	0.09446304466495094	0.6042345276872965	2	0.007683224773209938
-https://www.cumedicine.us/ResourcePackages/Assets/Images/UCM-logo.svg	396.5771585616343	0.09550629314126213	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/images/default-source/default-album/cu-medicine-homepage_uspsection_trim.png?sfvrsn=17f2688e_10	0.0	0.0013433240410278835	0.3942614240170032	3	0.0004647949238915052
-https://www.cumedicine.us/patient-info/request-records	813.3018574044318	0.12696762374742163	0.6407599309153713	2	0.00984350982566714
-https://www.cumedicine.us/patient-referrals-transfers	404.70509689762997	0.1258002254653289	0.6374570446735395	2	0.009325874038400931
-https://www.cumedicine.us/privacy-policy-terms-of-use/	394.69185175148436	0.09446304466495091	0.6042345276872965	2	0.007683224773209938
-https://www.cumedicine.us/images/default-source/default-album/wecufeelingbetterhomepagesliderforeground	0.0	0.0013433240410278947	0.3942614240170032	3	0.0004647949238915052
-https://www.cumedicine.us/images/default-source/default-album/hdr-home-cotent-cu-medicine-1-cta	0.0	0.0013433240410279177	0.3942614240170032	3	0.0004647949238915052
-https://www.cumedicine.us/images/default-source/default-album/hdr-home-cotent-cu-medicine-2-cta	0.0	0.001343324041027924	0.3942614240170032	3	0.0004647949238915052
-https://www.cumedicine.us/ResourcePackages/Assets/Images/CUMed-Logo.svg	396.5771585616343	0.09550629314126213	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/WebResource.axd?d=DzHrpQl5URXarFHAtrmzFt_7iDqAXTm2CM-Esq72dmV3qtRPPd3PbC7K6b8JhvN-qpS8cBfDcHrS_qHJUqljfzVW8nME8Kdc-vR6cZNN9K3_nDflNs_i8RRbkjntVz70Py2XYZmXm4KGaUUByoYto9FeAqEMAT3uubpvbh1WDimaEtQEUtVUZkJT-5v46M7B0&t=637299235500000000	396.5771585616343	0.09550629314126219	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/specialties	400.49971943545404	0.12642668328808312	0.6374570446735395	2	0.009313507623060832
-https://www.cumedicine.us/bundles/site?v=4t5Buj-sfkH4K_jvYe2udFlo8BfK68KAw_cU4lB9r1k1	396.5771585616343	0.09550629314126216	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/patient-info/accepted-insurance	1145.7417332693076	0.12686060881440178	0.6407599309153713	2	0.010146783661020009
-https://www.cumedicine.us/locations	725.7076062851822	0.12693622075515118	0.6407599309153713	2	0.009618477584298001
-https://www.cumedicine.us/ScriptResource.axd?d=EydukmxBmDstn7gSYzQESN4cANln6AECS9Ytf9-ZfXPxnKlRmUytxu_7O0nTUcdWVFPa8HjmxUL3fZTqp0yX-nRsQOe6oSCwaOc6HeaE7goQ9XK7q0xIdeSrv0slfVSSYzJAlhI3YFyYMT0RHisEVMu3vMtr73ArcUsS41i9uBzAiOAg4MNxaUx-NUBKFEIQ0&t=4a8d4793	396.5771585616343	0.09550629314126216	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/about-cu-medicine/health-insights/tips-for-a-healthy-heart	1293.6165549452805	0.059486536061996956	0.4805699481865285	3	0.004772271159452609
-https://www.cumedicine.us/patient-info/patient-resources	2424.1417332693104	0.12697278152399522	0.6463414634146342	2	0.011594734897241244
-https://www.cumedicine.us/about-cu-medicine/health-insights/	0.0	0.0026842756074551208	0.3951011714589989	3	0.0005168184291096578
-https://www.cumedicine.us/patient-info/common-clinical-fees	20680.241733269344	0.1276934856079464	0.7120921305182342	2	0.0368707707729141
-https://www.cumedicine.us/providers	647.7172053545528	0.12646038023852235	0.6385542168674698	2	0.009443256945625221
-https://www.cumedicine.us/about-cu-medicine/employment-opportunities	2059.641733269308	0.12691663106440387	0.6440972222222222	2	0.011154539356548157
-https://www.cumedicine.us/request-an-appointment	939.4185240710995	0.1271357831038291	0.6440972222222222	2	0.01010826755534679
-https://www.cumedicine.us/patient-info/first-visit	743.2417332693076	0.12688876525945464	0.6407599309153713	2	0.009844512320901179
-https://www.cumedicine.us/ResourcePackages/Assets/Images/uchealth-logo.svg	0.0	0.0040198359400417365	0.3959445037353255	3	0.0005683480417389194
-https://www.cumedicine.us/ResourcePackages/Assets/Images/childrens-hospital-logo.svg	0.0	0.0040198359400417235	0.3959445037353255	3	0.0005683480417389194
-https://www.cumedicine.us/patient-info/accepted-insurance/	396.5771585616343	0.09550629314126217	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine---Park-Meadows	2344.9931262958085	0.06531740510307732	0.49074074074074076	3	0.006594144893415417
-https://www.cumedicine.us/request-appointment/	396.5771585616343	0.09550629314126215	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/covid-19-policies	2425.3830031105817	0.12693093665292077	0.6452173913043479	2	0.011559160941692233
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Depot-Hill	1802.4820919099348	0.06599558801107527	0.4881578947368421	3	0.006015237547217947
-https://www.cumedicine.us/ScriptResource.axd?d=VKaJmfFWDpQxp1_HxsR1qG3Ub_XQt59hxIHStV9Fnr-m6vnEAH_kH1B8RxhfXkbIx3VW_ncdxKZPssB_GLuTGFrGJj_cct32bpKRf0bex45cHc8WI-tpjSUdzPVqQMSQyGWbJTMG39W0MODmZBa3J8jWCLrsbTTzlxWn1VRt0RqeR7sOByr-DVdbRn9dQ3ZLaf8wvMW3D1bf9o4-TxlyOA2&t=4a8d4793	396.5771585616343	0.09550629314126216	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Centennial	1928.2268309841472	0.067300922949955	0.49269588313413015	3	0.006302011770440001
-https://www.cumedicine.us/about-cu-medicine/health-insights	956.2417332693083	0.12687466116541396	0.6407599309153713	2	0.009978856862117374
-https://www.cumedicine.us/ResourcePackages/Assets/Images/close-white.svg	396.5771585616343	0.09550629314126219	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/ScriptResource.axd?d=wIuRaUoAZ6lXIF1Yn5fO2NZv9qjkatMufsF4Ke0C8t04ka1EQO1xm45LMLo_Ohka1dMAdIhOurOTItKX5U9XYr5hyGyj68Zg5H99axhJR5gd-G8RutMisV-y5Ur87gr1Nwsx_TK6U7-qpVq_eaYNmhn4OthNdr7yl9eCq2UJ6lP9yHqJMwyvzzYJp2z-8hm-0&t=4a8d4793	396.5771585616343	0.09550629314126217	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/about-cu-medicine/health-insights/new-minimally-invasive-procedure-for-osteoarthritis-knee-pain	3298.781898169448	0.059478197207479426	0.4856020942408377	3	0.007168145926266435
-https://www.cumedicine.us/locations/	0.0	0.0067043734830423895	0.398068669527897	3	0.0006708862725401688
-https://www.cumedicine.us/footer/quick-links/providers	394.69185175148436	0.09446304466495094	0.6042345276872965	2	0.007683224773209938
-https://www.cumedicine.us/request-appointment	934.8818876994221	0.1261034455115255	0.6429809358752167	2	0.01005937394821609
-https://www.cumedicine.us/providers/	396.5771585616343	0.09550629314126219	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/about-cu-medicine/health-insights/omicron-symptoms-and-treatment-what-to-know	3660.5375802560598	0.0600730734482845	0.48751642575558474	3	0.007687994818006703
-https://www.cumedicine.us/get-care-from-home	1085.085190737764	0.12706235733035287	0.6429809358752167	2	0.010173154170802296
-https://www.cumedicine.us/ResourcePackages/Assets/Images/fa-clock-o.svg	0.0	0.001343324041027914	0.3942614240170032	3	0.0004647949238915052
-https://www.cumedicine.us/ResourcePackages/Assets/Images/anschutz-logo.svg	0.0	0.0013433240410278874	0.3942614240170032	3	0.0004647949238915052
-https://www.cumedicine.us/hipaa-compliance/	394.69185175148436	0.09446304466495094	0.6042345276872965	2	0.007683224773209938
-https://www.cumedicine.us/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPsKCTdDkYIbE5yVbC_2yBF1lkGxhL2yDhyWdcnw-XVzF8D0N7ArHVukAmxKnfUwRYgjxQ5R_8ktNjhwBZpibp4ZBmkxhgY-n9xhN4hRKF9ExwP9hYKV3jDUTl7RvRfAjf_DDw0ZP86_m6DF0n9EV4ZgeomnoZld38vBuIdg-7Kwu_1f7tGzJAg1BGpsr96A3yfB1oNXJzNWfzRldOPfHIeA1&t=637299235520000000	396.5771585616343	0.09550629314126215	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/locations/CU-Medicine-Internal-Medicine---Cherry-Creek	3049.278015459116	0.07497285467643443	0.5075239398084815	3	0.008121238491831065
-https://www.cumedicine.us/ResourcePackages/Assets/Images/IconStackedNav.png	396.5771585616343	0.09550629314126216	0.6052202283849919	2	0.007732056753071053
-https://www.cumedicine.us/about-cu-medicine	3324.3123008048356	0.12595389194562728	0.6474694589877836	2	0.012428971052003383
-https://www.cumedicine.us/patient-info/billing-inquiries	588.2417332693071	0.12686062121508448	0.6396551724137931	2	0.009591620681172166
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Landmark	1542.6640757509174	0.06600504700005089	0.48751642575558474	3	0.005726897736727683
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-john-c-hobbins-mfm---central-denver-co.pdf?sfvrsn=10e1db48_4	0.0	0.0013496058076189281	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/images/default-source/health-insights/leigh---ir---procedure-room---sample-photo.jpg?sfvrsn=44239f2_2&MaxWidth=350&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=8FA59BFD791DA93B609DB1E8EF0D48DE1A0ACE97	0.0	0.000628631288399274	0.3271604938271605	4	0.0004999658039195084
-https://www.cumedicine.us/providers/family-medicine/amy-hulstrom/appointment/	0.0	0.0013260787244914998	0.32890070921985815	4	0.0005271913526734471
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/the-steven-a-cohen-military-family-clinic---greenwood-village-co.pdf?sfvrsn=83b53c3a_4	0.0	0.0013496058076189264	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/about-cu-medicine/health-insights/congratulations-to-cu-medicine-internal-medicine-cherry-creek	1111.6629363814163	0.058939412288354476	0.48119325551232167	3	0.0044774575623863265
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-401---highlands-ranch-co.pdf?sfvrsn=bd3eac20_4	0.0	0.0013496058076189123	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-family-medicine-depot-hill---broomfield-co.pdf?sfvrsn=7c925170_4	0.0	0.0013496058076189255	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/images/default-source/provider-profile-pics/thomas-campbell-4502.tmb-small.jpg?sfvrsn=5a8ddf27_2	0.0	0.0006349185976193683	0.3280282935455349	4	0.0005037869639645194
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-meicine-urology---highlands-ranch-co.pdf?sfvrsn=dfe60a14_4	0.0	0.0013496058076189186	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine---Park-Meadows/appointment/	0.12679537443688388	0.001304845387830998	0.3300711743772242	4	0.000534014522678678
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-308---denver-co96a0ff9170544a0b9a8173fa9d5a188e.pdf?sfvrsn=95f4b514_4	0.0	0.0013496058076189212	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-geriatric-medicine-cherry-creek---denver-co.pdf?sfvrsn=d8b1b84e_4	0.0	0.001349605807618927	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/julianne-garrison/appointment/	0.0	0.0013188343720724539	0.3300711743772242	4	0.0005339918419055378
-https://www.cumedicine.us/patient-info/billing-inquiries/	0.0	0.002682791787485026	0.3934252386002121	3	0.0005121888685090437
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/childrens-colorado-briargate-center.pdf?sfvrsn=33649a23_8	0.0	0.001349605807618925	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/heather-brougham	60.22122982761195	0.05949864830386864	0.47381864623243936	3	0.0033616141095298476
-https://www.cumedicine.us/hipaa-compliance	374.6629363814166	0.05813375857920092	0.4690265486725664	3	0.0035942453501098814
-https://www.cumedicine.us/docs/default-source/pdf-downloads/cu-medicine-insurance-contract-list.pdf	0.0	0.0013408030456593025	0.3909378292939937	3	0.00045612500583800005
-https://www.cumedicine.us/providers/family-medicine/jeff-leininger	60.22122982761195	0.05949864830386864	0.47381864623243936	3	0.0033616141095298476
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Landmark/appointment/	0.08585439717515189	0.0013121139589183327	0.32860938883968116	4	0.0005248908098047089
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-302---denver-cod260efad566a43948d18055b40a65cf2.pdf?sfvrsn=810aaccb_4	0.0	0.001349605807618912	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/chrissie-patel	28.890169397615605	0.059641063115853654	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/providers/medicine/steven-johnson	558.2649827888226	0.05941517255727534	0.4768637532133676	3	0.003905176054537536
-https://www.cumedicine.us/providers/family-medicine/heather-brougham/appointment/	0.0	0.0013261797654479496	0.32860938883968116	4	0.0005247257175622129
-https://www.cumedicine.us/providers/medicine/tracy-koller/appointment/	0.0	0.001421973921372074	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-athletics-champions-training-room.pdf?sfvrsn=200e3206_4	0.0	0.001349605807618903	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-orthopedics---broomfield-co.pdf?sfvrsn=f5845cd5_6	0.0	0.0013496058076189197	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-helen-and-arthur-e-johnson-depression-ctr---aurora-co.pdf?sfvrsn=38dde482_2	0.0	0.0013496058076189186	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/locations/CU-Specialty-Care-at-Highlands-Ranch---Interventional-Radiology-	2402.6217074766832	0.06208284447724594	0.4881578947368421	3	0.0063697594486303135
-https://www.cumedicine.us/specialties/family-medicine	376.47908672856533	0.06212371689853353	0.4881578947368421	3	0.0038932833589319497
-https://www.cumedicine.us/providers/family-medicine/matthew-mcdowell	61.28116321621529	0.05949128657887017	0.47503201024327785	3	0.0033723558556069755
-https://www.cumedicine.us/providers/family-medicine/haley-wolf/appointment/	0.0	0.0013260787244915007	0.32890070921985815	4	0.0005271913526734471
-https://www.cumedicine.us/providers/family-medicine/aimee-zisner	495.38989120904176	0.060264187388412875	0.4818181818181818	3	0.003920961071070108
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-peds-cardiology-avmc---la-junta-co.pdf?sfvrsn=eee730dd_4	0.0	0.0013496058076189255	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/annie-moore/appointment/	0.0	0.0014219739213721062	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/providers/medicine/catherine-spaulding	28.890169397615605	0.059641063115853654	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/providers/medicine/catherine-spaulding/appointment/	0.0	0.0014219739213721073	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-low-vision-rehabilitation-amc---aurora-co.pdf?sfvrsn=d4eb58d7_4	0.0	0.001349605807618932	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/locations/I	0.09858333490408962	0.001312013974705493	0.32890070921985815	4	0.0005273185512253988
-https://www.cumedicine.us/specialties/internal-medicine	6.2343308383238325	0.0652017153763745	0.4830729166666667	3	0.003733977754731877
-https://www.cumedicine.us/providers/family-medicine/jessica-rolles	60.22122982761195	0.059498648303868605	0.47381864623243936	3	0.0033616141095298476
-https://www.cumedicine.us/providers/family-medicine/steven-ryan/appointment/	0.0	0.0013400223173048872	0.33095450490633366	4	0.0005276744686624864
-https://www.cumedicine.us/providers/family-medicine/katherin-compton/appointment/	0.0	0.0013261797654479498	0.32860938883968116	4	0.0005247257175622129
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-302---highlands-ranch-co.pdf?sfvrsn=21b3e3c5_4	0.0	0.0013496058076189273	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-steadman-hawkins-inverness---englewood-co.pdf?sfvrsn=2bb266ff_4	0.0	0.0013496058076189147	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/sarah-van-duzer-moore/appointment/	0.0	0.0014219739213721114	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/providers/medicine/matthew-decamp	28.890169397615605	0.05964106311585367	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/providers/family-medicine/angelo-alago/appointment/	0.0	0.0013260787244914972	0.32890070921985815	4	0.0005271913526734471
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-203---highlands-ranch-co.pdf?sfvrsn=36858af_4	0.0	0.0013496058076189405	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/cindy-rakotz/appointment/	0.0	0.0014219739213720858	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/images/default-source/provider-profile-pics/steven-johnson-6292.tmb-small.jpg?sfvrsn=4a266f0d_2	0.0	0.0006349185976193599	0.3280282935455349	4	0.0005037869639645194
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-301---highlands-ranch-co.pdf?sfvrsn=8adba5fa_4	0.0	0.0013496058076189368	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/chrissie-patel/appointment/	0.0	0.0014219739213721144	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-ph-amc-hlth-ctr---aurora-co.pdf?sfvrsn=4d2391bd_4	0.0	0.0013496058076189264	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-hemophilia-and-thrombosis-center---aurora-co.pdf?sfvrsn=13a388b9_4	0.0	0.0013496058076189084	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/radiology/leigh-casadaban	473.16884103791386	0.06007848660039829	0.48119325551232167	3	0.003894951717963322
-https://www.cumedicine.us/bundles/location-search?v=s-fXYA_Pma4gWpOX0UUoKmHc7WnA4eoSa40e9nwberA1	0.05660377358490566	0.00320689813516867	0.39217758985200846	3	0.0006133566223030061
-https://www.cumedicine.us/providers/family-medicine/kelly-lublin/appointment/	0.0	0.001340022317304906	0.33095450490633366	4	0.0005276744686624864
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-501---highlands-ranch-co.pdf?sfvrsn=86635a72_4	0.0	0.001349605807618927	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/stephen-alix	28.890169397615605	0.059641063115853675	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/providers/family-medicine/cara-rabin/appointment/	0.0	0.0013400223173049002	0.33095450490633366	4	0.0005276744686624864
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-center-for-midwifery---longmont-co.pdf?sfvrsn=1650a7d2_4	0.0	0.0013496058076189147	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/celina-ayala	61.28116321621529	0.059491286578870185	0.47503201024327785	3	0.0033723558556069755
-https://www.cumedicine.us/providers/family-medicine/julianne-garrison	616.5303687858582	0.06014008701663217	0.4799482535575679	3	0.004063392182471515
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-406---denver-cod386a5e9253d4333832783a4de881dc0.pdf?sfvrsn=75bbe61a_4	0.0	0.0013496058076189331	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-210---highlands-ranch-co.pdf?sfvrsn=8a3863f6_4	0.0	0.0013496058076189175	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/jennifer-hronkin	51.629482511688394	0.05951915082709117	0.47503201024327785	3	0.003357002174219642
-https://www.cumedicine.us/patient-info/patient-resources/	0.0	0.002673208470981679	0.3967914438502674	3	0.000524374515807085
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-nephrology---longmont-co.pdf?sfvrsn=bd2f7ee4_4	0.0	0.0013496058076189266	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/robert-knepshield	61.28116321621529	0.059491286578870164	0.47503201024327785	3	0.0033723558556069755
-https://www.cumedicine.us/%5Bf669d9a7-009d-4d83-ddaa-000000000002%5D7d49b8d9-21fc-4dfc-b0e4-0c29c8251162	0.0	0.0013423807943895663	0.3917634635691658	3	0.00045710578734382384
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-family-medicine-landmark---greenwood-village-co.pdf?sfvrsn=66c67b47_4	0.0	0.0013496058076189425	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-school-of-dental-medicine-aurora-co.pdf?sfvrsn=4d335340_4	0.0	0.0013496058076189399	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/matthew-mcdowell/appointment/	0.0	0.0013188343720724582	0.3300711743772242	4	0.0005339918419055378
-https://www.cumedicine.us/patient-info/common-clinical-fees/	0.0	0.0026907064416914904	0.41732283464566927	3	0.0005963354337071413
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-maternal-fetal-medicine---parker-co.pdf?sfvrsn=f8051ec_4	0.0	0.0013496058076189065	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/newsletter-subscribe	122.91295493658676	0.09870736591626839	0.5471976401179941	3	0.007125727389314254
-https://www.cumedicine.us/providers/family-medicine/aimee-zisner/appointment/	0.4533806418420854	0.002045088481999299	0.33788706739526414	4	0.0005935407728958425
-https://www.cumedicine.us/bundles/insurance?v=tYi4qkioEqpUOc6TtBVpupeezQVtyckXKBHOsqRIdeI1	0.0	0.0013408030456593164	0.3909378292939937	3	0.00045612500583800005
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-304---denver-co0032e3f87d7546f79d1cda9a447bbc35.pdf?sfvrsn=a747a53a_4	0.0	0.0013496058076189284	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/annie-moore	398.8901693976154	0.05964772612309527	0.479328165374677	3	0.003728269494321785
-https://www.cumedicine.us/providers/family-medicine/katherin-compton	60.22122982761195	0.05949864830386864	0.47381864623243936	3	0.0033616141095298476
-https://www.cumedicine.us/providers/medicine/christopher-schultz/appointment/	0.0	0.0014219739213721207	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/providers/family-medicine/jeff-leininger/appointment/	0.0	0.0013261797654479292	0.32860938883968116	4	0.0005247257175622129
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-internal-medicine-cherry-creek---denver-co.pdf?sfvrsn=17eb4fef_4	0.0	0.0013496058076189596	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/uploaded-files/FSClinicServiceFees/CU%20Family%20Medicine%20-%20Centennial.pdf	0.7223785703544481	0.001367470572989833	0.33974358974358976	4	0.000554865885201958
-https://www.cumedicine.us/providers/medicine/sarah-van-duzer-moore	28.890169397615605	0.05964106311585367	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-210---denver-cobf124051cad441318461ce5749d51047.pdf?sfvrsn=bbc60127_4	0.0	0.001349605807618931	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-obstetrics-and-gynecology---parker-co.pdf?sfvrsn=a5f07799_2	0.0	0.0013496058076189225	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-obstetrics-and-gynecology---east-denver-co.pdf?sfvrsn=33389585_4	0.0	0.0013496058076189342	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/tracy-koller	28.890169397615605	0.05964106311585366	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/providers/medicine/thomas-campbell	188.2649827888226	0.05940853552765594	0.4756410256410256	3	0.003511145618500213
-https://www.cumedicine.us/bundles/health-insights?v=y7-u_O7Oo9ZQKq6H4i4innw8zDizSWnevcsRK5fwDtU1	0.0	0.001340951566427222	0.3909378292939937	3	0.00045524931166976553
-https://www.cumedicine.us/%5Bf669d9a7-009d-4d83-ddaa-000000000002%5D731c81f9-2597-482e-a083-bcae8a140cb4	0.0	0.0013423807943895843	0.3917634635691658	3	0.00045710578734382384
-https://www.cumedicine.us/providers/family-medicine/haley-wolf	61.7306785067988	0.05949846239759516	0.4744245524296675	3	0.003364331964528985
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-202---denver-co.pdf?sfvrsn=e92dafd_6	0.0	0.0013496058076189175	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-orthopedics---longmont-co.pdf?sfvrsn=4c3bb12d_4	0.0	0.0013496058076189158	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-athletics-coors-training-room-boulder-co.pdf?sfvrsn=28108754_4	0.0	0.0013496058076189086	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/covid-19-response	4.5927960927960925	0.002698298360336985	0.3951011714589989	3	0.0008115951858589108
-https://www.cumedicine.us/providers/medicine/diana-francu/appointment/	0.0	0.0014219739213721045	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/providers/family-medicine/amy-hulstrom	61.7306785067988	0.05949846239759519	0.4744245524296675	3	0.003364331964528985
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-healthcare-partners-at-belleview-point---aurora-co067ef9249d94476c920644ce1ffa41c1.pdf?sfvrsn=dfeabe89_4	0.0	0.0013496058076189143	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/angelo-alago	431.73067850679826	0.059505109473705325	0.4756410256410256	3	0.0037564080626683264
-https://www.cumedicine.us/providers/medicine/diana-francu	28.890169397615605	0.05964106311585369	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/providers/family-medicine/luis-lorenzo	61.7306785067988	0.05949846239759518	0.4744245524296675	3	0.003364331964528985
-https://www.cumedicine.us/about-cu-medicine/employment-opportunities/	0.0	0.0026726150109002713	0.3959445037353255	3	0.0005228274072705744
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-barbara-davis-center---aurora-co.pdf?sfvrsn=48ed7314_4	0.0	0.0013496058076189052	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/bundles/provider-search?v=VwFWocVm7IsyjzzvT3Z0mxryHE5YcjmQK6EBA-CqtnM1	0.05660377358490566	0.0032219472022130204	0.39135021097046413	3	0.0006124586503126911
-https://www.cumedicine.us/providers/family-medicine/robert-knepshield/appointment/	0.0	0.0013188343720724415	0.3300711743772242	4	0.0005339918419055378
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-dermatology---aurora-co.pdf?sfvrsn=5a134dda_4	0.0	0.0013496058076189156	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-306---denver-cocfe528a2c8ff466494c5cd5041dec022.pdf?sfvrsn=ca1a6ee4_4	0.0	0.001349605807618941	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/shoshana-seigel	61.7306785067988	0.0594984623975952	0.4744245524296675	3	0.003364331964528985
-https://www.cumedicine.us/specialties/psychology	6.479086728565586	0.06211677575760116	0.4868766404199475	3	0.003501900621169406
-https://www.cumedicine.us/about-cu-medicine/health-insights/schedule-your-covid-19-vaccine	0.0	0.0013415463479417246	0.3925925925925926	3	0.0004620462167920307
-https://www.cumedicine.us/providers/family-medicine/jennifer-hronkin/appointment/	0.0	0.0013400223173048813	0.33095450490633366	4	0.0005276744686624864
-https://www.cumedicine.us/locations/CU-Medicine-Internal-Medicine---Cherry-Creek/appointment/	0.1546242238397154	0.00140690624525182	0.3375796178343949	4	0.0005316836524945041
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-412---denver-co57deee25d30d4ac29b0da67a6429e691.pdf?sfvrsn=22d3a476_4	0.0	0.0013496058076189273	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/luis-lorenzo/appointment/	0.0	0.0013260787244914992	0.32890070921985815	4	0.0005271913526734471
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-bh-amc-hlth-ctr--denver-co.pdf?sfvrsn=3ac1077f_6	0.0	0.001349605807618948	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-medical-oncology---highlands-ranch-co.pdf?sfvrsn=8b199933_4	0.0	0.0013496058076189132	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/about-cu-medicine/employment-opportunities/letter-from-our-coo	4.662936381416785	0.05812726469117584	0.467843631778058	3	0.0032025180031471216
-https://www.cumedicine.us/providers/pediatrics/kate-laporta/appointment/	0.0	0.0013400223173048518	0.33095450490633366	4	0.0005276744686624864
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-som-ob-gyn-clinic---denver-co.pdf?sfvrsn=f54b52f7_4	0.0	0.0013496058076189646	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/shoshana-seigel/appointment/	0.0	0.0013260787244915007	0.32890070921985815	4	0.0005271913526734471
-https://www.cumedicine.us/providers/medicine/phillip-hitchcock/appointment/	0.0	0.0014219739213720915	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/privacy-policy-terms-of-use	4.662936381416785	0.05812726469117584	0.467843631778058	3	0.0032025180031471216
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-psych-student-health-clinic---aurora-co.pdf?sfvrsn=7e77abc7_4	0.0	0.0013496058076189314	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/covid-19-response/	2.7333333333333325	0.0013597384578639853	0.3942614240170032	3	0.0006956867489869055
-https://www.cumedicine.us/images/default-source/default-album/sheral-c-twins-image.jpg?sfvrsn=79bfb976_0	0.0	0.0013312198602200976	0.3934252386002121	3	0.0004657244358333279
-https://www.cumedicine.us/get-care-today	0.0	0.0023526141511635195	0.39217758985200846	3	0.0005075614402284664
-https://www.cumedicine.us/providers/family-medicine/jaclyn-bassett/appointment/	0.0	0.0013188343720724632	0.3300711743772242	4	0.0005339918419055378
-https://www.cumedicine.us/providers/medicine/matthew-decamp/appointment/	0.0	0.0014219739213720936	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/providers/medicine/christopher-schultz	398.89016939761547	0.05964772612309527	0.479328165374677	3	0.003728269494321785
-https://www.cumedicine.us/providers/family-medicine/cara-rabin	421.6294825116882	0.0595258002144806	0.4762516046213094	3	0.003748980689296596
-https://www.cumedicine.us/images/default-source/default-album/ianandtroy.jpg?sfvrsn=2d6e52db_0	0.0	0.0013312198602200723	0.3934252386002121	3	0.0004657244358333279
-https://www.cumedicine.us/providers/medicine/stephen-alix/appointment/	0.0	0.0014219739213721214	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/providers/family-medicine/jaclyn-bassett	61.28116321621529	0.05949128657887016	0.47503201024327785	3	0.0033723558556069755
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-asthma-and-allergry-assoc-pueblo-co.pdf?sfvrsn=16c98be9_4	0.0	0.0013496058076189236	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/school-of-pharmacy/ashley-daffron	28.890169397615605	0.05964106311585366	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Centennial/appointment/	0.10453235338792705	0.0013258117375202843	0.33095450490633366	4	0.0005277942101726998
-https://www.cumedicine.us/providers/family-medicine/kelly-lublin	51.629482511688394	0.059519150827091166	0.47503201024327785	3	0.003357002174219642
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-maternal-fetal-medicine---littleton-co2fae0c9785714f7689266e7041d29262.pdf?sfvrsn=c4df4383_4	0.0	0.0013496058076189299	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/images/default-source/health-insights/slide5.jpg?sfvrsn=2742c81a_3&MaxWidth=300&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=9CF2C3355D59A963FC9C7FD2E7EA136EFC42B5B9	0.0	0.000628631288399297	0.3271604938271605	4	0.0004999658039195084
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-marcus-institute-for-brain-health---aurora-co66684e09ccc644c282dd0ca070ba3c16.pdf?sfvrsn=a6ae0add_4	0.0	0.001349605807618922	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/pediatrics/kate-laporta	148.9194815506289	0.059545731811375416	0.4762516046213094	3	0.0034889839973839217
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-anschutz-health-and-wellness-center-aurora-co.pdf?sfvrsn=a2778f76_4	0.0	0.0013496058076189052	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/steven-ryan	51.629482511688394	0.059519150827091166	0.47503201024327785	3	0.003357002174219642
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-healthcare-partners-at-belleview-point---aurora-co.pdf?sfvrsn=7cd22cce_4	0.0	0.0013496058076189114	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/medicine/phillip-hitchcock	28.890169397615605	0.05964106311585367	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cide-assistive-technology-partners-denver-co.pdf?sfvrsn=49489011_4	0.0	0.001349605807618908	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-family-medicine-centennial---centennial-co.pdf?sfvrsn=638c13a8_4	0.0	0.0013496058076189457	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-psych-bldg-500---aurora-co.pdf?sfvrsn=b1741205_4	0.0	0.0013496058076189355	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-402---highlands-ranch-co.pdf?sfvrsn=92b08e3f_4	0.0	0.0013496058076189093	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-312---denver-coc1ec9f4aa3774e2786d18b86a6fecf57.pdf?sfvrsn=e99bd13a_4	0.0	0.0013496058076189438	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Depot-Hill/appointment/	0.09858333490408962	0.001312013974705501	0.32890070921985815	4	0.0005273185512253988
-https://www.cumedicine.us/providers/school-of-pharmacy/ashley-daffron/appointment/	0.0	0.0014219739213721249	0.3375796178343949	4	0.000531624778987016
-https://www.cumedicine.us/about-cu-medicine/health-insights/covid-19-vaccine	2587.3139335324126	0.05893056868259023	0.48370273794002605	3	0.0063095240574192555
-https://www.cumedicine.us/providers/family-medicine/jessica-rolles/appointment/	0.0	0.0013261797654479418	0.32860938883968116	4	0.0005247257175622129
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-402---denver-co708999d4f0df4c27b8225345bf71efd9.pdf?sfvrsn=d356d52a_4	0.0	0.0013496058076189325	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-sports-medicine-and-performance-center-boulder-co.pdf?sfvrsn=6d119095_4	0.0	0.0013496058076189201	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/family-medicine/celina-ayala/appointment/	0.0	0.0013188343720724682	0.3300711743772242	4	0.0005339918419055378
-https://www.cumedicine.us/about-cu-medicine/employment-opportunities/benefits	4.662936381416785	0.058748180355093965	0.4684343434343434	3	0.0032547417312362103
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-201---highlands-ranch-co.pdf?sfvrsn=5aadbae9_4	0.0	0.0013496058076189245	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/docs/default-source/pdf-downloads/cchi-surprise-billing-notification-8-2-21.pdf?sfvrsn=8b95f318_2	0.0	0.001341988610761583	0.3930084745762712	3	0.00046187588642537005
-https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-vascular-surgery---aurora-co.pdf?sfvrsn=13238831_4	0.0	0.0013496058076189381	0.4163860830527497	3	0.0005450125916861531
-https://www.cumedicine.us/providers/radiology/premal-trivedi/appointment/	0.0	0.0006561600778699332	0.32831858407079645	4	0.0004852819524665859
-https://www.cumedicine.us/specialties/vascular-and-interventional-radiology-radiology	4.168734592574306	0.05941650369006352	0.4726114649681529	3	0.0032721420620440236
-https://www.cumedicine.us/providers/medicine/cindy-rakotz	28.890169397615605	0.059641063115853675	0.47809278350515466	3	0.0033365631176299967
-https://www.cumedicine.us/providers/family-medicine/jennifer-hronkin/appointment	174.18146360702704	0.05948581694336703	0.47503201024327785	3	0.003483904514032438
-https://www.cumedicine.us/specialties/pulmonary-disease-internal-medicine	4.003078026917741	0.05944946736286668	0.4684343434343434	3	0.0032412945856770204
-https://www.cumedicine.us/docs/default-source/pdf-downloads/cu-som-notice-of-privacy-practices.pdf	0.0	0.0006144217758930227	0.3195521102497847	4	0.00046089583519701166
-https://www.cumedicine.us/locations/UCHealth-Anschutz-Inpatient-Pavilion-UCH-AIP/appointment/	0.0	0.0006279651742781726	0.3231707317073171	4	0.00046360425093478847
-https://www.cumedicine.us/providers/family-medicine/matthew-mcdowell/appointment	175.9845964790098	0.05946462899813461	0.47503201024327785	3	0.003492766022965078
-https://www.cumedicine.us/providers/radiology/gordon-mclennan/appointment/	0.0	0.0006561600778699396	0.32831858407079645	4	0.0004852819524665859
-https://www.cumedicine.us/providers/medicine/sarah-van-duzer-moore/appointment	165.80888190151336	0.059567768547434244	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/providers/family-medicine/robert-knepshield/appointment	175.98459647900992	0.05946462899813458	0.47503201024327785	3	0.003492766022965078
-https://www.cumedicine.us/providers/medicine/diana-francu/appointment	165.80888190151342	0.05956776854743425	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/locations?specialty=Psychology	44.03859775707814	0.05881767743416703	0.4690265486725664	3	0.0033850790759082454
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine---Park-Meadows/	0.296995108315863	0.003841051883870003	0.33184257602862255	4	0.0007520428782367709
-https://www.cumedicine.us/providers/family-medicine/katherin-compton/appointment	177.18985044515654	0.059471974391510106	0.47381864623243936	3	0.003479767054121909
-https://www.cumedicine.us/locations?specialty=Family%20Medicine	44.586216804697195	0.058817750795811655	0.46962025316455697	3	0.00338991473820409
-https://www.cumedicine.us/providers/pediatrics/kate-laporta/appointment	174.18146360702704	0.05948581694336702	0.47503201024327785	3	0.003483904514032438
-https://www.cumedicine.us/locations/UCHealth-Anschutz-Outpatient-Pavilion-UCH-AOP/appointment/	0.037037037037037035	0.0012558602010959623	0.3237347294938918	4	0.0005188976985401569
-https://www.cumedicine.us/locations/UCHealth-University-of-Colorado-Hospital-UCH/appointment/	0.13567085152089453	0.002514970308356068	0.3271604938271605	4	0.000621247796968865
-https://www.cumedicine.us/providers/medicine/catherine-spaulding/appointment	165.80888190151336	0.05956776854743426	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/providers/radiology/gordon-mclennan	182.82343478212636	0.0594697251705237	0.47503201024327785	3	0.003537210654451481
-https://www.cumedicine.us/locations/CU-Medicine-Internal-Medicine---Cherry-Creek/	1.6481481481481484	0.008356768410822541	0.3416206261510129	4	0.0011174195079574325
-https://www.cumedicine.us/providers/family-medicine/angelo-alago/appointment	177.28046898729448	0.05947187335055363	0.4744245524296675	3	0.0034832259469252157
-https://www.cumedicine.us/providers/family-medicine/julianne-garrison/appointment	175.98459647900972	0.05946462899813458	0.47503201024327785	3	0.003492766022965078
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Landmark/	0.2702181633688483	0.00384994250019268	0.33303411131059246	4	0.000740181339481689
-https://www.cumedicine.us/providers/radiology/george-zlotchenko/appointment/	0.0	0.0006561600778699307	0.32831858407079645	4	0.0004852819524665859
-https://www.cumedicine.us/providers/medicine/cindy-rakotz/appointment	165.80888190151336	0.059567768547434244	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/providers/family-medicine/steven-ryan/appointment	174.18146360702687	0.05948581694336703	0.47503201024327785	3	0.003483904514032438
-https://www.cumedicine.us/providers/family-medicine/jessica-rolles/appointment	177.18985044515665	0.05947197439151008	0.47381864623243936	3	0.003479767054121909
-https://www.cumedicine.us/404	177.2683567565711	0.05814113150412643	0.4690265486725664	3	0.003426600049580736
-https://www.cumedicine.us/providers/family-medicine/celina-ayala/appointment	175.98459647900998	0.05946462899813461	0.47503201024327785	3	0.003492766022965078
-https://www.cumedicine.us/providers/radiology/george-zlotchenko	182.82343478212636	0.05946972517052372	0.47503201024327785	3	0.003537210654451481
-https://www.cumedicine.us/providers/family-medicine/jaclyn-bassett/appointment	175.98459647900998	0.05946462899813463	0.47503201024327785	3	0.003492766022965078
-https://www.cumedicine.us/providers/family-medicine/amy-hulstrom/appointment	177.28046898729448	0.05947187335055366	0.4744245524296675	3	0.0034832259469252157
-https://www.cumedicine.us/providers/medicine/phillip-hitchcock/appointment	165.80888190151347	0.05956776854743426	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Depot-Hill/	0.25925925925925924	0.0038418118938083343	0.3303650934995548	4	0.0007423473426601057
-https://www.cumedicine.us/providers/family-medicine/haley-wolf/appointment	177.28046898729448	0.05947187335055365	0.4744245524296675	3	0.0034832259469252157
-https://www.cumedicine.us/providers/medicine/christopher-schultz/appointment	165.8088819015134	0.05956776854743425	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/locations/CU-Medicine-Interventional-Radiology-Highlands-Ranch-Specialty-Care-Center/	0.19369394883413577	0.002520601049453582	0.32744924977934686	4	0.000626445745900456
-https://www.cumedicine.us/providers/family-medicine/luis-lorenzo/appointment	177.2804689872946	0.05947187335055366	0.4744245524296675	3	0.0034832259469252157
-https://www.cumedicine.us/providers/radiology/premal-trivedi	182.82343478212636	0.05946972517052371	0.47503201024327785	3	0.003537210654451481
-https://www.cumedicine.us/providers?specialty=Psychology	43.76391605388484	0.05945091541034865	0.4690265486725664	3	0.0033724561226354997
-https://www.cumedicine.us/services/sports-medicine/	0.0	0.000656592062766251	0.32831858407079645	4	0.0004603044119978388
-https://www.cumedicine.us/providers/medicine/annie-moore/appointment	165.80888190151336	0.05956776854743425	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/providers?specialty=Internal%20Medicine	43.76391605388484	0.05948352045990015	0.4690265486725664	3	0.003371421849033088
-https://www.cumedicine.us/providers/family-medicine/heather-brougham/appointment	177.1898504451565	0.05947197439151008	0.47381864623243936	3	0.003479767054121909
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Centennial/	0.5347867121065958	0.004493920868685627	0.3357466063348416	4	0.0008018186580619321
-https://www.cumedicine.us/locations/UCH---Infectious-Disease-Clinic/appointment/	0.0	0.000630423057243147	0.3243006993006993	4	0.000460870579693823
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Centennial/appointment	174.18375502647146	0.05814127733412507	0.4690265486725664	3	0.0034268030439272043
-https://www.cumedicine.us/specialties/medical-oncology-internal-medicine	4.003078026917741	0.0594494673628667	0.4684343434343434	3	0.0032412945856770204
-https://www.cumedicine.us/about-cu-medicine/employment-opportunities/benefits/insurance-plans-and-rates	4.662936381416785	0.05874818035509396	0.4684343434343434	3	0.0032547417312362103
-https://www.cumedicine.us/providers?specialty=Family%20Medicine	44.26391605388484	0.0594509887719933	0.46962025316455697	3	0.003377291784931344
-https://www.cumedicine.us/locations/Radiology--Imaging---Anschutz-Inpatient-Pavilion/appointment/	0.0	0.0006349758097903368	0.32515337423312884	4	0.0004623703228387021
-https://www.cumedicine.us/providers/family-medicine/shoshana-seigel/appointment	177.2804689872946	0.059471873350553636	0.4744245524296675	3	0.0034832259469252157
-https://www.cumedicine.us/providers/medicine/tracy-koller/appointment	165.80888190151333	0.05956776854743425	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/locations?specialty=Internal%20Medicine	44.04361028840647	0.05885028248371851	0.4690265486725664	3	0.003384044802305834
-https://www.cumedicine.us/locations/CU-Medicine-Interventional-Radiology-Highlands-Ranch-Specialty-Care-Center/appointment/	0.0	0.0006561600778699547	0.32831858407079645	4	0.0004852819524665859
-https://www.cumedicine.us/specialties/sports-medicine-internal-medicine	4.003078026917741	0.05944946736286669	0.4684343434343434	3	0.0032412945856770204
-https://www.cumedicine.us/providers/family-medicine/aimee-zisner/appointment	113.33432124449982	0.06019088310806143	0.4799482535575679	3	0.0034945150019228613
-https://www.cumedicine.us/specialties/hematology-and-oncology-internal-medicine	4.003078026917741	0.05944946736286668	0.4684343434343434	3	0.0032412945856770204
-https://www.cumedicine.us/locations/CU-Medicine-Internal-Medicine---Cherry-Creek/appointment	165.81228543738163	0.05814213443046069	0.4690265486725664	3	0.0034284600185748174
-https://www.cumedicine.us/providers/radiology/leigh-casadaban/appointment/	0.0	0.0006561600778699186	0.32831858407079645	4	0.0004852819524665859
-https://www.cumedicine.us/providers/family-medicine/jeff-leininger/appointment	177.1898504451566	0.059471974391510085	0.47381864623243936	3	0.003479767054121909
-https://www.cumedicine.us/specialties/adult-congenital-heart-disease-internal-medicine	4.003078026917741	0.0594494673628667	0.4684343434343434	3	0.0032412945856770204
-https://www.cumedicine.us/providers/family-medicine/cara-rabin/appointment	174.1814636070269	0.05948581694336704	0.47503201024327785	3	0.003483904514032438
-https://www.cumedicine.us/providers/medicine/chrissie-patel/appointment	165.80888190151336	0.059567768547434244	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Depot-Hill/appointment	177.26835675657117	0.05814113150412647	0.4690265486725664	3	0.003426600049580736
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine---Park-Meadows/appointment	175.9124267394615	0.058141055738581866	0.4690265486725664	3	0.003429445366630829
-https://www.cumedicine.us/specialties/infectious-disease-internal-medicine	4.003078026917741	0.05944946736286671	0.4684343434343434	3	0.0032412945856770204
-https://www.cumedicine.us/specialties/geriatric-medicine-internal-medicine	4.003078026917741	0.059449467362866694	0.4684343434343434	3	0.0032412945856770204
-https://www.cumedicine.us/providers/school-of-pharmacy/ashley-daffron/appointment	165.8088819015135	0.059567768547434244	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/providers/family-medicine/kelly-lublin/appointment	174.1814636070269	0.05948581694336701	0.47503201024327785	3	0.003483904514032438
-https://www.cumedicine.us/providers/medicine/matthew-decamp/appointment	165.80888190151347	0.05956776854743421	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/providers/medicine/stephen-alix/appointment	165.80888190151347	0.05956776854743424	0.47809278350515466	3	0.003489450226450307
-https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Landmark/appointment	177.1952801096255	0.05814113256087007	0.4690265486725664	3	0.0034255684586023505
-https://www.personapay.com/cumedicine/login	396.5948114897178	0.09753588962831405	0.6072013093289689	2	0.007833857158607477
-https://www.datapay3.com/c/upi01/login.asp	396.5771585616343	0.09653716016213594	0.6062091503267973	2	0.007782863596361894
-https://www.datapay3.com/c/upi01	394.69185175148436	0.09549391168582468	0.6052202283849919	2	0.007734031616500779
-https://www.pinterest.com/CUMedicine/_created/	396.5771585616343	0.09550629314126216	0.6052202283849919	2	0.007732056753071053
-https://www.youtube.com/channel/UCcFmi-WPVBlr8nJ2Rx7V34A	396.5771585616343	0.09550629314126215	0.6052202283849919	2	0.007732056753071053
-https://www.linkedin.com/company/university-of-colorado-medicine/	396.5771585616343	0.09550629314126216	0.6052202283849919	2	0.007732056753071053
-https://portal.mypropago.com/login/CUMedicine	394.69185175148436	0.09446304466495092	0.6042345276872965	2	0.007683224773209938
-https://twitter.com/cu_medicine	396.5771585616343	0.09550629314126217	0.6052202283849919	2	0.007732056753071053
-https://instagram.com/cu.medicine	396.5771585616343	0.09550629314126216	0.6052202283849919	2	0.007732056753071053
-https://www.facebook.com/cumedicine.us	396.5771585616343	0.09550629314126216	0.6052202283849919	2	0.007732056753071053
-https://som.ucdenver.edu/?ReturnUrl=%2FFIMS%2F	394.69185175148436	0.09446304466495091	0.6042345276872965	2	0.007683224773209938
-https://advertisecast-76-adswizz.attribution.adswizz.com/fire?pixelId=dcf6ad0e-4acd-46c1-aa12-46cb3e6f327b&type=sitevisit&subtype=Sitewide&aw_0_req.gdpr=true	396.5771585616343	0.09550629314126213	0.6052202283849919	2	0.007732056753071053
-https://www.facebook.com/tr?id=798596687251185&ev=PageView&noscript=1	394.69185175148436	0.09446304466495094	0.6042345276872965	2	0.007683224773209938
-https://cumedicine.marketingautomation.services/forms-proxy/MzawMLE0MTWyBAA/SzG1MEs2MTXTTbQwTdQ1MTVO1bW0SEkGskzMjNMSzczMDQwA	76.18336325729715	0.03880835419498803	0.520336605890603	3	0.003027694848431986
-https://clinicaltrials.gov/ct2/show/NCT03491397?term=genicular+artery+embolization&draw=2&rank=4	0.0	0.0006286312883992746	0.3271604938271605	4	0.0004999658039195084
-https://medschool.cuanschutz.edu/docs/librariesprovider320/communication-materials/mab-eligibility-infographic-21-827-(2).pdf?sfvrsn=4a45cbba_0	0.0	0.0006349185976193693	0.3280282935455349	4	0.0005037869639645194
-https://mychart.childrenscolorado.org/MyChart/	0.0	0.002676511899013822	0.3925925925925926	3	0.0005067789242990272
-https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/omicron-symptoms-and-treatment-what-to-know	0.0	0.0006349185976193114	0.3280282935455349	4	0.0005037869639645194
-https://covid19.colorado.gov/how-to-quarantine	0.0	0.0013415463479417465	0.3925925925925926	3	0.0004620462167920307
-https://careers.uchealth.org/	0.0	0.0013413951506801665	0.39217758985200846	3	0.0004603287778888594
-https://www.sirweb.org/media-and-pubs/media/news-release-archive/sir-2021-knee-pain-031621/	0.0	0.000628631288399261	0.3271604938271605	4	0.0004999658039195084
-https://covid19.colorado.gov/public-health-executive-orders	0.0	0.0013415463479417697	0.3925925925925926	3	0.0004620462167920307
-https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html	0.0	0.0013415463479417484	0.3925925925925926	3	0.0004620462167920307
-https://news.cuanschutz.edu/	0.0	0.000634918597619332	0.3280282935455349	4	0.0005037869639645194
-https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/tips-for-a-healthy-heart	0.0	0.000628719422625015	0.3248686514886165	4	0.00047318960590399955
-https://www.myupdox.com/portal/rvfm/html/index.html	0.0	0.000690346487497122	0.32948490230905864	4	0.0004789876431500563
-https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/tips-for-a-healthy-heart	0.0	0.0006287194226250127	0.3248686514886165	4	0.00047318960590399955
-https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/congratulations-to-cu-medicine-internal-medicine-cherry-creek	0.0	0.0006229368142258447	0.32515337423312884	4	0.0004712135767693364
-https://www.onlinepatientpayment.com/	0.0	0.0006903464874971405	0.32948490230905864	4	0.0004789876431500563
-https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Family+Medicine+-+Park+Meadows+8080+Park+Meadows+Dr+Lone+Tree%2C+CO+80124	0.0	0.0006903464874971483	0.32948490230905864	4	0.0004789876431500563
-https://covid19.colorado.gov/higher-risk-severe-illness	0.0	0.0006349185976193342	0.3280282935455349	4	0.0005037869639645194
-https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Family+Medicine+-+Centennial+7960+S+University+Blvd+Centennial%2C+CO+80122	0.0	0.0007113104951198849	0.3303650934995548	4	0.0004728097391869851
-https://www.childrenscolorado.org/about/careers/	0.0	0.0013413951506801819	0.39217758985200846	3	0.0004603287778888594
-https://medschool.cuanschutz.edu/mab-colorado	0.0	0.0006349185976193321	0.3280282935455349	4	0.0005037869639645194
-https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Family+Medicine+-+Depot+Hill+1022+Depot+Hill+Road+Broomfield%2C+CO+80020	0.0	0.0006975142735976046	0.32831858407079645	4	0.0004723373152506859
-https://mychart.childrenscolorado.org/mychart/	0.0	0.0013429353468296559	0.3917634635691658	3	0.00045561951265315624
-https://rmob.coloradowomenshealth.com/patients/testimonials	0.0	0.0013312198602200907	0.3934252386002121	3	0.0004657244358333279
-https://www.google.com/maps/place/University+of+Colorado+Medicine/@39.745251,-104.8388138,17z/data=!4m5!3m4!1s0x0:0xfcd89c0b73729691!8m2!3d39.7479752!4d-104.8345933?shorturl=1	0.0	0.0013419886107616237	0.3930084745762712	3	0.00046187588642537005
-https://onlinelibrary.wiley.com/doi/10.1002/acr.22897	0.0	0.0006286312883992709	0.3271604938271605	4	0.0004999658039195084
-https://cuplasticsurgery.com/reviews/marianbrinkman/	0.0	0.0013312198602200885	0.3934252386002121	3	0.0004657244358333279
-https://www.uchealth.org/access-my-health-connection/	18.408306115289285	0.011571947007982737	0.42890173410404625	3	0.0011889777088801995
-https://som.ucdenver.edu/Profiles/Faculty/Profile/6292	0.0	0.0006349185976193297	0.3280282935455349	4	0.0005037869639645194
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/	0.0	0.0006287194226250195	0.3248686514886165	4	0.00047318960590399955
-https://arm.coloradowomenshealth.com/success-stories/iui-success	0.0	0.0013312198602200528	0.3934252386002121	3	0.0004657244358333279
-https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/new-minimally-invasive-procedure-for-osteoarthritis-knee-pain	0.0	0.0006286312883992802	0.3271604938271605	4	0.0004999658039195084
-https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Family+Medicine+-+Landmark+7447+E.+Berry+Ave+%23250+Greenwood+Village%2C+CO+80111	0.0	0.0006976142466416416	0.3280282935455349	4	0.0004699261228879638
-https://myatlascms.com/map/?id=95	0.0	0.0013419886107616018	0.3930084745762712	3	0.00046187588642537005
-https://covid19.colorado.gov/	0.0	0.002683089244834179	0.39384288747346075	3	0.0005131987284463582
-https://covid19.colorado.gov/how-to-isolate	0.0	0.0013415463479417562	0.3925925925925926	3	0.0004620462167920307
-https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/new-minimally-invasive-procedure-for-osteoarthritis-knee-pain	0.0	0.0006286312883992884	0.3271604938271605	4	0.0004999658039195084
-https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Internal+Medicine+-+Cherry+Creek+360+S+Garfield+St++Denver%2C+CO+80209	0.0	0.000792395944110645	0.3369663941871026	4	0.0004766727040290601
-https://www.youtube.com/embed/j2eSK8KJqts	0.0	0.0012643462936586369	0.3260105448154657	4	0.0005338091327041165
-https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/congratulations-to-cu-medicine-internal-medicine-cherry-creek	0.0	0.0006229368142258833	0.32515337423312884	4	0.0004712135767693364
-https://news.cuanschutz.edu/news-stories/as-omicron-explodes-questions-swirl-around-the-magnitude-of-its-fallout	0.0	0.0006349185976193334	0.3280282935455349	4	0.0005037869639645194
-https://www.varian.com/about-varian/newsroom/press-releases/varian-receives-fda-breakthrough-device-designation-embozene	0.0	0.00062863128839928	0.3271604938271605	4	0.0004999658039195084
-https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/omicron-symptoms-and-treatment-what-to-know	0.0	0.0006349185976193413	0.3280282935455349	4	0.0005037869639645194
-https://www.youtube.com/embed/mzyMxgks3Hs	0.0	0.0006286312883992829	0.3271604938271605	4	0.0004999658039195084
-https://drive.google.com/file/d/1yMK4yhEO7KqQ-mzo0v1_g3gyBKe5Zydl/view?usp=sharing	0.0	0.0013419886107615955	0.3930084745762712	3	0.00046187588642537005
-https://www.cu.edu/cu-careers/anschutz-medical-campus	0.0	0.0013413951506801795	0.39217758985200846	3	0.0004603287778888594
-https://mychart.childrenscolorado.org/MyChart/Authentication/Login?	0.0	0.0013419340976813954	0.3909378292939937	3	0.00045454370690383805
-https://arm.coloradowomenshealth.com/success-stories/two-dads-one-beautiful-baby	0.0	0.0013312198602200866	0.3934252386002121	3	0.0004657244358333279
-https://www.ncqa.org/	0.0	0.0006229368142258451	0.32515337423312884	4	0.0004712135767693364
-https://us59.dayforcehcm.com/CandidatePortal/en-US/cumed	0.0	0.0013413951506801728	0.39217758985200846	3	0.0004603287778888594
-https://www.youtube.com/embed/74mQkFvb62w	0.0	0.0006356268710336032	0.32458442694663164	4	0.0004638453332517299
-https://www.uchealth.org/access-my-health-connection/sharing-my-health-connection-accounts/	0.0	0.0006228433452313869	0.32629727352682497	4	0.000491172365225147
-https://www.youtube.com/embed/0fmyu5f89Hs	0.0	0.000628915726956372	0.3226086956521739	4	0.000461305261405376
-https://www.211colorado.org/covid-19/	0.0	0.0006228433452314033	0.32629727352682497	4	0.000491172365225147
-https://www.youtube.com/embed/v9uHffwZbxU	0.0	0.0006304230572431287	0.3243006993006993	4	0.00046087057969382294
-https://www.youtube.com/embed/nnxsE2LsULE	0.0	0.0006369385008453087	0.3254385964912281	4	0.00046172156374363294
-https://www.youtube.com/embed/WRTwd1RYW0Y	0.0	0.00062913440956011	0.3228894691035683	4	0.00046119050638485234
-https://covid19.colorado.gov/vaccine/where-you-can-get-vaccinated	0.0	0.0006228433452313984	0.32629727352682497	4	0.000491172365225147
-https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/covid-19-vaccine	0.0	0.0006228433452313898	0.32629727352682497	4	0.000491172365225147
-https://covid19.colorado.gov/kids-vaccines	0.0	0.0006228433452313901	0.32629727352682497	4	0.000491172365225147
-https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Interventional+Radiology+-+Highlands+Ranch+Hospital+1500+Park+Central+Drive+Highlands+Ranch%2C+CO+80129	0.0	0.0006561600778699357	0.32831858407079645	4	0.0004852819524665859
-https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/covid-19-vaccine	0.0	0.0006228433452314109	0.32629727352682497	4	0.000491172365225147
-https://covid19.colorado.gov/vaccine-booster-eligibility	0.0	0.0006228433452314109	0.32629727352682497	4	0.000491172365225147
+Node	Degree	Betweenness	Eigenvector	Closeness	Eccentricity	PageRank	Clustering
+https://www.cumedicine.us/	171	3104.0250666026454	0.12709913378517249	0.649737302977233	2	0.012389058459688273	0.444031647746818
+https://www.cumedicine.us/get-care-today/	130	563.5771585616343	0.09553115816633667	0.6062091503267973	2	0.007947794450201086	0.2913536076326774
+https://www.cumedicine.us/faqs	165	1362.0200503226254	0.12700988813258612	0.6429809358752167	2	0.010461644723613162	0.4772357723577236
+https://www.cumedicine.us/specialties/	129	396.5771585616343	0.09550629314126212	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/ResourcePackages/Assets/Images/dmg-logo.svg	128	394.69185175148436	0.09446304466495088	0.6042345276872965	2	0.007683224773209938	0.28813976377952755
+https://www.cumedicine.us/ResourcePackages/Assets/Images/UCM-logo.svg	129	396.5771585616343	0.09550629314126209	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/images/default-source/default-album/cu-medicine-homepage_uspsection_trim.png?sfvrsn=17f2688e_10	1	0.0	0.0013433240410279062	0.3942614240170032	3	0.0004647949238915052	0.0
+https://www.cumedicine.us/patient-info/request-records	163	813.3018574044318	0.1269676237474216	0.6407599309153713	2	0.00984350982566714	0.4889797773233356
+https://www.cumedicine.us/patient-referrals-transfers	160	404.70509689762997	0.12580022546532885	0.6374570446735395	2	0.009325874038400931	0.4970125786163522
+https://www.cumedicine.us/privacy-policy-terms-of-use/	128	394.69185175148436	0.09446304466495088	0.6042345276872965	2	0.007683224773209938	0.28813976377952755
+https://www.cumedicine.us/images/default-source/default-album/wecufeelingbetterhomepagesliderforeground	1	0.0	0.0013433240410279023	0.3942614240170032	3	0.0004647949238915052	0.0
+https://www.cumedicine.us/images/default-source/default-album/hdr-home-cotent-cu-medicine-1-cta	1	0.0	0.0013433240410279147	0.3942614240170032	3	0.0004647949238915052	0.0
+https://www.cumedicine.us/images/default-source/default-album/hdr-home-cotent-cu-medicine-2-cta	1	0.0	0.0013433240410279058	0.3942614240170032	3	0.0004647949238915052	0.0
+https://www.cumedicine.us/ResourcePackages/Assets/Images/CUMed-Logo.svg	129	396.5771585616343	0.09550629314126206	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/WebResource.axd?d=DzHrpQl5URXarFHAtrmzFt_7iDqAXTm2CM-Esq72dmV3qtRPPd3PbC7K6b8JhvN-qpS8cBfDcHrS_qHJUqljfzVW8nME8Kdc-vR6cZNN9K3_nDflNs_i8RRbkjntVz70Py2XYZmXm4KGaUUByoYto9FeAqEMAT3uubpvbh1WDimaEtQEUtVUZkJT-5v46M7B0&t=637299235500000000	129	396.5771585616343	0.09550629314126208	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/specialties	160	400.49971943545404	0.12642668328808315	0.6374570446735395	2	0.009313507623060832	0.5034591194968554
+https://www.cumedicine.us/bundles/site?v=4t5Buj-sfkH4K_jvYe2udFlo8BfK68KAw_cU4lB9r1k1	129	396.5771585616343	0.09550629314126208	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/patient-info/accepted-insurance	163	1145.7417332693076	0.12686060881440173	0.6407599309153713	2	0.010146783661020009	0.48814663334090735
+https://www.cumedicine.us/locations	163	725.7076062851822	0.12693622075515115	0.6407599309153713	2	0.009618477584298001	0.48867681587517986
+https://www.cumedicine.us/ScriptResource.axd?d=EydukmxBmDstn7gSYzQESN4cANln6AECS9Ytf9-ZfXPxnKlRmUytxu_7O0nTUcdWVFPa8HjmxUL3fZTqp0yX-nRsQOe6oSCwaOc6HeaE7goQ9XK7q0xIdeSrv0slfVSSYzJAlhI3YFyYMT0RHisEVMu3vMtr73ArcUsS41i9uBzAiOAg4MNxaUx-NUBKFEIQ0&t=4a8d4793	129	396.5771585616343	0.0955062931412621	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/about-cu-medicine/health-insights/tips-for-a-healthy-heart	58	1293.6165549452805	0.059486536061996984	0.4805699481865285	3	0.004772271159452609	0.5462794918330308
+https://www.cumedicine.us/patient-info/patient-resources	168	2424.1417332693104	0.12697278152399522	0.6463414634146342	2	0.011594734897241244	0.459652124322783
+https://www.cumedicine.us/about-cu-medicine/health-insights/	2	0.0	0.0026842756074551403	0.3951011714589989	3	0.0005168184291096578	1.0
+https://www.cumedicine.us/patient-info/common-clinical-fees	221	20680.241733269344	0.12769348560794638	0.7120921305182342	2	0.0368707707729141	0.265158371040724
+https://www.cumedicine.us/providers	161	647.7172053545528	0.12646038023852227	0.6385542168674698	2	0.009443256945625221	0.4974378881987578
+https://www.cumedicine.us/about-cu-medicine/employment-opportunities	166	2059.641733269308	0.12691663106440387	0.6440972222222222	2	0.011154539356548157	0.4706827309236948
+https://www.cumedicine.us/request-an-appointment	166	939.4185240710995	0.12713578310382903	0.6440972222222222	2	0.01010826755534679	0.4720700985761227
+https://www.cumedicine.us/patient-info/first-visit	163	743.2417332693076	0.1268887652594547	0.6407599309153713	2	0.009844512320901179	0.48829811406498524
+https://www.cumedicine.us/ResourcePackages/Assets/Images/uchealth-logo.svg	3	0.0	0.004019835940041762	0.3959445037353255	3	0.0005683480417389194	1.0
+https://www.cumedicine.us/ResourcePackages/Assets/Images/childrens-hospital-logo.svg	3	0.0	0.004019835940041724	0.3959445037353255	3	0.0005683480417389194	1.0
+https://www.cumedicine.us/patient-info/accepted-insurance/	129	396.5771585616343	0.09550629314126212	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine---Park-Meadows	74	2344.9931262958085	0.06531740510307733	0.49074074074074076	3	0.006594144893415417	0.5094409477971121
+https://www.cumedicine.us/request-appointment/	129	396.5771585616343	0.0955062931412621	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/covid-19-policies	167	2425.3830031105817	0.12693093665292074	0.6452173913043479	2	0.011559160941692233	0.4650458119904769
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Depot-Hill	74	1802.4820919099348	0.06599558801107533	0.4881578947368421	3	0.006015237547217947	0.5275823768974454
+https://www.cumedicine.us/ScriptResource.axd?d=VKaJmfFWDpQxp1_HxsR1qG3Ub_XQt59hxIHStV9Fnr-m6vnEAH_kH1B8RxhfXkbIx3VW_ncdxKZPssB_GLuTGFrGJj_cct32bpKRf0bex45cHc8WI-tpjSUdzPVqQMSQyGWbJTMG39W0MODmZBa3J8jWCLrsbTTzlxWn1VRt0RqeR7sOByr-DVdbRn9dQ3ZLaf8wvMW3D1bf9o4-TxlyOA2&t=4a8d4793	129	396.5771585616343	0.09550629314126206	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Centennial	77	1928.2268309841472	0.06730092294995492	0.49269588313413015	3	0.006302011770440001	0.5225563909774437
+https://www.cumedicine.us/about-cu-medicine/health-insights	163	956.2417332693083	0.1268746611654139	0.6407599309153713	2	0.009978856862117374	0.4882223737029463
+https://www.cumedicine.us/ResourcePackages/Assets/Images/close-white.svg	129	396.5771585616343	0.0955062931412621	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/ScriptResource.axd?d=wIuRaUoAZ6lXIF1Yn5fO2NZv9qjkatMufsF4Ke0C8t04ka1EQO1xm45LMLo_Ohka1dMAdIhOurOTItKX5U9XYr5hyGyj68Zg5H99axhJR5gd-G8RutMisV-y5Ur87gr1Nwsx_TK6U7-qpVq_eaYNmhn4OthNdr7yl9eCq2UJ6lP9yHqJMwyvzzYJp2z-8hm-0&t=4a8d4793	129	396.5771585616343	0.09550629314126209	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/about-cu-medicine/health-insights/new-minimally-invasive-procedure-for-osteoarthritis-knee-pain	63	3298.781898169448	0.05947819720747947	0.4856020942408377	3	0.007168145926266435	0.4618535586277522
+https://www.cumedicine.us/locations/	5	0.0	0.006704373483042405	0.398068669527897	3	0.0006708862725401688	1.0
+https://www.cumedicine.us/footer/quick-links/providers	128	394.69185175148436	0.09446304466495088	0.6042345276872965	2	0.007683224773209938	0.28813976377952755
+https://www.cumedicine.us/request-appointment	165	934.8818876994221	0.1261034455115254	0.6429809358752167	2	0.01005937394821609	0.4687361419068736
+https://www.cumedicine.us/providers/	129	396.5771585616343	0.09550629314126205	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/about-cu-medicine/health-insights/omicron-symptoms-and-treatment-what-to-know	65	3660.5375802560598	0.06007307344828452	0.48751642575558474	3	0.007687994818006703	0.4576923076923077
+https://www.cumedicine.us/get-care-from-home	165	1085.085190737764	0.12706235733035287	0.6429809358752167	2	0.010173154170802296	0.47753141167775315
+https://www.cumedicine.us/ResourcePackages/Assets/Images/fa-clock-o.svg	1	0.0	0.0013433240410279036	0.3942614240170032	3	0.0004647949238915052	0.0
+https://www.cumedicine.us/ResourcePackages/Assets/Images/anschutz-logo.svg	1	0.0	0.0013433240410279075	0.3942614240170032	3	0.0004647949238915052	0.0
+https://www.cumedicine.us/hipaa-compliance/	128	394.69185175148436	0.09446304466495085	0.6042345276872965	2	0.007683224773209938	0.28813976377952755
+https://www.cumedicine.us/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPsKCTdDkYIbE5yVbC_2yBF1lkGxhL2yDhyWdcnw-XVzF8D0N7ArHVukAmxKnfUwRYgjxQ5R_8ktNjhwBZpibp4ZBmkxhgY-n9xhN4hRKF9ExwP9hYKV3jDUTl7RvRfAjf_DDw0ZP86_m6DF0n9EV4ZgeomnoZld38vBuIdg-7Kwu_1f7tGzJAg1BGpsr96A3yfB1oNXJzNWfzRldOPfHIeA1&t=637299235520000000	129	396.5771585616343	0.09550629314126212	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/locations/CU-Medicine-Internal-Medicine---Cherry-Creek	94	3049.278015459116	0.07497285467643455	0.5075239398084815	3	0.008121238491831065	0.49279341111873715
+https://www.cumedicine.us/ResourcePackages/Assets/Images/IconStackedNav.png	129	396.5771585616343	0.09550629314126208	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.cumedicine.us/about-cu-medicine	169	3324.3123008048356	0.12595389194562723	0.6474694589877836	2	0.012428971052003383	0.4454775993237532
+https://www.cumedicine.us/patient-info/billing-inquiries	162	588.2417332693071	0.12686062121508448	0.6396551724137931	2	0.009591620681172166	0.4942872479104363
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Landmark	73	1542.6640757509174	0.06600504700005091	0.48751642575558474	3	0.005726897736727683	0.5422374429223744
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-john-c-hobbins-mfm---central-denver-co.pdf?sfvrsn=10e1db48_4	1	0.0	0.0013496058076189325	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/images/default-source/health-insights/leigh---ir---procedure-room---sample-photo.jpg?sfvrsn=44239f2_2&MaxWidth=350&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=8FA59BFD791DA93B609DB1E8EF0D48DE1A0ACE97	1	0.0	0.0006286312883993021	0.3271604938271605	4	0.0004999658039195084	0.0
+https://www.cumedicine.us/providers/family-medicine/amy-hulstrom/appointment/	2	0.0	0.0013260787244914738	0.32890070921985815	4	0.0005271913526734471	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/the-steven-a-cohen-military-family-clinic---greenwood-village-co.pdf?sfvrsn=83b53c3a_4	1	0.0	0.0013496058076189498	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/about-cu-medicine/health-insights/congratulations-to-cu-medicine-internal-medicine-cherry-creek	56	1111.6629363814163	0.05893941228835452	0.48119325551232167	3	0.0044774575623863265	0.551948051948052
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-401---highlands-ranch-co.pdf?sfvrsn=bd3eac20_4	1	0.0	0.0013496058076188815	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-family-medicine-depot-hill---broomfield-co.pdf?sfvrsn=7c925170_4	1	0.0	0.00134960580761893	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/images/default-source/provider-profile-pics/thomas-campbell-4502.tmb-small.jpg?sfvrsn=5a8ddf27_2	1	0.0	0.000634918597619299	0.3280282935455349	4	0.0005037869639645194	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-meicine-urology---highlands-ranch-co.pdf?sfvrsn=dfe60a14_4	1	0.0	0.0013496058076189177	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine---Park-Meadows/appointment/	2	0.12679537443688388	0.0013048453878310089	0.3300711743772242	4	0.000534014522678678	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-308---denver-co96a0ff9170544a0b9a8173fa9d5a188e.pdf?sfvrsn=95f4b514_4	1	0.0	0.0013496058076189075	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-geriatric-medicine-cherry-creek---denver-co.pdf?sfvrsn=d8b1b84e_4	1	0.0	0.0013496058076189117	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/julianne-garrison/appointment/	2	0.0	0.0013188343720724662	0.3300711743772242	4	0.0005339918419055378	1.0
+https://www.cumedicine.us/patient-info/billing-inquiries/	2	0.0	0.0026827917874850463	0.3934252386002121	3	0.0005121888685090437	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/childrens-colorado-briargate-center.pdf?sfvrsn=33649a23_8	1	0.0	0.0013496058076189214	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/heather-brougham	54	60.22122982761195	0.05949864830386864	0.47381864623243936	3	0.0033616141095298476	0.610062893081761
+https://www.cumedicine.us/hipaa-compliance	53	374.6629363814166	0.05813375857920095	0.4690265486725664	3	0.0035942453501098814	0.579100145137881
+https://www.cumedicine.us/docs/default-source/pdf-downloads/cu-medicine-insurance-contract-list.pdf	1	0.0	0.0013408030456593502	0.3909378292939937	3	0.00045612500583800005	0.0
+https://www.cumedicine.us/providers/family-medicine/jeff-leininger	54	60.22122982761195	0.0594986483038687	0.47381864623243936	3	0.0033616141095298476	0.610062893081761
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Landmark/appointment/	2	0.08585439717515189	0.0013121139589183045	0.32860938883968116	4	0.0005248908098047089	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-302---denver-cod260efad566a43948d18055b40a65cf2.pdf?sfvrsn=810aaccb_4	1	0.0	0.0013496058076189683	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/chrissie-patel	54	28.890169397615605	0.05964106311585374	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/providers/medicine/steven-johnson	55	558.2649827888226	0.05941517255727542	0.4768637532133676	3	0.003905176054537536	0.5872053872053872
+https://www.cumedicine.us/providers/family-medicine/heather-brougham/appointment/	2	0.0	0.0013261797654479702	0.32860938883968116	4	0.0005247257175622129	1.0
+https://www.cumedicine.us/providers/medicine/tracy-koller/appointment/	2	0.0	0.0014219739213721075	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-athletics-champions-training-room.pdf?sfvrsn=200e3206_4	1	0.0	0.0013496058076189522	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-orthopedics---broomfield-co.pdf?sfvrsn=f5845cd5_6	1	0.0	0.0013496058076189242	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-helen-and-arthur-e-johnson-depression-ctr---aurora-co.pdf?sfvrsn=38dde482_2	1	0.0	0.0013496058076189307	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/locations/CU-Specialty-Care-at-Highlands-Ranch---Interventional-Radiology-	66	2402.6217074766832	0.06208284447724598	0.4881578947368421	3	0.0063697594486303135	0.517948717948718
+https://www.cumedicine.us/specialties/family-medicine	58	376.47908672856533	0.06212371689853355	0.4881578947368421	3	0.0038932833589319497	0.6515426497277677
+https://www.cumedicine.us/providers/family-medicine/matthew-mcdowell	54	61.28116321621529	0.05949128657887019	0.47503201024327785	3	0.0033723558556069755	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/haley-wolf/appointment/	2	0.0	0.0013260787244915285	0.32890070921985815	4	0.0005271913526734471	1.0
+https://www.cumedicine.us/providers/family-medicine/aimee-zisner	57	495.38989120904176	0.060264187388412875	0.4818181818181818	3	0.003920961071070108	0.5795739348370927
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-peds-cardiology-avmc---la-junta-co.pdf?sfvrsn=eee730dd_4	1	0.0	0.0013496058076189268	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/annie-moore/appointment/	2	0.0	0.0014219739213721314	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/providers/medicine/catherine-spaulding	54	28.890169397615605	0.05964106311585372	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/providers/medicine/catherine-spaulding/appointment/	2	0.0	0.001421973921372086	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-low-vision-rehabilitation-amc---aurora-co.pdf?sfvrsn=d4eb58d7_4	1	0.0	0.0013496058076189028	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/locations/I	2	0.09858333490408962	0.001312013974705465	0.32890070921985815	4	0.0005273185512253988	0.0
+https://www.cumedicine.us/specialties/internal-medicine	62	6.2343308383238325	0.06520171537637458	0.4830729166666667	3	0.003733977754731877	0.7080909571655208
+https://www.cumedicine.us/providers/family-medicine/jessica-rolles	54	60.22122982761195	0.05949864830386865	0.47381864623243936	3	0.0033616141095298476	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/steven-ryan/appointment/	2	0.0	0.0013400223173048837	0.33095450490633366	4	0.0005276744686624864	1.0
+https://www.cumedicine.us/providers/family-medicine/katherin-compton/appointment/	2	0.0	0.0013261797654479626	0.32860938883968116	4	0.0005247257175622129	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-302---highlands-ranch-co.pdf?sfvrsn=21b3e3c5_4	1	0.0	0.001349605807618913	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-steadman-hawkins-inverness---englewood-co.pdf?sfvrsn=2bb266ff_4	1	0.0	0.0013496058076189357	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/sarah-van-duzer-moore/appointment/	2	0.0	0.0014219739213721212	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/providers/medicine/matthew-decamp	54	28.890169397615605	0.05964106311585371	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/angelo-alago/appointment/	2	0.0	0.0013260787244915259	0.32890070921985815	4	0.0005271913526734471	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-203---highlands-ranch-co.pdf?sfvrsn=36858af_4	1	0.0	0.0013496058076189273	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/cindy-rakotz/appointment/	2	0.0	0.0014219739213720754	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/images/default-source/provider-profile-pics/steven-johnson-6292.tmb-small.jpg?sfvrsn=4a266f0d_2	1	0.0	0.000634918597619358	0.3280282935455349	4	0.0005037869639645194	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-301---highlands-ranch-co.pdf?sfvrsn=8adba5fa_4	1	0.0	0.0013496058076189242	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/chrissie-patel/appointment/	2	0.0	0.0014219739213721077	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-ph-amc-hlth-ctr---aurora-co.pdf?sfvrsn=4d2391bd_4	1	0.0	0.0013496058076189245	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-hemophilia-and-thrombosis-center---aurora-co.pdf?sfvrsn=13a388b9_4	1	0.0	0.0013496058076189021	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/radiology/leigh-casadaban	56	473.16884103791386	0.06007848660039838	0.48119325551232167	3	0.003894951717963322	0.6
+https://www.cumedicine.us/bundles/location-search?v=s-fXYA_Pma4gWpOX0UUoKmHc7WnA4eoSa40e9nwberA1	4	0.05660377358490566	0.0032068981351686798	0.39217758985200846	3	0.0006133566223030061	0.5
+https://www.cumedicine.us/providers/family-medicine/kelly-lublin/appointment/	2	0.0	0.0013400223173048854	0.33095450490633366	4	0.0005276744686624864	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-501---highlands-ranch-co.pdf?sfvrsn=86635a72_4	1	0.0	0.0013496058076189427	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/stephen-alix	54	28.890169397615605	0.05964106311585372	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/cara-rabin/appointment/	2	0.0	0.0013400223173049117	0.33095450490633366	4	0.0005276744686624864	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-center-for-midwifery---longmont-co.pdf?sfvrsn=1650a7d2_4	1	0.0	0.001349605807618916	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/celina-ayala	54	61.28116321621529	0.05949128657887019	0.47503201024327785	3	0.0033723558556069755	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/julianne-garrison	57	616.5303687858582	0.060140087016632204	0.4799482535575679	3	0.004063392182471515	0.5802005012531328
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-406---denver-cod386a5e9253d4333832783a4de881dc0.pdf?sfvrsn=75bbe61a_4	1	0.0	0.001349605807618931	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-210---highlands-ranch-co.pdf?sfvrsn=8a3863f6_4	1	0.0	0.0013496058076189119	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/jennifer-hronkin	54	51.629482511688394	0.05951915082709118	0.47503201024327785	3	0.003357002174219642	0.610062893081761
+https://www.cumedicine.us/patient-info/patient-resources/	2	0.0	0.0026732084709816892	0.3967914438502674	3	0.000524374515807085	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-nephrology---longmont-co.pdf?sfvrsn=bd2f7ee4_4	1	0.0	0.0013496058076189323	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/robert-knepshield	54	61.28116321621529	0.0594912865788702	0.47503201024327785	3	0.0033723558556069755	0.610062893081761
+https://www.cumedicine.us/%5Bf669d9a7-009d-4d83-ddaa-000000000002%5D7d49b8d9-21fc-4dfc-b0e4-0c29c8251162	1	0.0	0.001342380794389584	0.3917634635691658	3	0.00045710578734382384	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-family-medicine-landmark---greenwood-village-co.pdf?sfvrsn=66c67b47_4	1	0.0	0.0013496058076189058	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-school-of-dental-medicine-aurora-co.pdf?sfvrsn=4d335340_4	1	0.0	0.0013496058076189392	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/matthew-mcdowell/appointment/	2	0.0	0.001318834372072434	0.3300711743772242	4	0.0005339918419055378	1.0
+https://www.cumedicine.us/patient-info/common-clinical-fees/	2	0.0	0.0026907064416915078	0.41732283464566927	3	0.0005963354337071413	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-maternal-fetal-medicine---parker-co.pdf?sfvrsn=f8051ec_4	1	0.0	0.0013496058076189544	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/newsletter-subscribe	124	122.91295493658676	0.09870736591626843	0.5471976401179941	3	0.007125727389314254	0.508130081300813
+https://www.cumedicine.us/providers/family-medicine/aimee-zisner/appointment/	3	0.4533806418420854	0.0020450884819993294	0.33788706739526414	4	0.0005935407728958425	0.6666666666666666
+https://www.cumedicine.us/bundles/insurance?v=tYi4qkioEqpUOc6TtBVpupeezQVtyckXKBHOsqRIdeI1	1	0.0	0.0013408030456593385	0.3909378292939937	3	0.00045612500583800005	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-304---denver-co0032e3f87d7546f79d1cda9a447bbc35.pdf?sfvrsn=a747a53a_4	1	0.0	0.0013496058076189114	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/annie-moore	55	398.8901693976154	0.059647726123095345	0.479328165374677	3	0.003728269494321785	0.5878787878787879
+https://www.cumedicine.us/providers/family-medicine/katherin-compton	54	60.22122982761195	0.05949864830386869	0.47381864623243936	3	0.0033616141095298476	0.610062893081761
+https://www.cumedicine.us/providers/medicine/christopher-schultz/appointment/	2	0.0	0.0014219739213720936	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/providers/family-medicine/jeff-leininger/appointment/	2	0.0	0.001326179765447945	0.32860938883968116	4	0.0005247257175622129	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-internal-medicine-cherry-creek---denver-co.pdf?sfvrsn=17eb4fef_4	1	0.0	0.0013496058076189268	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/uploaded-files/FSClinicServiceFees/CU%20Family%20Medicine%20-%20Centennial.pdf	2	0.7223785703544481	0.0013674705729898348	0.33974358974358976	4	0.000554865885201958	0.0
+https://www.cumedicine.us/providers/medicine/sarah-van-duzer-moore	54	28.890169397615605	0.05964106311585372	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-210---denver-cobf124051cad441318461ce5749d51047.pdf?sfvrsn=bbc60127_4	1	0.0	0.0013496058076189045	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-obstetrics-and-gynecology---parker-co.pdf?sfvrsn=a5f07799_2	1	0.0	0.0013496058076189455	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-obstetrics-and-gynecology---east-denver-co.pdf?sfvrsn=33389585_4	1	0.0	0.0013496058076189511	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/tracy-koller	54	28.890169397615605	0.05964106311585372	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/providers/medicine/thomas-campbell	54	188.2649827888226	0.05940853552765595	0.4756410256410256	3	0.003511145618500213	0.6093640810621943
+https://www.cumedicine.us/bundles/health-insights?v=y7-u_O7Oo9ZQKq6H4i4innw8zDizSWnevcsRK5fwDtU1	1	0.0	0.001340951566427255	0.3909378292939937	3	0.00045524931166976553	0.0
+https://www.cumedicine.us/%5Bf669d9a7-009d-4d83-ddaa-000000000002%5D731c81f9-2597-482e-a083-bcae8a140cb4	1	0.0	0.001342380794389552	0.3917634635691658	3	0.00045710578734382384	0.0
+https://www.cumedicine.us/providers/family-medicine/haley-wolf	54	61.7306785067988	0.05949846239759523	0.4744245524296675	3	0.003364331964528985	0.610062893081761
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-202---denver-co.pdf?sfvrsn=e92dafd_6	1	0.0	0.0013496058076189054	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-orthopedics---longmont-co.pdf?sfvrsn=4c3bb12d_4	1	0.0	0.001349605807618893	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-athletics-coors-training-room-boulder-co.pdf?sfvrsn=28108754_4	1	0.0	0.001349605807618945	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/covid-19-response	3	4.5927960927960925	0.0026982983603369946	0.3951011714589989	3	0.0008115951858589108	0.3333333333333333
+https://www.cumedicine.us/providers/medicine/diana-francu/appointment/	2	0.0	0.0014219739213721361	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/providers/family-medicine/amy-hulstrom	54	61.7306785067988	0.05949846239759524	0.4744245524296675	3	0.003364331964528985	0.610062893081761
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-healthcare-partners-at-belleview-point---aurora-co067ef9249d94476c920644ce1ffa41c1.pdf?sfvrsn=dfeabe89_4	1	0.0	0.0013496058076189236	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/angelo-alago	55	431.73067850679826	0.05950510947370532	0.4756410256410256	3	0.0037564080626683264	0.5878787878787879
+https://www.cumedicine.us/providers/medicine/diana-francu	54	28.890169397615605	0.05964106311585373	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/luis-lorenzo	54	61.7306785067988	0.05949846239759525	0.4744245524296675	3	0.003364331964528985	0.610062893081761
+https://www.cumedicine.us/about-cu-medicine/employment-opportunities/	2	0.0	0.0026726150109002353	0.3959445037353255	3	0.0005228274072705744	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-barbara-davis-center---aurora-co.pdf?sfvrsn=48ed7314_4	1	0.0	0.0013496058076189386	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/bundles/provider-search?v=VwFWocVm7IsyjzzvT3Z0mxryHE5YcjmQK6EBA-CqtnM1	4	0.05660377358490566	0.0032219472022129592	0.39135021097046413	3	0.0006124586503126911	0.5
+https://www.cumedicine.us/providers/family-medicine/robert-knepshield/appointment/	2	0.0	0.001318834372072471	0.3300711743772242	4	0.0005339918419055378	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-dermatology---aurora-co.pdf?sfvrsn=5a134dda_4	1	0.0	0.0013496058076189336	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-306---denver-cocfe528a2c8ff466494c5cd5041dec022.pdf?sfvrsn=ca1a6ee4_4	1	0.0	0.001349605807618915	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/shoshana-seigel	54	61.7306785067988	0.05949846239759526	0.4744245524296675	3	0.003364331964528985	0.610062893081761
+https://www.cumedicine.us/specialties/psychology	57	6.479086728565586	0.06211677575760124	0.4868766404199475	3	0.003501900621169406	0.674812030075188
+https://www.cumedicine.us/about-cu-medicine/health-insights/schedule-your-covid-19-vaccine	1	0.0	0.0013415463479417521	0.3925925925925926	3	0.0004620462167920307	0.0
+https://www.cumedicine.us/providers/family-medicine/jennifer-hronkin/appointment/	2	0.0	0.0013400223173049212	0.33095450490633366	4	0.0005276744686624864	1.0
+https://www.cumedicine.us/locations/CU-Medicine-Internal-Medicine---Cherry-Creek/appointment/	2	0.1546242238397154	0.0014069062452518478	0.3375796178343949	4	0.0005316836524945041	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-412---denver-co57deee25d30d4ac29b0da67a6429e691.pdf?sfvrsn=22d3a476_4	1	0.0	0.0013496058076189106	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/luis-lorenzo/appointment/	2	0.0	0.0013260787244914688	0.32890070921985815	4	0.0005271913526734471	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-bh-amc-hlth-ctr--denver-co.pdf?sfvrsn=3ac1077f_6	1	0.0	0.0013496058076189513	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-medical-oncology---highlands-ranch-co.pdf?sfvrsn=8b199933_4	1	0.0	0.0013496058076189253	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/about-cu-medicine/employment-opportunities/letter-from-our-coo	52	4.662936381416785	0.058127264691175844	0.467843631778058	3	0.0032025180031471216	0.6018099547511312
+https://www.cumedicine.us/providers/pediatrics/kate-laporta/appointment/	2	0.0	0.0013400223173048811	0.33095450490633366	4	0.0005276744686624864	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-som-ob-gyn-clinic---denver-co.pdf?sfvrsn=f54b52f7_4	1	0.0	0.0013496058076189273	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/shoshana-seigel/appointment/	2	0.0	0.0013260787244914823	0.32890070921985815	4	0.0005271913526734471	1.0
+https://www.cumedicine.us/providers/medicine/phillip-hitchcock/appointment/	2	0.0	0.0014219739213721181	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/privacy-policy-terms-of-use	52	4.662936381416785	0.05812726469117584	0.467843631778058	3	0.0032025180031471216	0.6018099547511312
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-psych-student-health-clinic---aurora-co.pdf?sfvrsn=7e77abc7_4	1	0.0	0.0013496058076189095	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/covid-19-response/	2	2.7333333333333325	0.0013597384578639459	0.3942614240170032	3	0.0006956867489869055	0.0
+https://www.cumedicine.us/images/default-source/default-album/sheral-c-twins-image.jpg?sfvrsn=79bfb976_0	1	0.0	0.0013312198602200697	0.3934252386002121	3	0.0004657244358333279	0.0
+https://www.cumedicine.us/get-care-today	2	0.0	0.002352614151163531	0.39217758985200846	3	0.0005075614402284664	1.0
+https://www.cumedicine.us/providers/family-medicine/jaclyn-bassett/appointment/	2	0.0	0.0013188343720724326	0.3300711743772242	4	0.0005339918419055378	1.0
+https://www.cumedicine.us/providers/medicine/matthew-decamp/appointment/	2	0.0	0.0014219739213721073	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/providers/medicine/christopher-schultz	55	398.89016939761547	0.05964772612309533	0.479328165374677	3	0.003728269494321785	0.5878787878787879
+https://www.cumedicine.us/providers/family-medicine/cara-rabin	55	421.6294825116882	0.05952580021448065	0.4762516046213094	3	0.003748980689296596	0.5878787878787879
+https://www.cumedicine.us/images/default-source/default-album/ianandtroy.jpg?sfvrsn=2d6e52db_0	1	0.0	0.0013312198602201167	0.3934252386002121	3	0.0004657244358333279	0.0
+https://www.cumedicine.us/providers/medicine/stephen-alix/appointment/	2	0.0	0.0014219739213720795	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/providers/family-medicine/jaclyn-bassett	54	61.28116321621529	0.05949128657887021	0.47503201024327785	3	0.0033723558556069755	0.610062893081761
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-asthma-and-allergry-assoc-pueblo-co.pdf?sfvrsn=16c98be9_4	1	0.0	0.0013496058076189134	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/school-of-pharmacy/ashley-daffron	54	28.890169397615605	0.059641063115853724	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Centennial/appointment/	2	0.10453235338792705	0.0013258117375202518	0.33095450490633366	4	0.0005277942101726998	0.0
+https://www.cumedicine.us/providers/family-medicine/kelly-lublin	54	51.629482511688394	0.05951915082709114	0.47503201024327785	3	0.003357002174219642	0.610062893081761
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-maternal-fetal-medicine---littleton-co2fae0c9785714f7689266e7041d29262.pdf?sfvrsn=c4df4383_4	1	0.0	0.001349605807618922	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/images/default-source/health-insights/slide5.jpg?sfvrsn=2742c81a_3&MaxWidth=300&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=9CF2C3355D59A963FC9C7FD2E7EA136EFC42B5B9	1	0.0	0.000628631288399277	0.3271604938271605	4	0.0004999658039195084	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-marcus-institute-for-brain-health---aurora-co66684e09ccc644c282dd0ca070ba3c16.pdf?sfvrsn=a6ae0add_4	1	0.0	0.0013496058076189414	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/pediatrics/kate-laporta	55	148.9194815506289	0.05954573181137548	0.4762516046213094	3	0.0034889839973839217	0.5878787878787879
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-anschutz-health-and-wellness-center-aurora-co.pdf?sfvrsn=a2778f76_4	1	0.0	0.0013496058076189284	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/steven-ryan	54	51.629482511688394	0.05951915082709114	0.47503201024327785	3	0.003357002174219642	0.610062893081761
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-healthcare-partners-at-belleview-point---aurora-co.pdf?sfvrsn=7cd22cce_4	1	0.0	0.0013496058076189453	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/medicine/phillip-hitchcock	54	28.890169397615605	0.059641063115853724	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cide-assistive-technology-partners-denver-co.pdf?sfvrsn=49489011_4	1	0.0	0.001349605807618955	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-family-medicine-centennial---centennial-co.pdf?sfvrsn=638c13a8_4	1	0.0	0.001349605807618943	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-psych-bldg-500---aurora-co.pdf?sfvrsn=b1741205_4	1	0.0	0.0013496058076189464	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-402---highlands-ranch-co.pdf?sfvrsn=92b08e3f_4	1	0.0	0.001349605807618935	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-312---denver-coc1ec9f4aa3774e2786d18b86a6fecf57.pdf?sfvrsn=e99bd13a_4	1	0.0	0.0013496058076189015	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Depot-Hill/appointment/	2	0.09858333490408962	0.0013120139747054976	0.32890070921985815	4	0.0005273185512253988	0.0
+https://www.cumedicine.us/providers/school-of-pharmacy/ashley-daffron/appointment/	2	0.0	0.0014219739213720867	0.3375796178343949	4	0.000531624778987016	1.0
+https://www.cumedicine.us/about-cu-medicine/health-insights/covid-19-vaccine	61	2587.3139335324126	0.0589305686825903	0.48370273794002605	3	0.0063095240574192555	0.4672131147540984
+https://www.cumedicine.us/providers/family-medicine/jessica-rolles/appointment/	2	0.0	0.0013261797654479717	0.32860938883968116	4	0.0005247257175622129	1.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-uchealth-cherry-creek-medical-ctr-suite-402---denver-co708999d4f0df4c27b8225345bf71efd9.pdf?sfvrsn=d356d52a_4	1	0.0	0.0013496058076189104	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-sports-medicine-and-performance-center-boulder-co.pdf?sfvrsn=6d119095_4	1	0.0	0.0013496058076189418	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/family-medicine/celina-ayala/appointment/	2	0.0	0.0013188343720724552	0.3300711743772242	4	0.0005339918419055378	1.0
+https://www.cumedicine.us/about-cu-medicine/employment-opportunities/benefits	53	4.662936381416785	0.05874818035509401	0.4684343434343434	3	0.0032547417312362103	0.6168359941944848
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-highlands-ranch-specialty-care-center-suite-201---highlands-ranch-co.pdf?sfvrsn=5aadbae9_4	1	0.0	0.001349605807618946	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/docs/default-source/pdf-downloads/cchi-surprise-billing-notification-8-2-21.pdf?sfvrsn=8b95f318_2	1	0.0	0.0013419886107616243	0.3930084745762712	3	0.00046187588642537005	0.0
+https://www.cumedicine.us/docs/default-source/common-clinical-fees/2021-fees/cu-medicine-vascular-surgery---aurora-co.pdf?sfvrsn=13238831_4	1	0.0	0.0013496058076189284	0.4163860830527497	3	0.0005450125916861531	0.0
+https://www.cumedicine.us/providers/radiology/premal-trivedi/appointment/	1	0.0	0.0006561600778699145	0.32831858407079645	4	0.0004852819524665859	0.0
+https://www.cumedicine.us/specialties/vascular-and-interventional-radiology-radiology	53	4.168734592574306	0.05941650369006355	0.4726114649681529	3	0.0032721420620440236	0.6328011611030478
+https://www.cumedicine.us/providers/medicine/cindy-rakotz	54	28.890169397615605	0.059641063115853724	0.47809278350515466	3	0.0033365631176299967	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/jennifer-hronkin/appointment	54	174.18146360702704	0.05948581694336707	0.47503201024327785	3	0.003483904514032438	0.610062893081761
+https://www.cumedicine.us/specialties/pulmonary-disease-internal-medicine	53	4.003078026917741	0.05944946736286674	0.4684343434343434	3	0.0032412945856770204	0.6335268505079826
+https://www.cumedicine.us/docs/default-source/pdf-downloads/cu-som-notice-of-privacy-practices.pdf	1	0.0	0.0006144217758930312	0.3195521102497847	4	0.00046089583519701166	0.0
+https://www.cumedicine.us/locations/UCHealth-Anschutz-Inpatient-Pavilion-UCH-AIP/appointment/	1	0.0	0.0006279651742781632	0.3231707317073171	4	0.00046360425093478847	0.0
+https://www.cumedicine.us/providers/family-medicine/matthew-mcdowell/appointment	54	175.9845964790098	0.05946462899813464	0.47503201024327785	3	0.003492766022965078	0.610062893081761
+https://www.cumedicine.us/providers/radiology/gordon-mclennan/appointment/	1	0.0	0.0006561600778699267	0.32831858407079645	4	0.0004852819524665859	0.0
+https://www.cumedicine.us/providers/medicine/sarah-van-duzer-moore/appointment	54	165.80888190151336	0.059567768547434286	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/robert-knepshield/appointment	54	175.98459647900992	0.059464628998134636	0.47503201024327785	3	0.003492766022965078	0.610062893081761
+https://www.cumedicine.us/providers/medicine/diana-francu/appointment	54	165.80888190151342	0.05956776854743432	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/locations?specialty=Psychology	54	44.03859775707814	0.05881767743416705	0.4690265486725664	3	0.0033850790759082454	0.593990216631726
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine---Park-Meadows/	6	0.296995108315863	0.003841051883870001	0.33184257602862255	4	0.0007520428782367709	0.3333333333333333
+https://www.cumedicine.us/providers/family-medicine/katherin-compton/appointment	54	177.18985044515654	0.059471974391510106	0.47381864623243936	3	0.003479767054121909	0.610062893081761
+https://www.cumedicine.us/locations?specialty=Family%20Medicine	54	44.586216804697195	0.058817750795811675	0.46962025316455697	3	0.00338991473820409	0.593990216631726
+https://www.cumedicine.us/providers/pediatrics/kate-laporta/appointment	54	174.18146360702704	0.05948581694336704	0.47503201024327785	3	0.003483904514032438	0.610062893081761
+https://www.cumedicine.us/locations/UCHealth-Anschutz-Outpatient-Pavilion-UCH-AOP/appointment/	2	0.037037037037037035	0.0012558602010959545	0.3237347294938918	4	0.0005188976985401569	0.0
+https://www.cumedicine.us/locations/UCHealth-University-of-Colorado-Hospital-UCH/appointment/	4	0.13567085152089453	0.002514970308356018	0.3271604938271605	4	0.000621247796968865	0.0
+https://www.cumedicine.us/providers/medicine/catherine-spaulding/appointment	54	165.80888190151336	0.059567768547434306	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/providers/radiology/gordon-mclennan	55	182.82343478212636	0.059469725170523756	0.47503201024327785	3	0.003537210654451481	0.5872053872053872
+https://www.cumedicine.us/locations/CU-Medicine-Internal-Medicine---Cherry-Creek/	13	1.6481481481481484	0.008356768410822519	0.3416206261510129	4	0.0011174195079574325	0.15384615384615385
+https://www.cumedicine.us/providers/family-medicine/angelo-alago/appointment	54	177.28046898729448	0.0594718733505537	0.4744245524296675	3	0.0034832259469252157	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/julianne-garrison/appointment	54	175.98459647900972	0.05946462899813466	0.47503201024327785	3	0.003492766022965078	0.610062893081761
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Landmark/	6	0.2702181633688483	0.0038499425001927282	0.33303411131059246	4	0.000740181339481689	0.3333333333333333
+https://www.cumedicine.us/providers/radiology/george-zlotchenko/appointment/	1	0.0	0.0006561600778699374	0.32831858407079645	4	0.0004852819524665859	0.0
+https://www.cumedicine.us/providers/medicine/cindy-rakotz/appointment	54	165.80888190151336	0.05956776854743428	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/steven-ryan/appointment	54	174.18146360702687	0.05948581694336708	0.47503201024327785	3	0.003483904514032438	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/jessica-rolles/appointment	54	177.18985044515665	0.059471974391510134	0.47381864623243936	3	0.003479767054121909	0.610062893081761
+https://www.cumedicine.us/404	53	177.2683567565711	0.05814113150412648	0.4690265486725664	3	0.003426600049580736	0.579100145137881
+https://www.cumedicine.us/providers/family-medicine/celina-ayala/appointment	54	175.98459647900998	0.05946462899813464	0.47503201024327785	3	0.003492766022965078	0.610062893081761
+https://www.cumedicine.us/providers/radiology/george-zlotchenko	55	182.82343478212636	0.05946972517052375	0.47503201024327785	3	0.003537210654451481	0.5872053872053872
+https://www.cumedicine.us/providers/family-medicine/jaclyn-bassett/appointment	54	175.98459647900998	0.05946462899813463	0.47503201024327785	3	0.003492766022965078	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/amy-hulstrom/appointment	54	177.28046898729448	0.05947187335055368	0.4744245524296675	3	0.0034832259469252157	0.610062893081761
+https://www.cumedicine.us/providers/medicine/phillip-hitchcock/appointment	54	165.80888190151347	0.05956776854743428	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Depot-Hill/	6	0.25925925925925924	0.00384181189380835	0.3303650934995548	4	0.0007423473426601057	0.3333333333333333
+https://www.cumedicine.us/providers/family-medicine/haley-wolf/appointment	54	177.28046898729448	0.059471873350553685	0.4744245524296675	3	0.0034832259469252157	0.610062893081761
+https://www.cumedicine.us/providers/medicine/christopher-schultz/appointment	54	165.8088819015134	0.0595677685474343	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/locations/CU-Medicine-Interventional-Radiology-Highlands-Ranch-Specialty-Care-Center/	4	0.19369394883413577	0.002520601049453588	0.32744924977934686	4	0.000626445745900456	0.0
+https://www.cumedicine.us/providers/family-medicine/luis-lorenzo/appointment	54	177.2804689872946	0.05947187335055367	0.4744245524296675	3	0.0034832259469252157	0.610062893081761
+https://www.cumedicine.us/providers/radiology/premal-trivedi	55	182.82343478212636	0.05946972517052372	0.47503201024327785	3	0.003537210654451481	0.5872053872053872
+https://www.cumedicine.us/providers?specialty=Psychology	54	43.76391605388484	0.05945091541034868	0.4690265486725664	3	0.0033724561226354997	0.6107617051013278
+https://www.cumedicine.us/services/sports-medicine/	1	0.0	0.0006565920627662678	0.32831858407079645	4	0.0004603044119978388	0.0
+https://www.cumedicine.us/providers/medicine/annie-moore/appointment	54	165.80888190151336	0.0595677685474343	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/providers?specialty=Internal%20Medicine	54	43.76391605388484	0.059483520459900206	0.4690265486725664	3	0.003371421849033088	0.6107617051013278
+https://www.cumedicine.us/providers/family-medicine/heather-brougham/appointment	54	177.1898504451565	0.059471974391510134	0.47381864623243936	3	0.003479767054121909	0.610062893081761
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Centennial/	7	0.5347867121065958	0.004493920868685599	0.3357466063348416	4	0.0008018186580619321	0.2857142857142857
+https://www.cumedicine.us/locations/UCH---Infectious-Disease-Clinic/appointment/	1	0.0	0.0006304230572431156	0.3243006993006993	4	0.000460870579693823	0.0
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Centennial/appointment	53	174.18375502647146	0.05814127733412506	0.4690265486725664	3	0.0034268030439272043	0.579100145137881
+https://www.cumedicine.us/specialties/medical-oncology-internal-medicine	53	4.003078026917741	0.05944946736286669	0.4684343434343434	3	0.0032412945856770204	0.6335268505079826
+https://www.cumedicine.us/about-cu-medicine/employment-opportunities/benefits/insurance-plans-and-rates	53	4.662936381416785	0.05874818035509401	0.4684343434343434	3	0.0032547417312362103	0.6168359941944848
+https://www.cumedicine.us/providers?specialty=Family%20Medicine	54	44.26391605388484	0.05945098877199333	0.46962025316455697	3	0.003377291784931344	0.6107617051013278
+https://www.cumedicine.us/locations/Radiology--Imaging---Anschutz-Inpatient-Pavilion/appointment/	1	0.0	0.0006349758097903021	0.32515337423312884	4	0.0004623703228387021	0.0
+https://www.cumedicine.us/providers/family-medicine/shoshana-seigel/appointment	54	177.2804689872946	0.059471873350553685	0.4744245524296675	3	0.0034832259469252157	0.610062893081761
+https://www.cumedicine.us/providers/medicine/tracy-koller/appointment	54	165.80888190151333	0.05956776854743429	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/locations?specialty=Internal%20Medicine	54	44.04361028840647	0.05885028248371851	0.4690265486725664	3	0.003384044802305834	0.593990216631726
+https://www.cumedicine.us/locations/CU-Medicine-Interventional-Radiology-Highlands-Ranch-Specialty-Care-Center/appointment/	1	0.0	0.0006561600778699152	0.32831858407079645	4	0.0004852819524665859	0.0
+https://www.cumedicine.us/specialties/sports-medicine-internal-medicine	53	4.003078026917741	0.05944946736286673	0.4684343434343434	3	0.0032412945856770204	0.6335268505079826
+https://www.cumedicine.us/providers/family-medicine/aimee-zisner/appointment	55	113.33432124449982	0.06019088310806146	0.4799482535575679	3	0.0034945150019228613	0.622895622895623
+https://www.cumedicine.us/specialties/hematology-and-oncology-internal-medicine	53	4.003078026917741	0.059449467362866736	0.4684343434343434	3	0.0032412945856770204	0.6335268505079826
+https://www.cumedicine.us/locations/CU-Medicine-Internal-Medicine---Cherry-Creek/appointment	53	165.81228543738163	0.05814213443046073	0.4690265486725664	3	0.0034284600185748174	0.579100145137881
+https://www.cumedicine.us/providers/radiology/leigh-casadaban/appointment/	1	0.0	0.0006561600778699528	0.32831858407079645	4	0.0004852819524665859	0.0
+https://www.cumedicine.us/providers/family-medicine/jeff-leininger/appointment	54	177.1898504451566	0.0594719743915101	0.47381864623243936	3	0.003479767054121909	0.610062893081761
+https://www.cumedicine.us/specialties/adult-congenital-heart-disease-internal-medicine	53	4.003078026917741	0.059449467362866715	0.4684343434343434	3	0.0032412945856770204	0.6335268505079826
+https://www.cumedicine.us/providers/family-medicine/cara-rabin/appointment	54	174.1814636070269	0.05948581694336709	0.47503201024327785	3	0.003483904514032438	0.610062893081761
+https://www.cumedicine.us/providers/medicine/chrissie-patel/appointment	54	165.80888190151336	0.05956776854743432	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Depot-Hill/appointment	53	177.26835675657117	0.058141131504126455	0.4690265486725664	3	0.003426600049580736	0.579100145137881
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine---Park-Meadows/appointment	53	175.9124267394615	0.05814105573858186	0.4690265486725664	3	0.003429445366630829	0.579100145137881
+https://www.cumedicine.us/specialties/infectious-disease-internal-medicine	53	4.003078026917741	0.05944946736286675	0.4684343434343434	3	0.0032412945856770204	0.6335268505079826
+https://www.cumedicine.us/specialties/geriatric-medicine-internal-medicine	53	4.003078026917741	0.0594494673628667	0.4684343434343434	3	0.0032412945856770204	0.6335268505079826
+https://www.cumedicine.us/providers/school-of-pharmacy/ashley-daffron/appointment	54	165.8088819015135	0.059567768547434306	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/providers/family-medicine/kelly-lublin/appointment	54	174.1814636070269	0.05948581694336707	0.47503201024327785	3	0.003483904514032438	0.610062893081761
+https://www.cumedicine.us/providers/medicine/matthew-decamp/appointment	54	165.80888190151347	0.05956776854743429	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/providers/medicine/stephen-alix/appointment	54	165.80888190151347	0.059567768547434286	0.47809278350515466	3	0.003489450226450307	0.610062893081761
+https://www.cumedicine.us/locations/CU-Medicine-Family-Medicine-Landmark/appointment	53	177.1952801096255	0.0581411325608701	0.4690265486725664	3	0.0034255684586023505	0.579100145137881
+https://www.personapay.com/cumedicine/login	131	396.5948114897178	0.09753588962831398	0.6072013093289689	2	0.007833857158607477	0.31697005284791546
+https://www.datapay3.com/c/upi01/login.asp	130	396.5771585616343	0.09653716016213587	0.6062091503267973	2	0.007782863596361894	0.3066189624329159
+https://www.datapay3.com/c/upi01	129	394.69185175148436	0.09549391168582458	0.6052202283849919	2	0.007734031616500779	0.29917635658914726
+https://www.pinterest.com/CUMedicine/_created/	129	396.5771585616343	0.09550629314126208	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.youtube.com/channel/UCcFmi-WPVBlr8nJ2Rx7V34A	129	396.5771585616343	0.09550629314126213	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.linkedin.com/company/university-of-colorado-medicine/	129	396.5771585616343	0.09550629314126209	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://portal.mypropago.com/login/CUMedicine	128	394.69185175148436	0.09446304466495085	0.6042345276872965	2	0.007683224773209938	0.28813976377952755
+https://twitter.com/cu_medicine	129	396.5771585616343	0.0955062931412621	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://instagram.com/cu.medicine	129	396.5771585616343	0.09550629314126212	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.facebook.com/cumedicine.us	129	396.5771585616343	0.0955062931412621	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://som.ucdenver.edu/?ReturnUrl=%2FFIMS%2F	128	394.69185175148436	0.09446304466495087	0.6042345276872965	2	0.007683224773209938	0.28813976377952755
+https://advertisecast-76-adswizz.attribution.adswizz.com/fire?pixelId=dcf6ad0e-4acd-46c1-aa12-46cb3e6f327b&type=sitevisit&subtype=Sitewide&aw_0_req.gdpr=true	129	396.5771585616343	0.09550629314126206	0.6052202283849919	2	0.007732056753071053	0.29578488372093026
+https://www.facebook.com/tr?id=798596687251185&ev=PageView&noscript=1	128	394.69185175148436	0.09446304466495085	0.6042345276872965	2	0.007683224773209938	0.28813976377952755
+https://cumedicine.marketingautomation.services/forms-proxy/MzawMLE0MTWyBAA/SzG1MEs2MTXTTbQwTdQ1MTVO1bW0SEkGskzMjNMSzczMDQwA	42	76.18336325729715	0.038808354194988105	0.520336605890603	3	0.003027694848431986	0.6573751451800233
+https://clinicaltrials.gov/ct2/show/NCT03491397?term=genicular+artery+embolization&draw=2&rank=4	1	0.0	0.0006286312883992643	0.3271604938271605	4	0.0004999658039195084	0.0
+https://medschool.cuanschutz.edu/docs/librariesprovider320/communication-materials/mab-eligibility-infographic-21-827-(2).pdf?sfvrsn=4a45cbba_0	1	0.0	0.0006349185976193778	0.3280282935455349	4	0.0005037869639645194	0.0
+https://mychart.childrenscolorado.org/MyChart/	2	0.0	0.0026765118990138216	0.3925925925925926	3	0.0005067789242990272	1.0
+https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/omicron-symptoms-and-treatment-what-to-know	1	0.0	0.0006349185976193591	0.3280282935455349	4	0.0005037869639645194	0.0
+https://covid19.colorado.gov/how-to-quarantine	1	0.0	0.0013415463479417617	0.3925925925925926	3	0.0004620462167920307	0.0
+https://careers.uchealth.org/	1	0.0	0.0013413951506802172	0.39217758985200846	3	0.0004603287778888594	0.0
+https://www.sirweb.org/media-and-pubs/media/news-release-archive/sir-2021-knee-pain-031621/	1	0.0	0.0006286312883993033	0.3271604938271605	4	0.0004999658039195084	0.0
+https://covid19.colorado.gov/public-health-executive-orders	1	0.0	0.0013415463479417324	0.3925925925925926	3	0.0004620462167920307	0.0
+https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html	1	0.0	0.0013415463479417317	0.3925925925925926	3	0.0004620462167920307	0.0
+https://news.cuanschutz.edu/	1	0.0	0.0006349185976193613	0.3280282935455349	4	0.0005037869639645194	0.0
+https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/tips-for-a-healthy-heart	1	0.0	0.0006287194226250299	0.3248686514886165	4	0.00047318960590399955	0.0
+https://www.myupdox.com/portal/rvfm/html/index.html	1	0.0	0.0006903464874971056	0.32948490230905864	4	0.0004789876431500563	0.0
+https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/tips-for-a-healthy-heart	1	0.0	0.0006287194226249907	0.3248686514886165	4	0.00047318960590399955	0.0
+https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/congratulations-to-cu-medicine-internal-medicine-cherry-creek	1	0.0	0.0006229368142258834	0.32515337423312884	4	0.0004712135767693364	0.0
+https://www.onlinepatientpayment.com/	1	0.0	0.0006903464874971343	0.32948490230905864	4	0.0004789876431500563	0.0
+https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Family+Medicine+-+Park+Meadows+8080+Park+Meadows+Dr+Lone+Tree%2C+CO+80124	1	0.0	0.0006903464874971085	0.32948490230905864	4	0.0004789876431500563	0.0
+https://covid19.colorado.gov/higher-risk-severe-illness	1	0.0	0.000634918597619367	0.3280282935455349	4	0.0005037869639645194	0.0
+https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Family+Medicine+-+Centennial+7960+S+University+Blvd+Centennial%2C+CO+80122	1	0.0	0.0007113104951199132	0.3303650934995548	4	0.0004728097391869851	0.0
+https://www.childrenscolorado.org/about/careers/	1	0.0	0.0013413951506801823	0.39217758985200846	3	0.0004603287778888594	0.0
+https://medschool.cuanschutz.edu/mab-colorado	1	0.0	0.0006349185976193514	0.3280282935455349	4	0.0005037869639645194	0.0
+https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Family+Medicine+-+Depot+Hill+1022+Depot+Hill+Road+Broomfield%2C+CO+80020	1	0.0	0.0006975142735976458	0.32831858407079645	4	0.0004723373152506859	0.0
+https://mychart.childrenscolorado.org/mychart/	1	0.0	0.0013429353468296795	0.3917634635691658	3	0.00045561951265315624	0.0
+https://rmob.coloradowomenshealth.com/patients/testimonials	1	0.0	0.0013312198602200619	0.3934252386002121	3	0.0004657244358333279	0.0
+https://www.google.com/maps/place/University+of+Colorado+Medicine/@39.745251,-104.8388138,17z/data=!4m5!3m4!1s0x0:0xfcd89c0b73729691!8m2!3d39.7479752!4d-104.8345933?shorturl=1	1	0.0	0.001341988610761626	0.3930084745762712	3	0.00046187588642537005	0.0
+https://onlinelibrary.wiley.com/doi/10.1002/acr.22897	1	0.0	0.0006286312883993019	0.3271604938271605	4	0.0004999658039195084	0.0
+https://cuplasticsurgery.com/reviews/marianbrinkman/	1	0.0	0.0013312198602201085	0.3934252386002121	3	0.0004657244358333279	0.0
+https://www.uchealth.org/access-my-health-connection/	12	18.408306115289285	0.011571947007982733	0.42890173410404625	3	0.0011889777088801995	0.6818181818181818
+https://som.ucdenver.edu/Profiles/Faculty/Profile/6292	1	0.0	0.0006349185976193754	0.3280282935455349	4	0.0005037869639645194	0.0
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1695733/	1	0.0	0.0006287194226250073	0.3248686514886165	4	0.00047318960590399955	0.0
+https://arm.coloradowomenshealth.com/success-stories/iui-success	1	0.0	0.0013312198602201083	0.3934252386002121	3	0.0004657244358333279	0.0
+https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/new-minimally-invasive-procedure-for-osteoarthritis-knee-pain	1	0.0	0.0006286312883992933	0.3271604938271605	4	0.0004999658039195084	0.0
+https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Family+Medicine+-+Landmark+7447+E.+Berry+Ave+%23250+Greenwood+Village%2C+CO+80111	1	0.0	0.0006976142466416184	0.3280282935455349	4	0.0004699261228879638	0.0
+https://myatlascms.com/map/?id=95	1	0.0	0.0013419886107615899	0.3930084745762712	3	0.00046187588642537005	0.0
+https://covid19.colorado.gov/	2	0.0	0.0026830892448342167	0.39384288747346075	3	0.0005131987284463582	1.0
+https://covid19.colorado.gov/how-to-isolate	1	0.0	0.0013415463479417686	0.3925925925925926	3	0.0004620462167920307	0.0
+https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/new-minimally-invasive-procedure-for-osteoarthritis-knee-pain	1	0.0	0.0006286312883992794	0.3271604938271605	4	0.0004999658039195084	0.0
+https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Internal+Medicine+-+Cherry+Creek+360+S+Garfield+St++Denver%2C+CO+80209	1	0.0	0.0007923959441106443	0.3369663941871026	4	0.0004766727040290601	0.0
+https://www.youtube.com/embed/j2eSK8KJqts	2	0.0	0.001264346293658655	0.3260105448154657	4	0.0005338091327041165	1.0
+https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/congratulations-to-cu-medicine-internal-medicine-cherry-creek	1	0.0	0.0006229368142258466	0.32515337423312884	4	0.0004712135767693364	0.0
+https://news.cuanschutz.edu/news-stories/as-omicron-explodes-questions-swirl-around-the-magnitude-of-its-fallout	1	0.0	0.0006349185976193407	0.3280282935455349	4	0.0005037869639645194	0.0
+https://www.varian.com/about-varian/newsroom/press-releases/varian-receives-fda-breakthrough-device-designation-embozene	1	0.0	0.0006286312883992909	0.3271604938271605	4	0.0004999658039195084	0.0
+https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/omicron-symptoms-and-treatment-what-to-know	1	0.0	0.0006349185976193537	0.3280282935455349	4	0.0005037869639645194	0.0
+https://www.youtube.com/embed/mzyMxgks3Hs	1	0.0	0.0006286312883993093	0.3271604938271605	4	0.0004999658039195084	0.0
+https://drive.google.com/file/d/1yMK4yhEO7KqQ-mzo0v1_g3gyBKe5Zydl/view?usp=sharing	1	0.0	0.001341988610761617	0.3930084745762712	3	0.00046187588642537005	0.0
+https://www.cu.edu/cu-careers/anschutz-medical-campus	1	0.0	0.0013413951506801786	0.39217758985200846	3	0.0004603287778888594	0.0
+https://mychart.childrenscolorado.org/MyChart/Authentication/Login?	1	0.0	0.0013419340976814273	0.3909378292939937	3	0.00045454370690383805	0.0
+https://arm.coloradowomenshealth.com/success-stories/two-dads-one-beautiful-baby	1	0.0	0.0013312198602200666	0.3934252386002121	3	0.0004657244358333279	0.0
+https://www.ncqa.org/	1	0.0	0.0006229368142258584	0.32515337423312884	4	0.0004712135767693364	0.0
+https://us59.dayforcehcm.com/CandidatePortal/en-US/cumed	1	0.0	0.0013413951506801676	0.39217758985200846	3	0.0004603287778888594	0.0
+https://www.youtube.com/embed/74mQkFvb62w	1	0.0	0.0006356268710336205	0.32458442694663164	4	0.0004638453332517299	0.0
+https://www.uchealth.org/access-my-health-connection/sharing-my-health-connection-accounts/	1	0.0	0.0006228433452313987	0.32629727352682497	4	0.000491172365225147	0.0
+https://www.youtube.com/embed/0fmyu5f89Hs	1	0.0	0.0006289157269563536	0.3226086956521739	4	0.000461305261405376	0.0
+https://www.211colorado.org/covid-19/	1	0.0	0.0006228433452314018	0.32629727352682497	4	0.000491172365225147	0.0
+https://www.youtube.com/embed/v9uHffwZbxU	1	0.0	0.0006304230572431443	0.3243006993006993	4	0.00046087057969382294	0.0
+https://www.youtube.com/embed/nnxsE2LsULE	1	0.0	0.000636938500845354	0.3254385964912281	4	0.00046172156374363294	0.0
+https://www.youtube.com/embed/WRTwd1RYW0Y	1	0.0	0.0006291344095600768	0.3228894691035683	4	0.00046119050638485234	0.0
+https://covid19.colorado.gov/vaccine/where-you-can-get-vaccinated	1	0.0	0.0006228433452314052	0.32629727352682497	4	0.000491172365225147	0.0
+https://twitter.com/intent/tweet?url=https://www.cumedicine.us/about-cu-medicine/health-insights/covid-19-vaccine	1	0.0	0.0006228433452313925	0.32629727352682497	4	0.000491172365225147	0.0
+https://covid19.colorado.gov/kids-vaccines	1	0.0	0.0006228433452313762	0.32629727352682497	4	0.000491172365225147	0.0
+https://www.google.com/maps/dir/?api=1&destination=CU+Medicine+Interventional+Radiology+-+Highlands+Ranch+Hospital+1500+Park+Central+Drive+Highlands+Ranch%2C+CO+80129	1	0.0	0.0006561600778699634	0.32831858407079645	4	0.0004852819524665859	0.0
+https://www.facebook.com/sharer/sharer.php?u=https://www.cumedicine.us/about-cu-medicine/health-insights/covid-19-vaccine	1	0.0	0.0006228433452314075	0.32629727352682497	4	0.000491172365225147	0.0
+https://covid19.colorado.gov/vaccine-booster-eligibility	1	0.0	0.0006228433452313762	0.32629727352682497	4	0.000491172365225147	0.0

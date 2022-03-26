@@ -1,573 +1,573 @@
-Node	Betweenness	Eigenvector	Closeness	Eccentricity	PageRank
-https://uihealthcare.org/	6073.965498490805	0.14574291453993235	0.5511583011583011	5	0.012637299844133957
-https://uihealthcare.org/node/136	3281.9480002938126	0.1170667425724456	0.5587084148727984	5	0.009834202351069963
-https://uihealthcare.org/education	20545.403242748263	0.14640347850647	0.5659068384539148	4	0.020053748199704565
-https://uihealthcare.org/education/ui-health-care-tours	4112.612497195038	0.14570909738354068	0.5495668912415784	5	0.011502088927006975
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-neurons-message	2401.4654984907834	0.1455360327560598	0.5474592521572388	5	0.01074516022835914
-https://uihealthcare.org/ui-health-care-business-community-resources	10430.731407581654	0.14596099750565217	0.5554474708171206	5	0.014936468639174543
-https://uihealthcare.org/sites/default/files/inline-images/Health%20Network-Rehab%20%282c%20HORIZ%29.png	0.0	0.001953991634335985	0.35554171855541716	6	0.00033635116478316366
-https://uihealthcare.org/themes/custom/uihealthcare/images/logo-bw.svg	1828.462566117874	0.11328542047128733	0.5257826887661142	5	0.009070717159903277
-https://uihealthcare.org/university-iowa-health-care	0.0	0.0019539916343359887	0.35554171855541716	6	0.00033635116478316366
-https://uihealthcare.org/education/post-graduate-policy-and-administrative-fellowships	3024.50765367244	0.14563634929906924	0.5485110470701249	5	0.010995656047704944
-https://uihealthcare.org/find-your-career-university-iowa-health-care	4105.465498490786	0.14561353005670596	0.5490384615384616	5	0.011591457343889186
-https://uihealthcare.org/education/university-iowa-master-clinical-nutrition-program	1831.4654984907854	0.14551021865037556	0.5469348659003831	5	0.010467256965662423
-https://uihealthcare.org/education/ui-health-care-stem-education	6107.369038806494	0.14578841222227212	0.5511583011583011	5	0.012572372162070961
-https://uihealthcare.org/encompass-health-and-university-iowa-health-system-announce-joint-venture-rehabilitation-hospital	3972.0029323729123	0.059658017642753296	0.4069850320741269	5	0.004845555163397913
-https://mychart.uihealthcare.org/	1828.462566117874	0.1132854204712873	0.5257826887661142	5	0.009070717159903277
-https://uihealthcare.org/education/executive-leadership-academy	5800.465498490806	0.14569110993527148	0.5506268081002893	5	0.012456372996985921
-https://uihealthcare.org/university-iowa-health-care-proposed-strategic-plan	1828.462566117874	0.11328542047128731	0.5257826887661142	5	0.009070717159903277
-https://uihealthcare.org/ui-health-care-initiatives	6363.465498490806	0.14571698826825877	0.5511583011583011	5	0.012748758268101715
-https://uihealthcare.org/publications	10276.465498490748	0.14589839433090307	0.5549076773566569	5	0.014851347644259395
-https://uihealthcare.org/leadership	8292.27873126329	0.1458524943304008	0.5532945736434108	5	0.013645956307912816
-https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-selection-and-application	2277.0029323729113	0.07105955738360735	0.41079136690647483	5	0.004640344621159061
-https://uihealthcare.org/education/ui-health-care-tours/ui-health-care-tours-parking-and-directions	2035.802877860359	0.06135491606608615	0.40785714285714286	5	0.004049808532186354
-https://uihealthcare.org/sites/default/files/2014_0.pdf	0.0	0.0019560761693668944	0.35709818636647905	6	0.0003453218300990612
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2021-08/Henrichs_Mark.jpg?itok=A8_0pLF-	0.0	0.001955460782901764	0.3564294631710362	6	0.00034011530610053467
-https://uihealthcare.org/uichoice	0.0	0.0027654219356101134	0.36673089274245346	6	0.0004732961108137899
-https://uihealthcare.org/policy-fellowship	0.0	0.002809304780327054	0.35554171855541716	6	0.00040773763966340387
-https://uihealthcare.org/sites/default/files/Rehab-Hospital-Rendering.jpg	0.0	0.0007998417471133416	0.2894069944247339	6	0.00036023984477448923
-https://uihealthcare.org/community-outreach-and-engagement	574.4900215747874	0.062069598513238046	0.40785714285714286	5	0.0032319845726124855
-https://uihealthcare.org/university-iowa-hospitals-clinics-administrative-fellowship	0.0	0.002809156660671445	0.35554171855541716	6	0.00040996737936373277
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/Family%20Medicine%202020_7_7-21_0.jpg?itok=OPBCfKxv	0.0	0.0019522569620286918	0.3546583850931677	6	0.000332147423746053
-https://uihealthcare.org/community-education	573.0029323729096	0.06042598835970887	0.4041047416843595	5	0.0030545428051573977
-https://uihealthcare.org/sites/default/files/2017%20Annual%20Report.pdf	0.0	0.0019560761693669	0.35709818636647905	6	0.0003453218300990612
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-10/Carmen~Lee.jpg_1.jpg?itok=Rvh6U-kz	0.0	0.0019554607829017664	0.3564294631710362	6	0.00034011530610053467
-https://uihealthcare.org/privacy-policy	1142.0029323729111	0.05960438051917348	0.4041047416843595	5	0.0032753447773604108
-https://uihealthcare.org/capital-management	187.83626570624278	0.06522903828320484	0.4087329992841804	5	0.003327235888600356
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2018-04/Wessels~Jana%202.jpg?itok=UX_jybUg	0.0	0.0019554607829017573	0.3564294631710362	6	0.00034011530610053467
-https://uihealthcare.org/education/master-clinical-nutrition-program/program-admission-requirements/request-information-or	573.0505514205287	0.06771839274974632	0.4072753209700428	5	0.0035700892163106337
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-11/j-brooks-jackson-portrait.jpg?itok=B0dHdEZ7	0.0	0.0027575131532146004	0.35934550031466334	6	0.0004627643425736649
-https://uihealthcare.org/ui-health-care-tours	0.0	0.003916386133591638	0.3627700127064803	5	0.00043202801045357615
-https://uihealthcare.org/education/master-clinical-nutrition-program/how-become-registered-dietitian-nutritionist-rdn	1710.05055142053	0.06774242831535898	0.40785714285714286	5	0.00414215086574663
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-01/Butler~Karen-2015-forWeb.jpg?itok=oH4DWEBt	0.0	0.0019554607829017643	0.3564294631710362	6	0.00034011530610053467
-https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-instructors-and-coaches	3.00293237291023	0.07100914130754862	0.4096126255380201	5	0.003499776022470218
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2018-10/sgunasekaran.jpg?itok=Cyr_Q9bJ	0.0	0.002757513153214596	0.35934550031466334	6	0.0004627643425736649
-https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-curriculum	3.00293237291023	0.07100914130754862	0.4096126255380201	5	0.003499776022470218
-https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-structure-and-certificate	3.00293237291023	0.07100914130754862	0.4096126255380201	5	0.003499776022470218
-https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-schedule	3.00293237291023	0.07100914130754862	0.4096126255380201	5	0.003499776022470218
-https://uihealthcare.org/education/ui-health-care-tours/ui-health-care-tour-options	151.3318002695269	0.06133706461629731	0.4069850320741269	5	0.003169053858115868
-https://uihealthcare.org/education/ui-health-care-stem-education/annual-reports	3434.800153768107	0.06428003513966414	0.42421991084695393	5	0.00514788507649718
-https://uihealthcare.org/specialty-pharmacy-services-university-iowa-employees	4097.685376076009	0.05973038161777691	0.40756602426837973	5	0.004930679110874319
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/Haugsdal%20%26%20Students%202020_9_8-21.jpg?itok=92KxXa1O	0.0	0.0019522569620287092	0.3546583850931677	6	0.000332147423746053
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/STEM%202020_3_7-49.jpg?itok=LfMyptW9	0.0	0.0019546016268763137	0.35554171855541716	6	0.00033596974537744876
-https://uihealthcare.org/education/executive-leadership-academy/current-participants	573.0029323729096	0.07102173861855031	0.40990667623833454	5	0.0037759546790023073
-https://uihealthcare.org/education/post-graduate-policy-and-administrative-fellowships/university-iowa-physicians	3.318721846594441	0.06379747115399804	0.40756602426837973	5	0.0030769078037186474
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-10/Winokur~Pat%202016%202.jpg?itok=3deSZLui	0.0	0.002757513153214599	0.35934550031466334	6	0.0004627643425736649
-https://uihealthcare.org/education/master-clinical-nutrition-program/schedule-and-program-study/master-clinical-nutrition-0	3.0505514205292776	0.0677063813618164	0.4069850320741269	5	0.0032936605845619088
-https://uihealthcare.org/education/ui-health-care-tours/know-you-go	3738.5048980623646	0.06227027803863836	0.40931899641577063	5	0.005047426711540475
-https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-project	3.00293237291023	0.07100914130754862	0.4096126255380201	5	0.003499776022470218
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/120118_GirlsGoSTEM2%20%2899%29.JPG?itok=UDHOUERd	0.0	0.0019546016268763154	0.35554171855541716	6	0.00033596974537744876
-https://uihealthcare.org/university-iowa-health-care-strategic-plan	7051.189699600417	0.05982290200683258	0.41079136690647483	5	0.00721849170209482
-https://uihealthcare.org/sites/default/files/2016.pdf	0.0	0.0019560761693668965	0.35709818636647905	6	0.0003453218300990612
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2017_4%20UIHC%20Exterior%203.jpg?itok=9d6rtYly	0.0	0.0019522569620286962	0.3546583850931677	6	0.000332147423746053
-https://uihealthcare.org/sites/default/files/2017-11/Strategic%20Plan%20Q1%20FY18%20initiatives%20web.pdf	0.0	0.0019536440378979817	0.35554171855541716	6	0.00033700453813729364
-https://uihealthcare.org/sites/default/files/HRT%2017-467%20Report%2C%20HVC%20Final.pdf	0.0	0.0019560761693668974	0.35709818636647905	6	0.0003453218300990612
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-education-programming-options	636.9466184145667	0.06664830769515571	0.42771535580524345	5	0.0038925144953023084
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-10/Clamon~Joe.jpg?itok=TQ7pb4oq	0.0	0.001955460782901776	0.3564294631710362	6	0.00034011530610053467
-https://uihealthcare.org/education/master-clinical-nutrition-program/master-clinical-nutrition-schedule-and-program-study	3.0505514205292776	0.06770638136181642	0.4069850320741269	5	0.0032936605845619088
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2019_06_18-Iowa%20City%20Downtown%20Lifestyle%20Shoot%20jatorner%20-2255.jpg?itok=xGMArDdp	0.0	0.0019522569620286994	0.3546583850931677	6	0.000332147423746053
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/option%20%234.png?itok=3PCV9dIZ	0.0	0.001954601626876302	0.35554171855541716	6	0.00033596974537744876
-https://uihealthcare.org/post-graduate-fellowships	0.0	0.003915410791847422	0.3623096446700508	5	0.0004299368540522819
-https://uihealthcare.org/working-ui-health-care	7335.002932372907	0.05972250975440599	0.4104960460100647	5	0.0069619769884698805
-https://uihealthcare.org/education/master-clinical-nutrition-program/master-clinical-nutrition-admission-requirements	3.0505514205292776	0.06770638136181642	0.4069850320741269	5	0.0032936605845619088
-https://uihealthcare.org/education/ui-health-care-stem-education/upcoming-ui-health-care-stem-education-experiences	1744.969357454559	0.06506092570070231	0.4251675353685778	5	0.0043084151133035535
-http://www.uihealthcare.org/EMSLRC/	1704.0	0.001963200839777789	0.36300063572790847	4	0.0009526284920955196
-https://uihealthcare.org/browse-available-jobs	8527.065188115424	0.059781200152939924	0.411976911976912	5	0.007944322823451094
-https://uihealthcare.org/education/ui-health-care-stem-education/online-resources	8303.687218237284	0.07727905082050601	0.4412673879443586	5	0.009139924424644539
-https://uihealthcare.org/about-iowa-city-community	4848.510365862734	0.06377712538398769	0.42327650111193477	5	0.005924249588064864
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2021-01/cthiriet.jpg?itok=92L5-U16	0.0	0.0019554607829017664	0.3564294631710362	6	0.00034011530610053467
-https://uihealthcare.org/education/master-clinical-nutrition-program/schedule-and-program-study/master-clinical-nutrition	573.0505514205287	0.06771839274974631	0.4072753209700428	5	0.0035700892163106337
-https://uihealthcare.org/sites/default/files/2017-10/StrategicPlan20172020.pdf	0.0	0.0019536440378979834	0.35554171855541716	6	0.00033700453813729364
-https://uihealthcare.org/community-sponsorship	1142.0029323729111	0.06043685387731452	0.40467753366406806	5	0.003345019364097101
-https://uihealthcare.org/education/master-clinical-nutrition-program/master-clinical-nutrition-program-mission-goals-and	3.0505514205292776	0.06770638136181643	0.4069850320741269	5	0.0032936605845619088
-https://uihealthcare.org/education/administrative-fellowship	2096.8809775891013	0.0638909956143841	0.40902578796561606	5	0.004287293040996034
-https://uihealthcare.org/job-shadows	2277.0029323729123	0.060520028077401485	0.4058280028429282	5	0.003952324206743481
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/Bachrach-Christine.jpg?itok=T-AUDSZQ	0.0	0.0019554607829017634	0.3564294631710362	6	0.00034011530610053467
-https://uihealthcare.org/education/ui-health-care-stem-education/get-involved-stem-education	1736.8001537681048	0.06424581237670167	0.42327650111193477	5	0.004223885260806618
-https://uihealthcare.org/professional-development-calendar	3.00293237291023	0.05958295266540535	0.40296400846859565	5	0.002701579397697996
-https://uihealthcare.org/education/policy-fellowship	1814.380977589102	0.06390204345611004	0.40902578796561606	5	0.004169255080263676
-https://uihealthcare.org/how-girls-go-stem-making-waves-and-opening-doors	1142.0029323729113	0.06049826322262887	0.40467753366406806	5	0.003348239311441029
-https://uihealthcare.org/ui-health-care-tour-options	0.0	0.0027758911625045883	0.35509950248756217	6	0.0004001406773488733
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-10/Van%20Daele~Doug%201.jpg?itok=RavlcS8J	0.0	0.0019554607829017625	0.3564294631710362	6	0.00034011530610053467
-https://uihealthcare.org/sites/default/files/2015.pdf	0.0	0.001956076169366898	0.35709818636647905	6	0.0003453218300990612
-https://uihealthcare.org/sites/default/files/inline-images/Health%20Network-Rehab%20%282c%20HORIZ%29_0.png	0.0	0.000799841747113331	0.2894069944247339	6	0.00036023984477448923
-https://uihealthcare.org/sites/default/files/2017-10/StrategicPlan20172020AtAGlance-v7.pdf	0.0	0.001953644037897984	0.35554171855541716	6	0.00033700453813729364
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/Girls%20go%20Stem%202019_12_7-44.jpg?itok=NmPXGCG0	0.0	0.001954601626876311	0.35554171855541716	6	0.00033596974537744876
-https://uihealthcare.org/sites/default/files/2020-11/ADM%20211117%20Flyer%3B%20Cyphert%20Fellowship%20%281%29.png	0.0	0.0008567418781515075	0.2904374364191251	6	0.0003409471755548667
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-12/carterk.jpg?itok=W9vwf3OR	0.0	0.0008020523703128558	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/Jorris%20Picture.jpg?itok=DJimczPH	0.0	0.0008020523703128398	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-brain-anatomy-and	1142.0029323729116	0.060640842047707116	0.4087329992841804	5	0.0033839974698435912
-https://uihealthcare.org/education/executive-leadership-academy/current-participants/2018-2019	573.0029323729096	0.07102173861855031	0.40990667623833454	5	0.0037759546790023073
-https://uihealthcare.org/sites/default/files/Visitor%20Behavior%20Guidelines.pdf	0.0	0.000834864615815942	0.2905852417302799	6	0.00035545332780232943
-https://uihealthcare.org/education/ui-health-care-stem-education/upcoming-ui-health-care-stem-education-experiences/engineering-physics-steminar	2418.8190243269305	0.06157941134862359	0.4116798846431146	5	0.004196395145976762
-https://uihealthcare.org/sites/default/files/2021-02/2019_08_22-OnIowa%20Skate%20Park%20jatorner%20-0087_0.jpg	0.0	0.0008550670875198241	0.2975508077123502	6	0.00036495992877556426
-https://mychart.uihealthcare.org/mychart	44.025988210129725	0.00539064047866108	0.30881557598702003	6	0.001251171364845242
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/111819_TRIOETS11th12th%20%2833%29.JPG?itok=FyAHu_ot	0.0	0.0010360889192408877	0.3063304721030043	6	0.0003701266854201961
-https://uihealthcare.org/capital-management/upcoming-bids-bid-results-and-plan-room	1894.8362657062437	0.06526376629650772	0.4096126255380201	5	0.004181531261290051
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/Kan~Tim%206.jpg?itok=2oourFvB	0.0	0.0008020523703128369	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/applying-stacey-cyphert-health-policy-fellowship	0.0	0.0016907734948592903	0.2907331975560081	6	0.0004148072564061922
-https://uihealthcare.org/education/ui-health-care-stem-education/online-resources/virtual-stem-education-bone-anatomy	573.0029323729096	0.06062993985650058	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/education/executive-leadership-academy/current-participants/2016-2017	573.0029323729096	0.07102173861855035	0.40990667623833454	5	0.0037759546790023073
-https://uihealthcare.org/sites/default/files/2021-02/PA%20Students%20Clinical%20Exam%20Room%202019_1_16%20129_0.jpeg	0.0	0.0008014932688710837	0.29192229038854806	6	0.00039457060822221495
-https://uihealthcare.org/education/master-clinical-nutrition-program/program-admission-requirements/master-clinical	3.00293237291023	0.06683403894620014	0.4066951566951567	5	0.0032294251987499906
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-germs-and-viruses	573.0029323729096	0.060629939856500586	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/sites/default/files/Confidentiality%20Statement.pdf	0.0	0.0008348646158159458	0.2905852417302799	6	0.00035545332780232943
-https://uihealthcare.org/entertainment-culture-and-dining	9812.9677211053	0.06064570363072073	0.4161807580174927	5	0.008812756799650141
-https://uihealthcare.org/education/executive-leadership-academy/current-participants/2019-2020	573.0029323729096	0.07102173861855031	0.40990667623833454	5	0.0037759546790023073
-https://uihealthcare.org/sites/default/files/2021-02/2018_6_8%20Parekh%20in%20the%20OR%208_0.jpg	0.0	0.0008014932688710839	0.29192229038854806	6	0.00039457060822221495
-https://uihealthcare.org/sites/default/files/2021-02/160415%20CPH%20Fellowship%20Fair%20jatorner-005-Edit_0.jpeg	0.0	0.0008014932688710852	0.29192229038854806	6	0.00039457060822221495
-https://uihealthcare.org/capital-management/design-standards	1326.836265706249	0.06525218618408392	0.40931899641577063	5	0.0038902844497106038
-https://uihealthcare.org/stay-active-iowa	3408.0029323729123	0.06050327277309837	0.40931899641577063	5	0.004618553376329153
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-12/bradleyc.jpg?itok=aDxxHD3a	0.0	0.0008020523703128335	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/capital-management/capital-management-events	757.8362657062404	0.0652406101803784	0.40902578796561606	5	0.0036054785840146913
-https://uihealthcare.org/sites/default/files/2021-02/DJI_0063.MP4_.00_00_05_04.Still002_0_1.png	0.0	0.0008014932688710912	0.29192229038854806	6	0.00039457060822221495
-https://uihealthcare.org/education/administrative-fellowship/apply	852.669599039577	0.06218546837465669	0.4069850320741269	5	0.0033871493307965042
-https://uihealthcare.org/capital-management/links-design-professionals-and-contractors	1326.8362657062464	0.06525218618408392	0.40931899641577063	5	0.003890284449710603
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-elephant-toothpaste	573.0029323729096	0.06062993985650061	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/sites/default/files/styles/small/public/Harbison~Jennifer.jpg?itok=GWfV7OJ0	0.0	0.0008567418781515037	0.2904374364191251	6	0.0003409471755548667
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-make-your-own	573.0029323729096	0.06062993985650058	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/education/university-iowa-master-clinical-nutrition-program/program-admission-requirements/master-0	3.00293237291023	0.06683403894620014	0.4066951566951567	5	0.0032294251987499906
-https://uihealthcare.org/sites/default/files/2021-02/2016_07_20-Mandela%20Fellows%20at%20Farmers%20Market-hgthompson-021_0.jpeg	0.0	0.001668150851673453	0.3003682272488164	6	0.000503605492485757
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-homemade-slime	573.0029323729096	0.06062993985650059	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-12/campbellk.jpg?itok=UfzUJByp	0.0	0.0008020523703128349	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/education/executive-leadership-academy/current-participants/2014-2015	573.0029323729096	0.07102173861855034	0.40990667623833454	5	0.0037759546790023073
-https://uihealthcare.org/education/executive-leadership-academy/current-participants/2017-2018	573.0029323729096	0.07102173861855032	0.40990667623833454	5	0.0037759546790023073
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-01/tkpak.jpg?itok=JgSamDAy	0.0	0.0008020523703128301	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/how-big-are-your-lungs	573.0029323729096	0.06062993985650057	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/technology-and-innovation-steminar	1466.0642350548949	0.06071743036411865	0.40990667623833454	5	0.0036552835937804992
-https://uihealthcare.org/sites/default/files/2021-02/2018_11_29%20IRL-7_1.jpg	0.0	0.0008014932688710888	0.29192229038854806	6	0.00039457060822221495
-https://uihealthcare.org/sites/default/files/inline-images/stem-hero-800.jpg	0.0	0.0008111070140324595	0.2882382635032812	6	0.0003370782553945721
-http://uihealthcare.org/EMSLRC/	1138.0	2.632558718275371e-05	0.2669471715755026	5	0.0013811654775643212
-https://uihealthcare.org/sites/default/files/styles/medium/public/2021-06/Kulkarni-Narayan_0.jpg?itok=3Q6UARZf	0.0	0.0008565937584958646	0.2904374364191251	6	0.0003431769152551956
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-12/martinezda.jpg?itok=-BPyKDR1	0.0	0.0008020523703128372	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-lungs-bottle	573.0029323729096	0.06062993985650058	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/sites/default/files/Chaperone%20Expectations%20Guidelines.pdf	0.0	0.0008348646158159433	0.2905852417302799	6	0.00035545332780232943
-https://uihealthcare.org/sites/default/files/Communicable%20Disease%20Screening%20Form.pdf	0.0	0.0008113988178864192	0.28882144663631765	6	0.0003461683923107775
-https://uihealthcare.org/ui-health-care-tours-parking-and-directions	0.0	0.0016574568707942844	0.29117797042325344	6	0.00043736158786003326
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-liquid-density-layer	573.0029323729096	0.06062993985650056	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/sites/default/files/laryngescope.jpg	0.0	0.0008722791426439963	0.29848405645582854	6	0.0003435785893587128
-https://uihealthcare.org/sites/default/files/Job%20Shadow%20Confidentiality%20Form.docx	0.0	0.000811398817886421	0.28882144663631765	6	0.0003461683923107775
-https://uihealthcare.org/sites/default/files/2021-12/2018_12_1_STEM%2088.jpg	0.0	0.0008722791426439857	0.29848405645582854	6	0.0003435785893587128
-https://uihealthcare.org/about-us/get-most-out-your-uichoice-or-uiselect-health-plan	9072.94648875619	0.060304293371829944	0.4201618837380427	5	0.008138978382857938
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/invisible-ink-activity	573.0029323729096	0.06062993985650057	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/sites/default/files/Girls-go-stem.jpg	0.0	0.0008111070140324724	0.2882382635032812	6	0.0003370782553945721
-https://uihealthcare.org/education/executive-leadership-academy/current-participants/2015-2016	573.0029323729096	0.07102173861855035	0.40990667623833454	5	0.0037759546790023073
-https://uihealthcare.org/education/post-graduate-policy-and-administrative-fellowships/university-iowa-physicians-0	573.0029323729096	0.062162801972432756	0.4066951566951567	5	0.003208939659104775
-https://uihealthcare.org/sites/default/files/nurseandstudent.jpg	0.0	0.0008613508267038269	0.2975508077123502	6	0.0003437923259937256
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-managing-stress-and	573.0029323729096	0.06062993985650057	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/education/university-iowa-master-clinical-nutrition-program/program-completion-requirements/master	3.00293237291023	0.06593798747500508	0.40640569395017795	5	0.0031656245370885287
-https://uihealthcare.org/school-and-child-care	7892.002932372906	0.060590496298807285	0.41406816533720087	5	0.007427997752558226
-https://uihealthcare.org/sites/default/files/2021-02/2%20RC%20Surgery%20Speciality%203_0.jpg	0.0	0.0008014932688710861	0.29192229038854806	6	0.00039457060822221495
-https://uihealthcare.org/sites/default/files/stethoscope.jpg	0.0	0.0008935613514391686	0.29973753280839893	6	0.0003357289124852204
-https://uihealthcare.org/housing-options-iowa	3972.002932372912	0.06051416197785291	0.40990667623833454	5	0.004946579145549213
-https://uihealthcare.org/sites/default/files/Student%20Behavior%20Guidelines.pdf	0.0	0.0008348646158159523	0.2905852417302799	6	0.00035545332780232943
-https://uihealthcare.org/education/policy-fellowship/apply	1133.169599039578	0.062208146903735426	0.4072753209700428	5	0.0035650157314105974
-https://uihealthcare.org/capital-management/staff	22.669599039576926	0.08436771461747458	0.4152727272727273	5	0.004698885770519003
-https://uihealthcare.org/education/ui-health-care-stem-education/online-resources/activities-download	17475.3001537681	0.06459195219810779	0.43257575757575756	5	0.014999030848187428
-https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/hand-hygiene-101	573.0029323729096	0.060629939856500586	0.40814867762687634	5	0.003092784935782812
-https://uihealthcare.org/neuroscience-steminar	2601.0642350549147	0.06073927406646061	0.4110871130309575	5	0.004262381811599899
-https://uihealthcare.org/sites/default/files/2020-01/Tour-Health-Screening-Form.pdf	0.0	0.0008348646158159478	0.2905852417302799	6	0.00035545332780232943
-https://uihealthcare.org/applying-ui-hospitals-clinics-administrative-fellowship	0.0	0.0016903213216156248	0.2907331975560081	6	0.00041510571312780993
-https://uihealthcare.org/sites/default/files/2021-02/Wayfinding%2C%20Stairs%202020_02_25-2_0.jpeg	0.0	0.0008014932688710871	0.29192229038854806	6	0.00039457060822221495
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/Hegmann-Theresa.jpg?itok=t2Fma1vR	0.0	0.0008020523703128412	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/education/ui-health-care-stem-education/mathematics-health-care-steminar	1466.0642350548962	0.060717430364118655	0.40990667623833454	5	0.0036552835937804992
-https://uihealthcare.org/sites/default/files/Photo%20Consent%20Form_0.pdf	0.0	0.0008348646158159414	0.2905852417302799	6	0.00035545332780232943
-https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/SWP%20headshot.JPG?itok=QoOTpjew	0.0	0.0008020523703128332	0.2913265306122449	6	0.0003848867987108926
-https://uihealthcare.org/ui-health-plans	0.0	0.0008085064384438083	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/people/kelly-stevenson	3.00293237291023	0.06071408009682108	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-01/heart-vascular.png	0.0	0.0008085064384438017	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/people/phil-boothby	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2018_10_12-Rec%20After%20Dark-0017.jpg?itok=BY_LuiBv	0.0	0.0008111741776386044	0.2905852417302799	6	0.00035565059055466533
-https://uihealthcare.org/sites/default/files/2021-02/2020_02_07-Dining%20-%20Hillcrest%20Food%20Shoot%20jatorner%20-0662.jpg	0.0	0.0008130837641536339	0.2940267765190525	6	0.00040088332594795514
-https://uihealthcare.org/people/matt-hills	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/people/jay-goodin	3.00293237291023	0.06071408009682107	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-02/2020_10_15-Hancher%20Illuminated%20jatorner%20-0755_0.jpg	0.0	0.0008130837641536331	0.2940267765190525	6	0.00040088332594795514
-https://uihealthcare.org/people/ken-bronson	3.00293237291023	0.06071408009682105	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/people/tony-lee	3.00293237291023	0.06071408009682105	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-02/2019_12_18-Dining%20-%20Catering%20Food%20Shoot%20jatorner%20-0201.jpg	0.0	0.0008130837641536244	0.2940267765190525	6	0.00040088332594795514
-https://uihealthcare.org/people/steve-hamilton	3.00293237291023	0.060714080096821076	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-02/Fall%20Campus%202020.jpg	0.0	0.0008130837641536482	0.2940267765190525	6	0.00040088332594795514
-https://uihealthcare.org/sites/default/files/2018-09/Haws-Bradley.jpg	0.0	0.000814045412529195	0.2908813041263372	6	0.00033985546920211625
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/041719_HooverElementary%20%287%29.jpeg?itok=FecAl7mg	0.0	0.0008123435932502708	0.29297075423293995	6	0.000388445817930172
-https://uihealthcare.org/people/brian-mrozek	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2020-12/map-marker.png	0.0	0.0008085064384438021	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/021519_PennElementaryScienceNight%20%283%29.jpeg?itok=KqKWHBqf	0.0	0.0008123435932502738	0.29297075423293995	6	0.000388445817930172
-https://uihealthcare.org/sites/default/files/2020-08/craig-kletzing.jpeg	0.0	0.0008256020884608959	0.2917731221257026	6	0.00034710983448023216
-https://uihealthcare.org/people/kathy-terrell	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/Regina4.jpg?itok=Unlz9gxB	0.0	0.0008123435932502725	0.29297075423293995	6	0.000388445817930172
-https://uihealthcare.org/people/ashly-lagneaux	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-01/holden.png	0.0	0.0008085064384438085	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/people/anne-bauer	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-02/Hibs%2011_2015%202.jpg	0.0	0.0008130837641536276	0.2940267765190525	6	0.00040088332594795514
-https://clinicaltrials.uihealthcare.org/	3211.9845267745677	0.028929351275552805	0.38843537414965984	6	0.00476411289534261
-https://uihealthcare.org/people/luke-leyden	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/people/peggy-carleton	3.00293237291023	0.06071408009682107	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/EMSLRC/	570.0	3.530135603498156e-07	0.21093461396379756	6	0.0016856627731328643
-https://mychart.uihealthcare.org/MyChart	0.0	0.0008085064384437943	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/people/john-mckenzie	3.00293237291023	0.06071408009682105	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2020_09_16-Spin%20Class-tschoon-041.jpg?itok=xA25hVOM	0.0	0.0008111741776386041	0.2905852417302799	6	0.00035565059055466533
-https://uihealthcare.org/sites/default/files/Narayanan_Nandakumar%202%20%282%29.jpg	0.0	0.0008143382735013661	0.29147524247064827	6	0.00034844127514429435
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/Longfellow%20District.jpg?itok=fauTVqN2	0.0	0.0008113201704305367	0.2908813041263372	6	0.00035996000186362133
-https://uihealthcare.org/people/carmela-lovelace	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2020-12/ribbon-2.png	0.0	0.0008085064384437987	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/people/jennifer-ratner	3.00293237291023	0.060714080096821076	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-02/020717_HooverElementarySTEMNight%20%2820%29.jpg	0.0	0.0008123435932502776	0.29297075423293995	6	0.000388445817930172
-https://uihealthcare.org/sites/default/files/2020-02/ampearlman.JPG	2.647937411095306	0.0032680311870206544	0.29539575788929123	6	0.0005885487613154722
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/College%20Green%20District.jpg?itok=aeG7O89G	0.0	0.0008113201704305135	0.2908813041263372	6	0.00035996000186362133
-https://uihealthcare.org/sites/default/files/2021-02/2020_02_07-Dining%20-%20Hillcrest%20Food%20Shoot%20jatorner%20-0285_0.jpg	0.0	0.0008130837641536258	0.2940267765190525	6	0.00040088332594795514
-https://uihealthcare.org/people/trish-moyer	3.00293237291023	0.06071408009682104	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-02/2019_08_02-Iowa%20BIG%20North%20Drive-In%20Theater%20jatorner%20-0330.jpg	0.0	0.0008130837641536195	0.2940267765190525	6	0.00040088332594795514
-https://uihealthcare.org/people/adam-ralston	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/modificationform.pdf	0.0	0.000874843393439205	0.2905852417302799	6	0.0003356777419381692
-https://uihealthcare.org/sites/default/files/2018-04/UIHC%20Arc%20%20Eng%20Design%20Standards_2017R%20-%20revised.pdf	0.0	0.000874843393439209	0.2905852417302799	6	0.0003356777419381692
-https://uihealthcare.org/people/peter-andrade	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/021519_PennElementaryScienceNight%20%2813%29.jpeg?itok=q2GHtO66	0.0	0.0008123435932502776	0.29297075423293995	6	0.000388445817930172
-https://uihealthcare.org/people/alisha-sena	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2020-06/Darsee_0.jpeg	0.0	0.0008140454125291915	0.2908813041263372	6	0.0003398554692021163
-https://uihealthcare.org/sites/default/files/2021-01/ortho-sports-medicine.png	0.0	0.0008085064384438056	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/capital-management/design-standards/uihc-finish-standards	1326.8362657062503	0.06525218618408392	0.40931899641577063	5	0.0038902844497106038
-https://uihealthcare.org/people/jamie-achrazoglou	3.00293237291023	0.06071408009682105	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2019_2_23%20STEM%209.jpg?itok=XStKnw5Z	0.0	0.0008123435932502742	0.29297075423293995	6	0.000388445817930172
-https://uihealthcare.org/people/carol-pettit	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-01/clinical-trials.png	0.0	0.0008085064384437625	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/people/pv-osiago	3.00293237291023	0.06071408009682107	0.4032485875706215	5	0.0027630263228171923
-https://uihealthcare.org/sites/default/files/2021-01/2019_2_23%20STEM%209.jpg	0.0	0.0008085064384437983	0.2960082944530845	6	0.0003902824509208286
-https://uihealthcare.org/people/eric-short	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923
-https://clinicaltrials.uihealthcare.org/themes/custom/clinical_trials/images/uihealthcare.svg	0.0	0.0037813221011583015	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Brain%20and%20Spinal%20Cord%20Cancer	0.0	0.0037813221011582985	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer	10.0	0.003787202923449081	0.2828132738979693	7	0.0012113698086637019
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Head%20and%20Neck%20Cancer	0.0	0.003781322101158284	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5Btoggle%5D%5Bfield_study_pediatric%5D=true	0.0	0.00038785906373313325	0.27990196078431373	7	0.0003431857623288902
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Breast%20Cancer	0.0	0.003781322101158295	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Colorectal%20Cancer	0.0	0.0037813221011582915	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer	0.0	0.0004386345189469501	0.280039234919078	7	0.0004368389098792356
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Lung%20Cancer	0.0	0.0037813221011582846	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies	0.0	0.003781322101158286	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Leukemia	0.0	0.0037813221011582764	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Neuroendocrine%20Tumors	0.0	0.0037813221011582868	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Prostate%20Cancer	0.0	0.0037813221011582924	0.28267326732673265	7	0.0010257229534044506
-https://uihealthcare.org/sites/default/files/2019-05/Copy%20of%20UIHC%20Finish%20Standards3%20%282%29.xlsx	0.0	0.0008748433934391989	0.2905852417302799	6	0.0003356777419381692
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Gynecologic%20Cancer	0.0	0.003781322101158287	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/about	1885.577447099106	0.02813044874033892	0.3821954484605087	6	0.004343340408120679
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Liver%20Cancer	0.0	0.0037813221011582885	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Sarcoma	0.0	0.0037813221011582855	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Skin%20Cancer	0.0	0.0037813221011582885	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Lymphoma	0.0	0.0037813221011582894	0.28267326732673265	7	0.0010257229534044506
-https://clinicaltrials.uihealthcare.org/ui-health-care-clinical-research-and-trials	0.0	0.0003878590637331386	0.27990196078431373	7	0.0003431857623288902
-https://uihealthcare.org/sites/default/files/Copy%20of%20UIHC%20Finish%20Standards-Offsite1%20%282%29_1.xlsx	0.0	0.0008748433934392132	0.2905852417302799	6	0.0003356777419381692
-https://clinicaltrials.uihealthcare.org/volunteer-research	1034.5774470991066	0.028115475597388678	0.38168449197860965	6	0.0038762766147963064
-https://clinicaltrials.uihealthcare.org/about/study-risks	1034.5774470991066	0.028115475597388664	0.38168449197860965	6	0.0038762766147963064
-https://clinicaltrials.uihealthcare.org/about/questions-ask-about-clinical-research	1034.5774470991066	0.028115475597388664	0.38168449197860965	6	0.0038762766147963064
-https://clinicaltrials.uihealthcare.org/about/informed-consent	1034.5774470991066	0.02811547559738867	0.38168449197860965	6	0.0038762766147963064
-https://clinicaltrials.uihealthcare.org/about/contact	1604.5774470991064	0.028120463397318912	0.38193979933110367	6	0.004159535528753447
-https://clinicaltrials.uihealthcare.org/about/frequently-asked-questions-about-clinical-trials	4720.57744709913	0.028155423174304733	0.3834788448623237	6	0.0058544204936352325
-https://clinicaltrials.uihealthcare.org/about/resources	2173.577447099101	0.028125452967275255	0.3821954484605087	6	0.0044488833238438465
-https://clinicaltrials.uihealthcare.org/about/glossary	1034.5774470991066	0.028115475597388705	0.38168449197860965	6	0.0038762766147963064
-https://uichildrens.org/	3281.9480002938126	0.11706674257244558	0.5587084148727984	5	0.009834202351069963
-https://uihc.org/primary-and-specialty-care/nursing-iowa	0.0	0.001953991634335982	0.35554171855541716	6	0.00033635116478316366
-https://uihc.org/node/116836	3281.9480002938126	0.11706674257244558	0.5587084148727984	5	0.009834202351069963
-https://uihc.org/2019-novel-coronavirus-covid-19	0.0	0.0019539916343359787	0.35554171855541716	6	0.00033635116478316366
-https://uihc.org/primary-and-specialty-care	0.0	0.0019539916343359826	0.35554171855541716	6	0.00033635116478316366
-https://medicine.uiowa.edu/	2330.077950733257	0.11335649298636462	0.5366541353383458	5	0.009155162111740773
-http://medicine.uiowa.edu/	39.272727272727266	0.005301105342026121	0.3729588504245591	6	0.0010922826954453812
-https://medicine.uiowa.edu/content/2019-novel-coronavirus-covid-19-updates	0.0	0.0019539916343359835	0.35554171855541716	6	0.00033635116478316366
-https://wsi.healthcare.uiowa.edu/Marcom/ECOI/	3281.9480002938126	0.1170667425724456	0.5587084148727984	5	0.009834202351069963
-https://medicine.uiowa.edu/research	1828.462566117874	0.1132854204712873	0.5257826887661142	5	0.009070717159903277
-https://uiowa.edu/accessibility	1828.462566117874	0.11328542047128731	0.5257826887661142	5	0.009070717159903277
-https://uihc.org/	3281.9480002938126	0.11706674257244559	0.5587084148727984	5	0.009834202351069963
-https://uihc.org/nondiscrimination-notice	3281.9480002938126	0.11706674257244559	0.5587084148727984	5	0.009834202351069963
-https://www.youtube.com/uihealthcare	3281.9480002938126	0.11706674257244559	0.5587084148727984	5	0.009834202351069963
-https://www.googletagmanager.com/ns.html?id=GTM-KQTXKF5	3281.9480002938126	0.1170667425724456	0.5587084148727984	5	0.009834202351069963
-http://hc-vbugtracker.healthcare.uiowa.edu/projects/ui-health-care/issues/new	3281.9480002938126	0.11706674257244559	0.5587084148727984	5	0.009834202351069963
-https://medicine.uiowa.edu/uiphysicians/	0.0	0.003910907131502303	0.3591194968553459	6	0.0004193648246761249
-https://twitter.com/uihealthcare	3281.9480002938126	0.11706674257244559	0.5587084148727984	5	0.009834202351069963
-https://uihc.org/node/107836	3281.9480002938126	0.11706674257244558	0.5587084148727984	5	0.009834202351069963
-https://uiowa.edu/	3281.9480002938126	0.11706674257244556	0.5587084148727984	5	0.009834202351069963
-https://uihc.org/billpay	3281.9480002938126	0.11706674257244558	0.5587084148727984	5	0.009834202351069963
-http://www.medicine.uiowa.edu/research	0.0	0.001953991634335988	0.35554171855541716	6	0.00033635116478316366
-https://nativeamericancouncil.org.uiowa.edu/	1828.462566117874	0.1132854204712873	0.5257826887661142	5	0.009070717159903277
-https://www.instagram.com/uihealthcare	3281.9480002938126	0.1170667425724456	0.5587084148727984	5	0.009834202351069963
-https://uihc.org/sites/default/files/nursing_annual_report_2016_0.pdf	0.0	0.001956076169366889	0.35709818636647905	6	0.0003453218300990612
-https://medicine.uiowa.edu/perfusion/	0.0	0.001962847889671864	0.3616212792906903	5	0.00036314638994374473
-https://medicine.uiowa.edu/orthopedics/education/master-science-athletic-training	0.0	0.0019628478896718603	0.3616212792906903	5	0.00036314638994374473
-https://www.youtube.com/embed/xAfVX_lW0Nk	0.0	0.0019512179470095243	0.3539987600743955	6	0.000328453370227392
-http://www.icts.uiowa.edu/	0.0	0.0019536440378979864	0.35554171855541716	6	0.00033700453813729364
-https://www.facebook.com/uihealthcare/	3281.9480002938126	0.11706674257244556	0.5587084148727984	5	0.009834202351069963
-http://www.healthcare.uiowa.edu/MSTP/	0.0	0.0019628478896718538	0.3616212792906903	5	0.00036314638994374473
-http://www.nursing.uiowa.edu/academic-programs/dnp/plans	0.0	0.0019628478896718572	0.3616212792906903	5	0.00036314638994374473
-http://www.healthcare.uiowa.edu/fns/internship/internship.htm	0.0	0.001962847889671852	0.3616212792906903	5	0.00036314638994374473
-https://www.healthcare.uiowa.edu/marcom/uihc/in-kind-donation-form.pdf	0.0	0.0019535382439197667	0.35487880671224364	6	0.0003311193827475937
-https://uiowa.qualtrics.com/jfe/form/SV_78xOSCiML4zFaHX	0.0	0.0019546016268763185	0.35554171855541716	6	0.00033596974537744876
-https://c212.net/c/link/?t=0&l=en&o=2519504-1&h=2431781019&u=https%3A%2F%2Fwww.facebook.com%2FEncompassHealth%2F&a=Facebook	0.0	0.0007998417471133344	0.2894069944247339	6	0.00036023984477448923
-https://medicine.uiowa.edu/radsci/programs/radiologic-technology	0.0	0.001962847889671862	0.3616212792906903	5	0.00036314638994374473
-http://clas.uiowa.edu/comsci/graduate-program	0.0	0.001962847889671857	0.3616212792906903	5	0.00036314638994374473
-http://www.medicine.uiowa.edu/humangenetics/	0.0	0.001953644037897989	0.35554171855541716	6	0.00033700453813729364
-https://medicine.uiowa.edu/radsci/programs/diagnostic-medical-sonography	0.0	0.00196284788967186	0.3616212792906903	5	0.00036314638994374473
-http://www.medicine.uiowa.edu/pathology/education/mlsp/mlsp/	0.0	0.001962847889671857	0.3616212792906903	5	0.00036314638994374473
-http://music.uiowa.edu/programs/therapy/therapy_equivalency.shtml	0.0	0.0019628478896718533	0.3616212792906903	5	0.00036314638994374473
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/annual_reports/2018_annual_report.pdf	0.0	0.001956076169366904	0.35709818636647905	6	0.0003453218300990612
-https://medicine.uiowa.edu/education/doctor-philosophy-phd	0.0	0.0019628478896718538	0.3616212792906903	5	0.00036314638994374473
-https://medicine.uiowa.edu/ocrme/	0.0	0.0019628478896718594	0.3616212792906903	5	0.00036314638994374473
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/administrative_org_chart.pdf	0.0	0.0019554607829017547	0.3564294631710362	6	0.00034011530610053467
-https://medicine.uiowa.edu/pbi/	0.0	0.0019536440378979847	0.35554171855541716	6	0.00033700453813729364
-https://medicine.uiowa.edu/cme/	0.0	0.001962847889671859	0.3616212792906903	5	0.00036314638994374473
-https://www.youtube.com/embed/pke8SHuEF2Y?autoplay=1&start=0&rel=0	0.0	0.001953297084179338	0.35532047293092717	6	0.0003357974891679182
-https://medicine.uiowa.edu/radsci/programs/radiation-therapy	0.0	0.001962847889671858	0.3616212792906903	5	0.00036314638994374473
-https://newsroom.encompasshealth.com/press-releases/encompass-health-to-build-its-first-hospital-in-iowa/	0.0	0.0007998417471133322	0.2894069944247339	6	0.00036023984477448923
-https://issuu.com/uihealthcare/docs/ar_2019_final_pages	0.0	0.0019560761693668965	0.35709818636647905	6	0.0003453218300990612
-https://uihc.org/material-services	0.0	0.0019569154971663134	0.3573216520650814	6	0.0003452514221307236
-https://medicine.uiowa.edu/pa/	0.0	0.001962847889671854	0.3616212792906903	5	0.00036314638994374473
-https://www.youtube.com/watch?v=dF6JUqEioD8	0.0	0.0019532970841793377	0.35532047293092717	6	0.0003357974891679182
-https://issuu.com/uihealthcare/docs/ui_nursing_ar_cy2019_singles?fr=sOWY1YTg3MDY3NQ	0.0	0.0019560761693668965	0.35709818636647905	6	0.0003453218300990612
-https://clic-ctsa.org/	0.0	0.001953644037897988	0.35554171855541716	6	0.00033700453813729364
-https://uihc.org/services-and-amenities	0.0	0.001956915497166322	0.3573216520650814	6	0.0003452514221307236
-https://uihc.org/work-related-care-management	0.0	0.0019569154971663064	0.3573216520650814	6	0.0003452514221307236
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/course_handout.pdf	0.0	0.001953297084179335	0.35532047293092717	6	0.0003357974891679182
-http://grad.admissions.uiowa.edu/academics/audiology-aud	0.0	0.001962847889671861	0.3616212792906903	5	0.00036314638994374473
-http://www.medicine.uiowa.edu/NMT/	0.0	0.0019628478896718637	0.3616212792906903	5	0.00036314638994374473
-https://medicine.uiowa.edu/md/	0.0	0.0019628478896718624	0.3616212792906903	5	0.00036314638994374473
-https://medcom.uiowa.edu/theloop/quest-newsletter-archives	0.0	0.0019560761693668935	0.35709818636647905	6	0.0003453218300990612
-http://www.public-health.uiowa.edu/hmp-phd/	0.0	0.001962847889671864	0.3616212792906903	5	0.00036314638994374473
-http://www.medicine.uiowa.edu/eye/orthoptic-training/	0.0	0.001962847889671872	0.3616212792906903	5	0.00036314638994374473
-https://uihc.org/clinical-staff-office	0.0	0.0019569154971663134	0.3573216520650814	6	0.0003452514221307236
-http://pharmacy.uiowa.edu/residency-programs	0.0	0.001962847889671864	0.3616212792906903	5	0.00036314638994374473
-https://uihc.org/pharmacies	0.0	0.0019569154971663186	0.3573216520650814	6	0.0003452514221307236
-https://pharmacy.uiowa.edu/pharmd	0.0	0.001962847889671862	0.3616212792906903	5	0.00036314638994374473
-https://uihc.org/media	0.0	0.0019569154971663207	0.3573216520650814	6	0.0003452514221307236
-http://www.biomed-imaging.uiowa.edu/	0.0	0.0019536440378979843	0.35554171855541716	6	0.00033700453813729364
-http://www.nursing.uiowa.edu/	0.0	0.001962847889671862	0.3616212792906903	5	0.00036314638994374473
-https://medicine.uiowa.edu/pt/	0.0	0.001962847889671847	0.3616212792906903	5	0.00036314638994374473
-https://uihc.org/kind-donations	0.0	0.00195353824391977	0.35487880671224364	6	0.0003311193827475937
-https://medcom.uiowa.edu/theloop/category/noon-news	0.0	0.001956076169366903	0.35709818636647905	6	0.0003453218300990612
-https://www.youtube.com/watch?v=x_WRECcKRrA	0.0	0.001953297084179328	0.35532047293092717	6	0.0003357974891679182
-https://medicine.uiowa.edu/alumni/meet-us/collegiate-and-community-relations-staff	0.0	0.0019569154971663194	0.3573216520650814	6	0.0003452514221307236
-http://www.public-health.uiowa.edu/emha/	0.0	0.001962847889671849	0.3616212792906903	5	0.00036314638994374473
-https://medicineiowa.org/	0.0	0.001956076169366897	0.35709818636647905	6	0.0003453218300990612
-https://c212.net/c/link/?t=0&l=en&o=2519504-1&h=1188766114&u=https%3A%2F%2Fnewsroom.encompasshealth.com%2F&a=newsroom	0.0	0.0007998417471133309	0.2894069944247339	6	0.00036023984477448923
-http://www.dentistry.uiowa.edu/education	0.0	0.00196284788967186	0.3616212792906903	5	0.00036314638994374473
-https://medcom.uiowa.edu/theloop	0.0	0.001956076169366882	0.35709818636647905	6	0.0003453218300990612
-http://foundation.uiowa.edu/about/	0.0	0.0019569154971663173	0.3573216520650814	6	0.0003452514221307236
-https://hcis.healthcare.uiowa.edu/selfservice/	0.0	0.0019569154971663225	0.3573216520650814	6	0.0003452514221307236
-https://medicine.uiowa.edu/education/bachelor-science-bs-programs	0.0	0.0019628478896718564	0.3616212792906903	5	0.00036314638994374473
-https://hr.uiowa.edu/	0.0	0.00195691549716632	0.3573216520650814	6	0.0003452514221307236
-https://c212.net/c/link/?t=0&l=en&o=2519504-1&h=2519245109&u=http%3A%2F%2Fwww.encompasshealth.com%2F&a=encompasshealth.com	0.0	0.0007998417471133267	0.2894069944247339	6	0.00036023984477448923
-https://www.youtube.com/watch?v=papnH_k3xB4	0.0	0.0019532970841793264	0.35532047293092717	6	0.0003357974891679182
-https://uiowa.qualtrics.com/jfe/form/SV_cMDSqf2IMD8UXty	0.0	0.007345683084226934	0.3705386112913692	6	0.0009478566030999684
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/annual_reports/nursing_ar_2018.pdf	0.0	0.001956076169366885	0.35709818636647905	6	0.0003453218300990612
-https://www.youtube.com/watch?v=exp5kk4qviY	0.0	0.0019532970841793303	0.35532047293092717	6	0.0003357974891679182
-https://gme.medicine.uiowa.edu/	0.0	0.0027643411585429527	0.3653230966090851	5	0.0004954792359281974
-https://uiowa.qualtrics.com/jfe/form/SV_0kCwwNgvNNDm8Kh	0.0	0.0044333480332988786	0.35776942355889724	6	0.0005752645029711441
-https://medicine.uiowa.edu/research/about-office-research	0.0	0.0019569154971663173	0.3573216520650814	6	0.0003452514221307236
-https://uihc.org/procurement-services	0.0	0.0019569154971663186	0.3573216520650814	6	0.0003452514221307236
-https://www.youtube.com/watch?v=yXKQSPRN52g&list=PLtle2YMvxbfgcTtAr8zZyN2ctUvZM0ono	0.0	0.0019546016268763137	0.35554171855541716	6	0.00033596974537744876
-https://uihc.org/ui-hospitals-and-clinics-engineering-services	0.0	0.001956915497166311	0.3573216520650814	6	0.0003452514221307236
-http://clas.uiowa.edu/socialwork/	0.0	0.001962847889671861	0.3616212792906903	5	0.00036314638994374473
-https://c212.net/c/link/?t=0&l=en&o=2519504-1&h=1216162963&u=https%3A%2F%2Ftwitter.com%2Fencompasshlth&a=Twitter	0.0	0.0007998417471133196	0.2894069944247339	6	0.00036023984477448923
-https://uihc.org/specialty-pharmacy-services	0.0	0.001956915497166319	0.3573216520650814	6	0.0003452514221307236
-https://www.youtube.com/watch?v=6mle7tAiyXw	0.0	0.00195329708417933	0.35532047293092717	6	0.0003357974891679182
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/Path_Discovery.pdf	0.0	0.0010360889192408862	0.3063304721030043	6	0.0003701266854201961
-https://issuu.com/uihealthcare/docs/ar_2020_final	0.0	0.001956076169366902	0.35709818636647905	6	0.0003453218300990612
-https://uihc.org/privacy-notice-english	0.0	0.0007991226281695797	0.2879475542107917	6	0.00033742496617286005
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/application_2021.docx	0.0	0.0009527034717639275	0.2913265306122449	6	0.0003395439453509963
-https://wellmark.adaptiverx.com/web/pdf?key=8F02B26A288102C27BAC82D14C006C6FC54D480F80409B687B8A91952D0F0058	0.0	0.0008008119390589945	0.28970065956367325	6	0.00035964148499548714
-https://uihc.org/sites/default/files/documents/health-sciences-campus-newton-road-ramp.pdf	0.0	0.0008225922549783335	0.2898477157360406	6	0.00034414602229546607
-https://www.facebook.com/UIHealthCareCEP	0.0	0.0019546016268763124	0.35554171855541716	6	0.00033596974537744876
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/annual_reports/Summary_FY19.pdf	0.0	0.000861809655132941	0.2980167014613779	6	0.00035529250610582863
-https://transportation.uiowa.edu/cambus	0.0	0.0008007064001021172	0.29117797042325344	6	0.0003854518054298403
-https://youtu.be/y_hxoBKprA8	0.0	0.001036088919240886	0.3063304721030043	6	0.0003701266854201961
-https://transportation.uiowa.edu/alternative-transportation	0.0	0.0008007064001021313	0.29117797042325344	6	0.0003854518054298403
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/PA_Flyer.pdf	0.0	0.0010360889192408851	0.3063304721030043	6	0.0003701266854201961
-https://uihc.org/filling-new-specialty-pharmacy-prescription	0.0	0.0008008119390589963	0.28970065956367325	6	0.00035964148499548714
-https://jobs.uiowa.edu/jobSearch/postdoc/	0.0	0.000801493268871101	0.29192229038854806	6	0.00039457060822221495
-https://uiowa.referrals.selectminds.com/et/7mZhJZEb/page/nursing-careers-11	0.0	0.000801493268871063	0.29192229038854806	6	0.00039457060822221495
-https://hr.uiowa.edu/benefits/life-insurance	0.0	0.0008007064001020862	0.29117797042325344	6	0.0003854518054298403
-https://hr.uiowa.edu/benefits/health-insurance/employee-health-insurance	0.0	0.0008007064001021112	0.29117797042325344	6	0.0003854518054298403
-https://iowacityareadevelopment.com/	0.0	0.0008550670875198269	0.2975508077123502	6	0.00036495992877556426
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/project_sponsor_rec_form.docx	0.0	0.0009527034717639345	0.2913265306122449	6	0.0003395439453509963
-https://uihc.org/pharmacy/transfer-prescription	0.0	0.0008008119390589992	0.28970065956367325	6	0.00035964148499548714
-https://hr.uiowa.edu/careers/talent-acquisition/apply-iowa	0.0	0.0008007064001021106	0.29117797042325344	6	0.0003854518054298403
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/Pre_Med_Packet.pdf	0.0	0.0010360889192408697	0.3063304721030043	6	0.0003701266854201961
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/RadSciFlyer.pdf	0.0	0.0010360889192408856	0.3063304721030043	6	0.0003701266854201961
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/annual_reports/Summary_FY20.pdf	0.0	0.0008618096551329425	0.2980167014613779	6	0.00035529250610582863
-https://e.issuu.com/embed.html?d=stem_summary_report_19-20&u=uihealthcare	0.0	0.0008618096551329431	0.2980167014613779	6	0.00035529250610582863
-https://uiowa.referrals.selectminds.com/jobs/search/3686320	0.0	0.0008014932688710799	0.29192229038854806	6	0.00039457060822221495
-http://www.kirkwood.edu/wplc	0.0	0.0008113988178864276	0.28882144663631765	6	0.0003461683923107775
-https://transparency.uiowa.edu/	0.0	0.0007991226281695788	0.2879475542107917	6	0.00033742496617286005
-https://www.cdrnet.org/state-licensure	0.0	0.0009082303495553515	0.2898477157360406	6	0.0003371126593331084
-https://youtu.be/pyys7BE3Fx4	0.0	0.0010360889192408893	0.3063304721030043	6	0.0003701266854201961
-https://uihc.org/frequently-asked-questions-about-specialty-pharmacy	0.0	0.0008008119390589944	0.28970065956367325	6	0.00035964148499548714
-https://uihc.org/diseases-specialty-pharmacists-may-monitor	0.0	0.0008008119390589957	0.28970065956367325	6	0.00035964148499548714
-https://e.issuu.com/embed.html?d=stem_annualreport_fy20&u=uihealthcare	0.0	0.000861809655132942	0.2980167014613779	6	0.00035529250610582863
-https://hr.uiowa.edu/benefits/dental-insurance/employee-dental-insurance-dental-ii	0.0	0.0008007064001021268	0.29117797042325344	6	0.0003854518054298403
-https://youtu.be/umu2zAAWHeQ	0.0	0.0010360889192408875	0.3063304721030043	6	0.0003701266854201961
-https://uihc.org/nursingjobs/	0.0	0.00080149326887109	0.29192229038854806	6	0.00039457060822221495
-https://e.issuu.com/embed.html?d=final_calednarreportfy19&u=uihealthcare	0.0	0.0008618096551329438	0.2980167014613779	6	0.00035529250610582863
-https://youtu.be/E3G4BvgpsM4	0.0	0.001036088919240879	0.3063304721030043	6	0.0003701266854201961
-https://uihc.org/sites/default/files/documents/admissions_campus_color_map_2013.pdf	0.0	0.0008225922549783411	0.2898477157360406	6	0.00034414602229546607
-https://www.press-citizen.com/	0.0	0.0008550670875198265	0.2975508077123502	6	0.00036495992877556426
-https://medicine.uiowa.edu/diversity/faith-based-diversity-resources	0.0	0.0008550670875198154	0.2975508077123502	6	0.00036495992877556426
-https://uiowa.qualtrics.com/jfe/form/SV_9mfZFs3qZO3qOA5	0.0	0.0019020804814306926	0.3116812227074236	6	0.0005446833349678437
-https://uihc.org/college-student-volunteers	0.0	0.0008613508267038114	0.2975508077123502	6	0.0003437923259937256
-https://www.thegazette.com/	0.0	0.0008550670875198267	0.2975508077123502	6	0.00036495992877556426
-https://hr.uiowa.edu/benefits/flexible-spending-accounts	0.0	0.0008007064001021114	0.29117797042325344	6	0.0003854518054298403
-https://www.desmoinesregister.com/	0.0	0.0008550670875198253	0.2975508077123502	6	0.00036495992877556426
-https://www.eatrightpro.org/acend/students-and-advancing-education/information-for-students	0.0	0.0009082303495553429	0.2898477157360406	6	0.0003371126593331084
-https://littlevillagemag.com/	0.0	0.0008550670875198369	0.2975508077123502	6	0.00036495992877556426
-https://hr.uiowa.edu/compensation-classification	0.0	0.0008007064001021166	0.29117797042325344	6	0.0003854518054298403
-https://uiowa.qualtrics.com/jfe/form/SV_8H1TSVhykXNhvzn?Q_JFE=qdg	0.0	0.0008613508267038213	0.2975508077123502	6	0.0003437923259937256
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/UIHC_AFP_Overview.pdf	0.0	0.0008565937584958979	0.2904374364191251	6	0.0003431769152551956
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/Path_Becoming_Doctor.pdf	0.0	0.0010360889192408845	0.3063304721030043	6	0.0003701266854201961
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/nomination_form_2021.docx	0.0	0.0009527034717639301	0.2913265306122449	6	0.0003395439453509963
-http://financialaid.uiowa.edu/graduate	0.0	0.0009079081020259758	0.289553752535497	6	0.00032963746463899685
-https://www.cdrnet.org/graduatedegree	0.0	0.0009082303495553334	0.2898477157360406	6	0.0003371126593331084
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/education/Stacey_Cyphert_Health_Policy_Fellowship.pdf	0.0	0.001690773494859285	0.2907331975560081	6	0.0004148072564061922
-https://donate.givetoiowa.org/s/1773/campus20/home.aspx?sid=1773&gid=3&pgid=1182&cid=3080	0.0	0.000872279142643987	0.29848405645582854	6	0.0003435785893587128
-https://uihc.org/parking-and-map	0.0	0.0008225922549783395	0.2898477157360406	6	0.00034414602229546607
-https://uihc.org/about-us	0.0	0.0008102836920384473	0.2882382635032812	6	0.0003370066734734148
-https://jobs.uiowa.edu/jobSearch/faculty/	0.0	0.0008014932688710826	0.29192229038854806	6	0.00039457060822221495
-https://uiowa.qualtrics.com/jfe/form/SV_dapO9HxzfrKOr8p	0.0	0.0008101380168228035	0.2879475542107917	6	0.00033235670811578987
-https://transportation.uiowa.edu/parking	0.0	0.0008007064001021055	0.29117797042325344	6	0.0003854518054298403
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/education/AdminFellowsPreviousProjects.pdf	0.0	0.0008565937584958795	0.2904374364191251	6	0.0003431769152551956
-https://grad.admissions.uiowa.edu/academics/master-clinical-nutrition-mcn	0.0	0.0009079081020259751	0.289553752535497	6	0.00032963746463899685
-https://hr.uiowa.edu/benefits/vacation-and-sick-leave	0.0	0.0008007064001021131	0.29117797042325344	6	0.0003854518054298403
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/PT_Program.pdf	0.0	0.0010360889192408825	0.3063304721030043	6	0.0003701266854201961
-https://jobs.uiowa.edu/browse-jobs	0.0	0.0008014932688710806	0.29192229038854806	6	0.00039457060822221495
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/course_handout.docx	0.0	0.0009527034717639323	0.2913265306122449	6	0.0003395439453509963
-https://uihc.org/how-sign-our-prescription-mail-service	0.0	0.0008008119390589965	0.28970065956367325	6	0.00035964148499548714
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/2021_MD_Class_Profile.pdf	0.0	0.0010360889192408814	0.3063304721030043	6	0.0003701266854201961
-https://hr.uiowa.edu/uichoice/prescription-drugs	0.0	0.0008008119390589985	0.28970065956367325	6	0.00035964148499548714
-https://e.issuu.com/embed.html?d=final-flyer__stem_summary_report&u=uihealthcare	0.0	0.0008618096551329408	0.2980167014613779	6	0.00035529250610582863
-https://www.iowapublicradio.org/	0.0	0.0008550670875198228	0.2975508077123502	6	0.00036495992877556426
-https://uiowa.qualtrics.com/jfe/form/SV_ahIGrUyTUotR1WJ	0.0	0.0008020523703128441	0.2913265306122449	6	0.0003848867987108926
-https://uihc.org/professional-appearance-policy-overview	0.0	0.0008113988178864236	0.28882144663631765	6	0.0003461683923107775
-https://transportation.uiowa.edu/	0.0	0.0008007064001021222	0.29117797042325344	6	0.0003854518054298403
-https://jobs.uiowa.edu/content/temp/	0.0	0.0008014932688710846	0.29192229038854806	6	0.00039457060822221495
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2020-2021_ELA_Poster.pdf	0.0	0.0009521964313305995	0.2908813041263372	6	0.0003290720321283915
-https://medicine.uiowa.edu/community/meet-our-team	0.0	0.0008321740828658052	0.2898477157360406	6	0.00033263182806151455
-https://hr.uiowa.edu/employee-well-being	0.0	0.0008007064001021197	0.29117797042325344	6	0.0003854518054298403
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/Pre_Health_Science_Packet.pdf	0.0	0.001036088919240887	0.3063304721030043	6	0.0003701266854201961
-https://uiowa.referrals.selectminds.com/	0.0	0.0008014932688710792	0.29192229038854806	6	0.00039457060822221495
-https://youtu.be/Up8SiSbAOuQ	0.0	0.001036088919240899	0.3063304721030043	6	0.0003701266854201961
-https://hr.uiowa.edu/benefits/retirement-plans	0.0	0.0008007064001021159	0.29117797042325344	6	0.0003854518054298403
-https://uiowa.qualtrics.com/jfe/form/SV_2gg0dsKK844KmEZ	0.0	0.0008102836920384458	0.2882382635032812	6	0.0003370066734734148
-https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/_layouts/15/FormServer.aspx?XsnLocation=https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/Project%20Requests/Forms/template.xsn&OpenIn=browser&SaveLocation=https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/Project%20Requests&Source=https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet	0.0	0.005248750069212769	0.2925204918032787	6	0.0006951190594660685
-https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/_layouts/15/FormServer.aspx?XsnLocation=https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/NewSpaceRequests/Forms/template.xsn&SaveLocation=https%3A%2F%2Fthepoint.healthcare.uiowa.edu%2Fsites%2FCapManIntranet%2FNewSpaceRequests&ClientInstalled=false&DefaultItemOpen=0&Source=https%3A%2F%2Fthepoint.healthcare.uiowa.edu%2Fsites%2FCapManIntranet%2FNewSpaceRequests%2FForms%2FNew%20Requests.aspx	0.0	0.0052487500692127665	0.2925204918032787	6	0.0006951190594660685
-https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/General%20Documents/Project%20Maps/Project%20Map%20Master.pdf	0.0	0.0008746881926565787	0.2904374364191251	6	0.0003318465066587296
-https://thepoint.healthcare.uiowa.edu/_layouts/15/WopiFrame.aspx?sourcedoc=/Document%20Library/210218%20REVISED%20UI%20Health%20Care%20Strategic%20Plan.docx&action=default	0.0	0.0008020523703128325	0.2913265306122449	6	0.0003848867987108926
-https://thepoint.healthcare.uiowa.edu/_layouts/15/WopiFrame2.aspx?sourcedoc=/Document%20Library/CCOM_Report_1_29_2020.pdf&action=default	0.0	0.0008020523703128436	0.2913265306122449	6	0.0003848867987108926
-https://uihc.org/primary-and-specialty-care/orthopedics-and-rehabilitation	0.0	0.0008085064384438044	0.2960082944530845	6	0.0003902824509208286
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/other_health_care_career_matching.pdf	0.0	0.0008659915621898201	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringSheet_DoctorBadge.pdf	0.0	0.0008659915621898204	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ANSWERKEY_BodyPartsCrosswordPuzzle.pdf	0.0	0.0008659915621898126	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2019-2020_ELA_Poster.pdf	0.0	0.0009521964313306089	0.2908813041263372	6	0.0003290720321283915
-https://www.youtube.com/embed/4ZzcvzHU-fY	0.0	0.0008128724174610724	0.2899949212798375	6	0.0003332340628092496
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2016-2017_ELA_Poster.pdf	0.0	0.0009521964313306001	0.2908813041263372	6	0.0003290720321283915
-https://uihc.org/primary-and-specialty-care/primary-care	0.0	0.0008085064384438154	0.2960082944530845	6	0.0003902824509208286
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ANSWERKEY_CareerCrosswordPuzzle.pdf	0.0	0.0008659915621898073	0.3021164021164021	6	0.00043679441178540987
-https://www.youtube.com/embed/spvJZm_yCKA	0.0	0.0008128724174610654	0.2899949212798375	6	0.0003332340628092496
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/scavenger_hunt.pdf	0.0	0.0008659915621898165	0.3021164021164021	6	0.00043679441178540987
-https://uihc.org/primary-and-specialty-care/heart-and-vascular-center	0.0	0.000808506438443788	0.2960082944530845	6	0.0003902824509208286
-https://narayanan.lab.uiowa.edu/	0.0	0.0008143382735013683	0.29147524247064827	6	0.00034844127514429435
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/dna_coloring_sheet.pdf	0.0	0.000865991562189813	0.3021164021164021	6	0.00043679441178540987
-https://www.youtube.com/embed/wQVVX3q6fmA	0.0	0.0008128724174610729	0.2899949212798375	6	0.0003332340628092496
-https://www.thinkiowacity.com/restaurants/	0.0	0.0008130837641536128	0.2940267765190525	6	0.00040088332594795514
-https://buildui.facilities.uiowa.edu/buildui/bids	0.0	0.0008749986493078879	0.2907331975560081	6	0.0003394613735466054
-https://www.youtube.com/embed/ZvAJQasYnek	0.0	0.0008128724174610681	0.2899949212798375	6	0.0003332340628092496
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/medical_equipment_coloring.pdf	0.0	0.0008659915621898074	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Coloring_Pages_Thank_You-1.pdf	0.0	0.0008659915621898135	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/True_False_PhysicalActivity.pdf	0.0	0.0008659915621898127	0.3021164021164021	6	0.00043679441178540987
-https://www.cedarrapids.org/events/calendar	0.0	0.0008130837641536303	0.2940267765190525	6	0.00040088332594795514
-https://www.youtube.com/embed/Yl37ZC1DBLE	0.0	0.0008128724174610637	0.2899949212798375	6	0.0003332340628092496
-https://iowacity.momcollective.com/2020/01/19/iowa-city-preschool-guide-2020/	0.0	0.0008123435932502784	0.29297075423293995	6	0.000388445817930172
-https://iowacity.momcollective.com/2017/04/12/guide-iowa-city-neighborhoods-suburbs/	0.0	0.0008113201704305178	0.2908813041263372	6	0.00035996000186362133
-https://medicine.uiowa.edu/diversity/lgbtq-diversity-resources	0.0	0.0008130837641536328	0.2940267765190525	6	0.00040088332594795514
-https://www.niche.com/k12/search/best-private-schools/c/johnson-county-ia/	0.0	0.0008123435932502845	0.29297075423293995	6	0.000388445817930172
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_TheHeart.pdf	0.0	0.0008659915621898178	0.3021164021164021	6	0.00043679441178540987
-https://hr.uiowa.edu/well-being/family-services/child-care/back-child-care	0.0	0.0008123435932502706	0.29297075423293995	6	0.000388445817930172
-https://uihc.org/primary-and-specialty-care/same-day-care	0.0	0.0008085064384438054	0.2960082944530845	6	0.0003902824509208286
-https://cancer.uiowa.edu/	18.452645723287922	0.00458982853960209	0.3061662198391421	6	0.001153767642087517
-https://www.cr.k12.ia.us/	0.0	0.0008123435932502709	0.29297075423293995	6	0.000388445817930172
-https://www.iowa4cs.com/	0.0	0.0008123435932502785	0.29297075423293995	6	0.000388445817930172
-https://www.youtube.com/embed/yXKQSPRN52g	0.0	0.0008128724174610643	0.2899949212798375	6	0.0003332340628092496
-https://littlevillagemag.com/best-of-the-crandic-2019-food-drink/	0.0	0.0008130837641536224	0.2940267765190525	6	0.00040088332594795514
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2014-2015_ELA_Poster.pdf	0.0	0.0009521964313305974	0.2908813041263372	6	0.0003290720321283915
-https://www.thinkiowacity.com/plan-your-trip/living-here/relocation-and-real-estate/	0.0	0.0008113201704305136	0.2908813041263372	6	0.00035996000186362133
-https://www.thinkiowacity.com/events/	0.0	0.000813083764153632	0.2940267765190525	6	0.00040088332594795514
-https://hr.uiowa.edu/benefits	0.0	0.0008085064384438066	0.2960082944530845	6	0.0003902824509208286
-https://www.facilities.uiowa.edu/projects/contractors	0.0	0.0008748433934391992	0.2905852417302799	6	0.00033567774193816915
-https://www.youtube.com/embed/0oNmOLZjwwM	0.0	0.0008140454125292032	0.2908813041263372	6	0.00033985546920211625
-https://www.icgov.org/city-government/departments-and-divisions/parks-and-recreation	0.0	0.0008111741776385981	0.2905852417302799	6	0.00035565059055466533
-https://www.coralville.org/324/Education	0.0	0.0008123435932502703	0.29297075423293995	6	0.000388445817930172
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_Cell.pdf	0.0	0.0008659915621898127	0.3021164021164021	6	0.00043679441178540987
-https://www.coralville.org/256/Parks-Recreation-Facilities	0.0	0.0008111741776386071	0.2905852417302799	6	0.00035565059055466533
-https://iowacityareadevelopment.com/live-the-good-life/community-profile/	0.0	0.0008113201704305253	0.2908813041263372	6	0.00035996000186362133
-https://www.youtube.com/embed/bIchihUNRy0	0.0	0.0008128724174610667	0.2899949212798375	6	0.0003332340628092496
-https://uihc.org/amy-m-pearlman?_ga=2.101270531.320783768.1592581150-636136941.1590097930	0.0	0.000825602088460896	0.2917731221257026	6	0.00034710983448023216
-https://medicine.uiowa.edu/diversity/community-diversity-resources	0.0	0.0008130837641536282	0.2940267765190525	6	0.00040088332594795514
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_STEMatIowa.pdf	0.0	0.0008659915621898125	0.3021164021164021	6	0.00043679441178540987
-https://www.facilities.uiowa.edu/projects/design-professionals	0.0	0.0008748433934392186	0.2905852417302799	6	0.00033567774193816915
-https://docs.google.com/forms/d/e/1FAIpQLSezFBa9Qqa1LzqAsk26rCDIU9wNMdp43oSfvHFLgL6FvLZKfA/viewform?embedded=true	0.0	0.0008256020884608857	0.2917731221257026	6	0.00034710983448023216
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Common_Infectious_Diseases.pdf	0.0	0.0008659915621898043	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ANSWERKEY_ResearchWordSearch.pdf	0.0	0.0008659915621898124	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/bone_matching_sheet.pdf	0.0	0.0008659915621898045	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2018-2019_ELA_Poster.pdf	0.0	0.0009521964313306048	0.2908813041263372	6	0.0003290720321283915
-https://www.iowacityschools.org/	0.0	0.0008123435932502844	0.29297075423293995	6	0.000388445817930172
-https://www.youtube.com/embed/RivsGe6T6mM	0.0	0.0008128724174610713	0.2899949212798375	6	0.0003332340628092496
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ANSWERKEY_BodyPartsWordSearch.pdf	0.0	0.0008659915621898184	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Brain_WordSearch.pdf	0.0	0.0008659915621898113	0.3021164021164021	6	0.00043679441178540987
-https://www.icgov.org/city-government/departments-and-divisions/housing-authority	0.0	0.0008113201704305299	0.2908813041263372	6	0.00035996000186362133
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/CrosswordPuzzle_BodyParts.pdf	0.0	0.0008659915621898115	0.3021164021164021	6	0.00043679441178540987
-https://www.youtube.com/embed/uMtWAlCVgJM	0.0	0.0008128724174610655	0.2899949212798375	6	0.0003332340628092496
-https://uiowa.edu/ap-purchasing/ebid	0.0	0.0008749986493078898	0.2907331975560081	6	0.0003394613735466054
-https://www.thinkiowacity.com/things-to-do/sports-and-recreation/	0.0	0.0008111741776385961	0.2905852417302799	6	0.00035565059055466533
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/body_parts_word_scramble.pdf	0.0	0.0008659915621898144	0.3021164021164021	6	0.00043679441178540987
-https://www.kirkwood.edu/workplace-learning-connection/index	0.0	0.0008123435932502702	0.29297075423293995	6	0.000388445817930172
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/CareerCrosswordPuzzle.pdf	0.0	0.0008659915621898127	0.3021164021164021	6	0.00043679441178540987
-https://www.uiowaplanroom.com/	0.0	0.0008749986493078728	0.2907331975560081	6	0.0003394613735466054
-https://twitter.com/narayananlab	0.0	0.0008143382735013668	0.29147524247064827	6	0.00034844127514429435
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Coloring_Pages_Thank_You-2.pdf	0.0	0.000865991562189812	0.3021164021164021	6	0.00043679441178540987
-https://medicine.uiowa.edu/acb/profile/kathleen-andersen	0.0	0.0008130185843638033	0.2902897813929842	6	0.0003378773516133378
-https://www.youtube.com/embed/_hzoD2DaJ_A	0.0	0.00081287241746106	0.2899949212798375	6	0.0003332340628092496
-https://uiowa.referrals.selectminds.com/jobs/administrative-fellow-14196	0.0	0.0008337275631197345	0.2894069944247339	6	0.00033416656011037664
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/PhysicalActivityBINGO.pdf	0.0	0.0008659915621898206	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/MADLIB_DayinthelifeofaDoctor.pdf	0.0	0.0008659915621898289	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_TheLungs.pdf	0.0	0.0008659915621898256	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/MADLIB_LifeasaScientist.pdf	0.0	0.0008659915621898068	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2017-2018_ELA_Poster.pdf	0.0	0.0009521964313306013	0.2908813041263372	6	0.0003290720321283915
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Super_Smile_Challenge.pdf	0.0	0.00086599156218981	0.3021164021164021	6	0.00043679441178540987
-https://uiowa.referrals.selectminds.com/jobs/admin-services-specialist-14182	0.0	0.0008334236721177794	0.28926038500506585	6	0.00033212872319993657
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/WordSearch_BodyParts.pdf	0.0	0.0008659915621898103	0.3021164021164021	6	0.00043679441178540987
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_STEMobjects.pdf	0.0	0.0008659915621898184	0.3021164021164021	6	0.00043679441178540987
-https://www.youtube.com/embed/_ifwS-NzQc0	0.0	0.0008128724174610719	0.2899949212798375	6	0.0003332340628092496
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ResearchWordSearch.pdf	0.0	0.0008659915621898101	0.3021164021164021	6	0.00043679441178540987
-https://www.youtube.com/embed/8rmS0zYSWnk	0.0	0.0008256020884608946	0.2917731221257026	6	0.00034710983448023216
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_TheBrain.pdf	0.0	0.0008659915621898088	0.3021164021164021	6	0.00043679441178540987
-http://pubs.royle.com/publication/?m=22116&l=1	0.0	0.0008113201704305194	0.2908813041263372	6	0.00035996000186362133
-https://www.youtube.com/embed/ZXoidLnr_hk	0.0	0.0008140454125291972	0.2908813041263372	6	0.0003398554692021163
-http://p.rfer.us/UIOWAqoC3qL	0.0	0.0008340316167077882	0.289553752535497	6	0.0003360978430890878
-https://calendar.littlevillagemag.com/	0.0	0.0008130837641536304	0.2940267765190525	6	0.00040088332594795514
-https://recserv.uiowa.edu/	0.0	0.0008111741776385986	0.2905852417302799	6	0.00035565059055466533
-https://uihc.org/amy-m-pearlman	1.0263157894736843	0.002442429098559759	0.29327170005136105	6	0.0005036766890730023
-https://downtowniowacity.com/arts-and-culture/	0.0	0.0008130837641536238	0.2940267765190525	6	0.00040088332594795514
-https://uihc.org/primary-and-specialty-care/pharmacy-services	0.0	0.0008085064384437976	0.2960082944530845	6	0.0003902824509208286
-https://www.youtube.com/embed/kFvr6fmf3Sw	0.0	0.0008130185843638064	0.2902897813929842	6	0.0003378773516133378
-https://downtowniowacity.com/eat-drink/	0.0	0.0008130837641536296	0.2940267765190525	6	0.00040088332594795514
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2015-2016_ELA_Poster.pdf	0.0	0.0009521964313306015	0.2908813041263372	6	0.0003290720321283915
-https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Match_Organ.pdf	0.0	0.0008659915621898106	0.3021164021164021	6	0.00043679441178540987
-https://uihc.org/node/106036	0.0	4.732892468094668e-09	0.17424473603906013	7	0.0009770092761179168
-https://www.youtube.com/embed/58uQWop3v8Q	0.0	0.0008143382735013699	0.29147524247064827	6	0.00034844127514429435
-https://uihc.org/appointment	0.0	0.0037813221011582855	0.28267326732673265	7	0.0010257229534044506
-https://redcap.icts.uiowa.edu/redcap/surveys/?s=J4TWRF8DAJ	0.0	0.0037813221011582772	0.28267326732673265	7	0.0010257229534044506
-https://uihc.org/resources-referring-providers	0.0	0.0037813221011582824	0.28267326732673265	7	0.0010257229534044506
-https://www.tourismcedarrapids.com/restaurants/	0.0	0.0008130837641536302	0.2940267765190525	6	0.00040088332594795514
-https://www.youtube.com/embed/U6WSisuehf0	0.0	0.0003771480876600536	0.2766472868217054	7	0.00033910509829131115
-https://icts.uiowa.edu/	0.0	0.00037748292270295414	0.2773190869354055	7	0.0003560802043645959
-https://hso.research.uiowa.edu/institutional-review-boards-irbs	0.0	0.0007546310103630077	0.27758872143898883	7	0.00043294754041814474
-https://uihc.org/medical-services/holden-comprehensive-cancer-center	0.0	0.00037748292270295414	0.2773190869354055	7	0.0003560802043645959
-https://hso.research.uiowa.edu/info-public-research-subjects	0.0	0.0003770142130440097	0.2765133171912833	7	0.0003374180950272157
-https://www.nih.gov/	0.0	0.0003774829227029611	0.2773190869354055	7	0.0003560802043645959
-https://www.clinicaltrials.gov/	0.0	0.00037748292270295587	0.2773190869354055	7	0.0003560802043645959
-https://www.cancer.gov/about-cancer/treatment/clinical-trials	0.0	0.0003774829227029611	0.2773190869354055	7	0.0003560802043645959
-https://www.youtube.com/watch?v=0SgsWQWu1vc&list=PLrl7E8KABz1Ex7n0cjhxVgGDDF7xWHpF1&index=3	0.0	0.00037708110876914086	0.2766472868217054	7	0.00034097414653230356
-https://www.hhs.gov/ohrp/education-and-outreach/about-research-participation/informational-videos/index.html	0.0	0.0003770811087691339	0.2766472868217054	7	0.00034097414653230356
-https://www.hhs.gov/	0.0	0.0003774829227029576	0.2773190869354055	7	0.0003560802043645959
+Node	Degree	Betweenness	Eigenvector	Closeness	Eccentricity	PageRank	Clustering
+https://uihealthcare.org/	145	6073.965498490805	0.14574291453993232	0.5511583011583011	5	0.012637299844133957	0.38850574712643676
+https://uihealthcare.org/node/136	126	3281.9480002938126	0.11706674257244554	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://uihealthcare.org/education	169	20545.403242748263	0.14640347850646995	0.5659068384539148	4	0.020053748199704565	0.2858551704705551
+https://uihealthcare.org/education/ui-health-care-tours	142	4112.612497195038	0.14570909738354063	0.5495668912415784	5	0.011502088927006975	0.40555389072020775
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-neurons-message	138	2401.4654984907834	0.1455360327560598	0.5474592521572388	5	0.01074516022835914	0.4289643499418174
+https://uihealthcare.org/ui-health-care-business-community-resources	153	10430.731407581654	0.1459609975056521	0.5554474708171206	5	0.014936468639174543	0.3488992088063296
+https://uihealthcare.org/sites/default/files/inline-images/Health%20Network-Rehab%20%282c%20HORIZ%29.png	1	0.0	0.001953991634335992	0.35554171855541716	6	0.00033635116478316366	0.0
+https://uihealthcare.org/themes/custom/uihealthcare/images/logo-bw.svg	116	1828.462566117874	0.11328542047128726	0.5257826887661142	5	0.009070717159903277	0.24587706146926536
+https://uihealthcare.org/university-iowa-health-care	1	0.0	0.0019539916343360043	0.35554171855541716	6	0.00033635116478316366	0.0
+https://uihealthcare.org/education/post-graduate-policy-and-administrative-fellowships	140	3024.50765367244	0.14563634929906916	0.5485110470701249	5	0.010995656047704944	0.4170606372045221
+https://uihealthcare.org/find-your-career-university-iowa-health-care	141	4105.465498490786	0.14561353005670585	0.5490384615384616	5	0.011591457343889186	0.41084093211752787
+https://uihealthcare.org/education/university-iowa-master-clinical-nutrition-program	137	1831.4654984907854	0.14551021865037547	0.5469348659003831	5	0.010467256965662423	0.43527264920566766
+https://uihealthcare.org/education/ui-health-care-stem-education	145	6107.369038806494	0.1457884122222721	0.5511583011583011	5	0.012572372162070961	0.3889846743295019
+https://uihealthcare.org/encompass-health-and-university-iowa-health-system-announce-joint-venture-rehabilitation-hospital	42	3972.0029323729123	0.05965801764275334	0.4069850320741269	5	0.004845555163397913	0.42276422764227645
+https://mychart.uihealthcare.org/	116	1828.462566117874	0.11328542047128724	0.5257826887661142	5	0.009070717159903277	0.24587706146926536
+https://uihealthcare.org/education/executive-leadership-academy	144	5800.465498490806	0.14569110993527137	0.5506268081002893	5	0.012456372996985921	0.39384226884226886
+https://uihealthcare.org/university-iowa-health-care-proposed-strategic-plan	116	1828.462566117874	0.11328542047128723	0.5257826887661142	5	0.009070717159903277	0.24587706146926536
+https://uihealthcare.org/ui-health-care-initiatives	145	6363.465498490806	0.14571698826825874	0.5511583011583011	5	0.012748758268101715	0.38840996168582376
+https://uihealthcare.org/publications	152	10276.465498490748	0.145898394330903	0.5549076773566569	5	0.014851347644259395	0.353346113628442
+https://uihealthcare.org/leadership	149	8292.27873126329	0.14585249433040068	0.5532945736434108	5	0.013645956307912816	0.36803918011971704
+https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-selection-and-application	51	2277.0029323729113	0.07105955738360739	0.41079136690647483	5	0.004640344621159061	0.6666666666666666
+https://uihealthcare.org/education/ui-health-care-tours/ui-health-care-tours-parking-and-directions	42	2035.802877860359	0.0613549160660862	0.40785714285714286	5	0.004049808532186354	0.5098722415795587
+https://uihealthcare.org/sites/default/files/2014_0.pdf	1	0.0	0.001956076169366903	0.35709818636647905	6	0.0003453218300990612	0.0
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2021-08/Henrichs_Mark.jpg?itok=A8_0pLF-	1	0.0	0.0019554607829017916	0.3564294631710362	6	0.00034011530610053467	0.0
+https://uihealthcare.org/uichoice	2	0.0	0.0027654219356101108	0.36673089274245346	6	0.0004732961108137899	1.0
+https://uihealthcare.org/policy-fellowship	2	0.0	0.00280930478032705	0.35554171855541716	6	0.00040773763966340387	1.0
+https://uihealthcare.org/sites/default/files/Rehab-Hospital-Rendering.jpg	1	0.0	0.0007998417471133122	0.2894069944247339	6	0.00036023984477448923	0.0
+https://uihealthcare.org/community-outreach-and-engagement	39	574.4900215747874	0.06206959851323809	0.40785714285714286	5	0.0032319845726124855	0.6329284750337382
+https://uihealthcare.org/university-iowa-hospitals-clinics-administrative-fellowship	2	0.0	0.002809156660671464	0.35554171855541716	6	0.00040996737936373277	1.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/Family%20Medicine%202020_7_7-21_0.jpg?itok=OPBCfKxv	1	0.0	0.0019522569620286873	0.3546583850931677	6	0.000332147423746053	0.0
+https://uihealthcare.org/community-education	37	573.0029323729096	0.06042598835970889	0.4041047416843595	5	0.0030545428051573977	0.5990990990990991
+https://uihealthcare.org/sites/default/files/2017%20Annual%20Report.pdf	1	0.0	0.001956076169366885	0.35709818636647905	6	0.0003453218300990612	0.0
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-10/Carmen~Lee.jpg_1.jpg?itok=Rvh6U-kz	1	0.0	0.0019554607829017833	0.3564294631710362	6	0.00034011530610053467	0.0
+https://uihealthcare.org/privacy-policy	37	1142.0029323729111	0.05960438051917353	0.4041047416843595	5	0.0032753447773604108	0.5465465465465466
+https://uihealthcare.org/capital-management	43	187.83626570624278	0.0652290382832049	0.4087329992841804	5	0.003327235888600356	0.6633444075304541
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2018-04/Wessels~Jana%202.jpg?itok=UX_jybUg	1	0.0	0.0019554607829017404	0.3564294631710362	6	0.00034011530610053467	0.0
+https://uihealthcare.org/education/master-clinical-nutrition-program/program-admission-requirements/request-information-or	45	573.0505514205287	0.06771839274974638	0.4072753209700428	5	0.0035700892163106337	0.7202020202020202
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-11/j-brooks-jackson-portrait.jpg?itok=B0dHdEZ7	2	0.0	0.002757513153214606	0.35934550031466334	6	0.0004627643425736649	1.0
+https://uihealthcare.org/ui-health-care-tours	2	0.0	0.003916386133591589	0.3627700127064803	5	0.00043202801045357615	1.0
+https://uihealthcare.org/education/master-clinical-nutrition-program/how-become-registered-dietitian-nutritionist-rdn	47	1710.05055142053	0.06774242831535905	0.40785714285714286	5	0.00414215086574663	0.6595744680851063
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-01/Butler~Karen-2015-forWeb.jpg?itok=oH4DWEBt	1	0.0	0.001955460782901777	0.3564294631710362	6	0.00034011530610053467	0.0
+https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-instructors-and-coaches	47	3.00293237291023	0.07100914130754868	0.4096126255380201	5	0.003499776022470218	0.786308973172988
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2018-10/sgunasekaran.jpg?itok=Cyr_Q9bJ	2	0.0	0.0027575131532146164	0.35934550031466334	6	0.0004627643425736649	1.0
+https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-curriculum	47	3.00293237291023	0.07100914130754862	0.4096126255380201	5	0.003499776022470218	0.786308973172988
+https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-structure-and-certificate	47	3.00293237291023	0.07100914130754868	0.4096126255380201	5	0.003499776022470218	0.786308973172988
+https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-schedule	47	3.00293237291023	0.07100914130754869	0.4096126255380201	5	0.003499776022470218	0.786308973172988
+https://uihealthcare.org/education/ui-health-care-tours/ui-health-care-tour-options	39	151.3318002695269	0.06133706461629735	0.4069850320741269	5	0.003169053858115868	0.5924426450742241
+https://uihealthcare.org/education/ui-health-care-stem-education/annual-reports	47	3434.800153768107	0.06428003513966424	0.42421991084695393	5	0.00514788507649718	0.513413506012951
+https://uihealthcare.org/specialty-pharmacy-services-university-iowa-employees	43	4097.685376076009	0.05973038161777697	0.40756602426837973	5	0.004930679110874319	0.40310077519379844
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/Haugsdal%20%26%20Students%202020_9_8-21.jpg?itok=92KxXa1O	1	0.0	0.0019522569620286927	0.3546583850931677	6	0.000332147423746053	0.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/STEM%202020_3_7-49.jpg?itok=LfMyptW9	1	0.0	0.001954601626876279	0.35554171855541716	6	0.00033596974537744876	0.0
+https://uihealthcare.org/education/executive-leadership-academy/current-participants	48	573.0029323729096	0.07102173861855039	0.40990667623833454	5	0.0037759546790023073	0.7535460992907801
+https://uihealthcare.org/education/post-graduate-policy-and-administrative-fellowships/university-iowa-physicians	40	3.318721846594441	0.06379747115399804	0.40756602426837973	5	0.0030769078037186474	0.7
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-10/Winokur~Pat%202016%202.jpg?itok=3deSZLui	2	0.0	0.0027575131532145926	0.35934550031466334	6	0.0004627643425736649	1.0
+https://uihealthcare.org/education/master-clinical-nutrition-program/schedule-and-program-study/master-clinical-nutrition-0	44	3.0505514205292776	0.06770638136181648	0.4069850320741269	5	0.0032936605845619088	0.7536997885835095
+https://uihealthcare.org/education/ui-health-care-tours/know-you-go	46	3738.5048980623646	0.062270278038638445	0.40931899641577063	5	0.005047426711540475	0.4579710144927536
+https://uihealthcare.org/education/executive-leadership-academy/executive-leadership-academy-project	47	3.00293237291023	0.07100914130754868	0.4096126255380201	5	0.003499776022470218	0.786308973172988
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/120118_GirlsGoSTEM2%20%2899%29.JPG?itok=UDHOUERd	1	0.0	0.0019546016268763263	0.35554171855541716	6	0.00033596974537744876	0.0
+https://uihealthcare.org/university-iowa-health-care-strategic-plan	50	7051.189699600417	0.05982290200683265	0.41079136690647483	5	0.00721849170209482	0.29959183673469386
+https://uihealthcare.org/sites/default/files/2016.pdf	1	0.0	0.0019560761693669317	0.35709818636647905	6	0.0003453218300990612	0.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2017_4%20UIHC%20Exterior%203.jpg?itok=9d6rtYly	1	0.0	0.001952256962028725	0.3546583850931677	6	0.000332147423746053	0.0
+https://uihealthcare.org/sites/default/files/2017-11/Strategic%20Plan%20Q1%20FY18%20initiatives%20web.pdf	1	0.0	0.0019536440378979765	0.35554171855541716	6	0.00033700453813729364	0.0
+https://uihealthcare.org/sites/default/files/HRT%2017-467%20Report%2C%20HVC%20Final.pdf	1	0.0	0.0019560761693668788	0.35709818636647905	6	0.0003453218300990612	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-education-programming-options	45	636.9466184145667	0.06664830769515571	0.42771535580524345	5	0.0038925144953023084	0.6666666666666666
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-10/Clamon~Joe.jpg?itok=TQ7pb4oq	1	0.0	0.0019554607829017634	0.3564294631710362	6	0.00034011530610053467	0.0
+https://uihealthcare.org/education/master-clinical-nutrition-program/master-clinical-nutrition-schedule-and-program-study	44	3.0505514205292776	0.06770638136181646	0.4069850320741269	5	0.0032936605845619088	0.7536997885835095
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2019_06_18-Iowa%20City%20Downtown%20Lifestyle%20Shoot%20jatorner%20-2255.jpg?itok=xGMArDdp	1	0.0	0.0019522569620287137	0.3546583850931677	6	0.000332147423746053	0.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/option%20%234.png?itok=3PCV9dIZ	1	0.0	0.001954601626876305	0.35554171855541716	6	0.00033596974537744876	0.0
+https://uihealthcare.org/post-graduate-fellowships	2	0.0	0.003915410791847457	0.3623096446700508	5	0.0004299368540522819	1.0
+https://uihealthcare.org/working-ui-health-care	48	7335.002932372907	0.059722509754406045	0.4104960460100647	5	0.0069619769884698805	0.32269503546099293
+https://uihealthcare.org/education/master-clinical-nutrition-program/master-clinical-nutrition-admission-requirements	44	3.0505514205292776	0.06770638136181648	0.4069850320741269	5	0.0032936605845619088	0.7536997885835095
+https://uihealthcare.org/education/ui-health-care-stem-education/upcoming-ui-health-care-stem-education-experiences	45	1744.969357454559	0.06506092570070235	0.4251675353685778	5	0.0043084151133035535	0.5969696969696969
+http://www.uihealthcare.org/EMSLRC/	2	1704.0	0.0019632008397777816	0.36300063572790847	4	0.0009526284920955196	0.0
+https://uihealthcare.org/browse-available-jobs	51	8527.065188115424	0.059781200152939966	0.411976911976912	5	0.007944322823451094	0.28627450980392155
+https://uihealthcare.org/education/ui-health-care-stem-education/online-resources	72	8303.687218237284	0.07727905082050608	0.4412673879443586	5	0.009139924424644539	0.4370109546165884
+https://uihealthcare.org/about-iowa-city-community	49	4848.510365862734	0.06377712538398775	0.42327650111193477	5	0.005924249588064864	0.45918367346938777
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2021-01/cthiriet.jpg?itok=92L5-U16	1	0.0	0.0019554607829017387	0.3564294631710362	6	0.00034011530610053467	0.0
+https://uihealthcare.org/education/master-clinical-nutrition-program/schedule-and-program-study/master-clinical-nutrition	45	573.0505514205287	0.0677183927497464	0.4072753209700428	5	0.0035700892163106337	0.7202020202020202
+https://uihealthcare.org/sites/default/files/2017-10/StrategicPlan20172020.pdf	1	0.0	0.001953644037897984	0.35554171855541716	6	0.00033700453813729364	0.0
+https://uihealthcare.org/community-sponsorship	38	1142.0029323729111	0.060436853877314546	0.40467753366406806	5	0.003345019364097101	0.5675675675675675
+https://uihealthcare.org/education/master-clinical-nutrition-program/master-clinical-nutrition-program-mission-goals-and	44	3.0505514205292776	0.06770638136181648	0.4069850320741269	5	0.0032936605845619088	0.7536997885835095
+https://uihealthcare.org/education/administrative-fellowship	45	2096.8809775891013	0.0638909956143841	0.40902578796561606	5	0.004287293040996034	0.5535353535353535
+https://uihealthcare.org/job-shadows	40	2277.0029323729123	0.06052002807740155	0.4058280028429282	5	0.003952324206743481	0.5115384615384615
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/Bachrach-Christine.jpg?itok=T-AUDSZQ	1	0.0	0.001955460782901783	0.3564294631710362	6	0.00034011530610053467	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/get-involved-stem-education	44	1736.8001537681048	0.06424581237670174	0.42327650111193477	5	0.004223885260806618	0.5866807610993657
+https://uihealthcare.org/professional-development-calendar	35	3.00293237291023	0.0595829526654054	0.40296400846859565	5	0.002701579397697996	0.611764705882353
+https://uihealthcare.org/education/policy-fellowship	45	1814.380977589102	0.06390204345611011	0.40902578796561606	5	0.004169255080263676	0.5545454545454546
+https://uihealthcare.org/how-girls-go-stem-making-waves-and-opening-doors	38	1142.0029323729113	0.06049826322262893	0.40467753366406806	5	0.003348239311441029	0.5675675675675675
+https://uihealthcare.org/ui-health-care-tour-options	2	0.0	0.0027758911625045883	0.35509950248756217	6	0.0004001406773488733	1.0
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2017-10/Van%20Daele~Doug%201.jpg?itok=RavlcS8J	1	0.0	0.0019554607829017695	0.3564294631710362	6	0.00034011530610053467	0.0
+https://uihealthcare.org/sites/default/files/2015.pdf	1	0.0	0.001956076169366925	0.35709818636647905	6	0.0003453218300990612	0.0
+https://uihealthcare.org/sites/default/files/inline-images/Health%20Network-Rehab%20%282c%20HORIZ%29_0.png	1	0.0	0.0007998417471133424	0.2894069944247339	6	0.00036023984477448923	0.0
+https://uihealthcare.org/sites/default/files/2017-10/StrategicPlan20172020AtAGlance-v7.pdf	1	0.0	0.001953644037897997	0.35554171855541716	6	0.00033700453813729364	0.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/Girls%20go%20Stem%202019_12_7-44.jpg?itok=NmPXGCG0	1	0.0	0.0019546016268763068	0.35554171855541716	6	0.00033596974537744876	0.0
+https://uihealthcare.org/sites/default/files/2020-11/ADM%20211117%20Flyer%3B%20Cyphert%20Fellowship%20%281%29.png	1	0.0	0.0008567418781514693	0.2904374364191251	6	0.0003409471755548667	0.0
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-12/carterk.jpg?itok=W9vwf3OR	1	0.0	0.00080205237031282	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/Jorris%20Picture.jpg?itok=DJimczPH	1	0.0	0.0008020523703128452	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-brain-anatomy-and	38	1142.0029323729116	0.06064084204770714	0.4087329992841804	5	0.0033839974698435912	0.5675675675675675
+https://uihealthcare.org/education/executive-leadership-academy/current-participants/2018-2019	48	573.0029323729096	0.07102173861855038	0.40990667623833454	5	0.0037759546790023073	0.7535460992907801
+https://uihealthcare.org/sites/default/files/Visitor%20Behavior%20Guidelines.pdf	1	0.0	0.0008348646158159405	0.2905852417302799	6	0.00035545332780232943	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/upcoming-ui-health-care-stem-education-experiences/engineering-physics-steminar	42	2418.8190243269305	0.06157941134862363	0.4116798846431146	5	0.004196395145976762	0.5052264808362369
+https://uihealthcare.org/sites/default/files/2021-02/2019_08_22-OnIowa%20Skate%20Park%20jatorner%20-0087_0.jpg	1	0.0	0.0008550670875198351	0.2975508077123502	6	0.00036495992877556426	0.0
+https://mychart.uihealthcare.org/mychart	12	44.025988210129725	0.005390640478661116	0.30881557598702003	6	0.001251171364845242	0.696969696969697
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-08/111819_TRIOETS11th12th%20%2833%29.JPG?itok=FyAHu_ot	1	0.0	0.0010360889192409114	0.3063304721030043	6	0.0003701266854201961	0.0
+https://uihealthcare.org/capital-management/upcoming-bids-bid-results-and-plan-room	46	1894.8362657062437	0.0652637662965077	0.4096126255380201	5	0.004181531261290051	0.578743961352657
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/Kan~Tim%206.jpg?itok=2oourFvB	1	0.0	0.0008020523703128532	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/applying-stacey-cyphert-health-policy-fellowship	2	0.0	0.0016907734948592601	0.2907331975560081	6	0.0004148072564061922	1.0
+https://uihealthcare.org/education/ui-health-care-stem-education/online-resources/virtual-stem-education-bone-anatomy	37	573.0029323729096	0.060629939856500635	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/education/executive-leadership-academy/current-participants/2016-2017	48	573.0029323729096	0.07102173861855038	0.40990667623833454	5	0.0037759546790023073	0.7535460992907801
+https://uihealthcare.org/sites/default/files/2021-02/PA%20Students%20Clinical%20Exam%20Room%202019_1_16%20129_0.jpeg	1	0.0	0.0008014932688710674	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uihealthcare.org/education/master-clinical-nutrition-program/program-admission-requirements/master-clinical	43	3.00293237291023	0.06683403894620021	0.4066951566951567	5	0.0032294251987499906	0.7441860465116279
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-germs-and-viruses	37	573.0029323729096	0.06062993985650063	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/sites/default/files/Confidentiality%20Statement.pdf	1	0.0	0.0008348646158159281	0.2905852417302799	6	0.00035545332780232943	0.0
+https://uihealthcare.org/entertainment-culture-and-dining	54	9812.9677211053	0.06064570363072076	0.4161807580174927	5	0.008812756799650141	0.27952480782669464
+https://uihealthcare.org/education/executive-leadership-academy/current-participants/2019-2020	48	573.0029323729096	0.07102173861855032	0.40990667623833454	5	0.0037759546790023073	0.7535460992907801
+https://uihealthcare.org/sites/default/files/2021-02/2018_6_8%20Parekh%20in%20the%20OR%208_0.jpg	1	0.0	0.0008014932688711018	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uihealthcare.org/sites/default/files/2021-02/160415%20CPH%20Fellowship%20Fair%20jatorner-005-Edit_0.jpeg	1	0.0	0.0008014932688710794	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uihealthcare.org/capital-management/design-standards	45	1326.836265706249	0.06525218618408393	0.40931899641577063	5	0.0038902844497106038	0.6050505050505051
+https://uihealthcare.org/stay-active-iowa	42	3408.0029323729123	0.06050327277309838	0.40931899641577063	5	0.004618553376329153	0.4634146341463415
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-12/bradleyc.jpg?itok=aDxxHD3a	1	0.0	0.0008020523703128117	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/capital-management/capital-management-events	44	757.8362657062404	0.06524061018037844	0.40902578796561606	5	0.0036054785840146913	0.6331923890063424
+https://uihealthcare.org/sites/default/files/2021-02/DJI_0063.MP4_.00_00_05_04.Still002_0_1.png	1	0.0	0.0008014932688711129	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uihealthcare.org/education/administrative-fellowship/apply	40	852.669599039577	0.062185468374656765	0.4069850320741269	5	0.0033871493307965042	0.6064102564102564
+https://uihealthcare.org/capital-management/links-design-professionals-and-contractors	45	1326.8362657062464	0.06525218618408392	0.40931899641577063	5	0.003890284449710603	0.6050505050505051
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-elephant-toothpaste	37	573.0029323729096	0.06062993985650064	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/sites/default/files/styles/small/public/Harbison~Jennifer.jpg?itok=GWfV7OJ0	1	0.0	0.0008567418781514898	0.2904374364191251	6	0.0003409471755548667	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-make-your-own	37	573.0029323729096	0.060629939856500614	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/education/university-iowa-master-clinical-nutrition-program/program-admission-requirements/master-0	43	3.00293237291023	0.06683403894620019	0.4066951566951567	5	0.0032294251987499906	0.7441860465116279
+https://uihealthcare.org/sites/default/files/2021-02/2016_07_20-Mandela%20Fellows%20at%20Farmers%20Market-hgthompson-021_0.jpeg	2	0.0	0.0016681508516734206	0.3003682272488164	6	0.000503605492485757	1.0
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-homemade-slime	37	573.0029323729096	0.06062993985650063	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-12/campbellk.jpg?itok=UfzUJByp	1	0.0	0.0008020523703127916	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/education/executive-leadership-academy/current-participants/2014-2015	48	573.0029323729096	0.07102173861855038	0.40990667623833454	5	0.0037759546790023073	0.7535460992907801
+https://uihealthcare.org/education/executive-leadership-academy/current-participants/2017-2018	48	573.0029323729096	0.07102173861855036	0.40990667623833454	5	0.0037759546790023073	0.7535460992907801
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-01/tkpak.jpg?itok=JgSamDAy	1	0.0	0.0008020523703128155	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/how-big-are-your-lungs	37	573.0029323729096	0.06062993985650062	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/technology-and-innovation-steminar	40	1466.0642350548949	0.06071743036411864	0.40990667623833454	5	0.0036552835937804992	0.5115384615384615
+https://uihealthcare.org/sites/default/files/2021-02/2018_11_29%20IRL-7_1.jpg	1	0.0	0.0008014932688710709	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uihealthcare.org/sites/default/files/inline-images/stem-hero-800.jpg	1	0.0	0.0008111070140324399	0.2882382635032812	6	0.0003370782553945721	0.0
+http://uihealthcare.org/EMSLRC/	2	1138.0	2.632558718278458e-05	0.2669471715755026	5	0.0013811654775643212	0.0
+https://uihealthcare.org/sites/default/files/styles/medium/public/2021-06/Kulkarni-Narayan_0.jpg?itok=3Q6UARZf	1	0.0	0.0008565937584959071	0.2904374364191251	6	0.0003431769152551956	0.0
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2019-12/martinezda.jpg?itok=-BPyKDR1	1	0.0	0.0008020523703128446	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-lungs-bottle	37	573.0029323729096	0.06062993985650061	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/sites/default/files/Chaperone%20Expectations%20Guidelines.pdf	1	0.0	0.0008348646158159531	0.2905852417302799	6	0.00035545332780232943	0.0
+https://uihealthcare.org/sites/default/files/Communicable%20Disease%20Screening%20Form.pdf	1	0.0	0.0008113988178864063	0.28882144663631765	6	0.0003461683923107775	0.0
+https://uihealthcare.org/ui-health-care-tours-parking-and-directions	2	0.0	0.0016574568707942647	0.29117797042325344	6	0.00043736158786003326	1.0
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-liquid-density-layer	37	573.0029323729096	0.060629939856500614	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/sites/default/files/laryngescope.jpg	1	0.0	0.0008722791426439751	0.29848405645582854	6	0.0003435785893587128	0.0
+https://uihealthcare.org/sites/default/files/Job%20Shadow%20Confidentiality%20Form.docx	1	0.0	0.0008113988178864169	0.28882144663631765	6	0.0003461683923107775	0.0
+https://uihealthcare.org/sites/default/files/2021-12/2018_12_1_STEM%2088.jpg	1	0.0	0.0008722791426440141	0.29848405645582854	6	0.0003435785893587128	0.0
+https://uihealthcare.org/about-us/get-most-out-your-uichoice-or-uiselect-health-plan	54	9072.94648875619	0.06030429337183001	0.4201618837380427	5	0.008138978382857938	0.2669461914744934
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/invisible-ink-activity	37	573.0029323729096	0.06062993985650062	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/sites/default/files/Girls-go-stem.jpg	1	0.0	0.0008111070140324833	0.2882382635032812	6	0.0003370782553945721	0.0
+https://uihealthcare.org/education/executive-leadership-academy/current-participants/2015-2016	48	573.0029323729096	0.07102173861855035	0.40990667623833454	5	0.0037759546790023073	0.7535460992907801
+https://uihealthcare.org/education/post-graduate-policy-and-administrative-fellowships/university-iowa-physicians-0	39	573.0029323729096	0.062162801972432805	0.4066951566951567	5	0.003208939659104775	0.6369770580296896
+https://uihealthcare.org/sites/default/files/nurseandstudent.jpg	1	0.0	0.0008613508267038207	0.2975508077123502	6	0.0003437923259937256	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/virtual-stem-education-managing-stress-and	37	573.0029323729096	0.060629939856500635	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/education/university-iowa-master-clinical-nutrition-program/program-completion-requirements/master	42	3.00293237291023	0.06593798747500512	0.40640569395017795	5	0.0031656245370885287	0.7317073170731707
+https://uihealthcare.org/school-and-child-care	50	7892.002932372906	0.060590496298807334	0.41406816533720087	5	0.007427997752558226	0.32571428571428573
+https://uihealthcare.org/sites/default/files/2021-02/2%20RC%20Surgery%20Speciality%203_0.jpg	1	0.0	0.0008014932688710733	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uihealthcare.org/sites/default/files/stethoscope.jpg	1	0.0	0.0008935613514391818	0.29973753280839893	6	0.0003357289124852204	0.0
+https://uihealthcare.org/housing-options-iowa	43	3972.002932372912	0.060514161977852955	0.40990667623833454	5	0.004946579145549213	0.4418604651162791
+https://uihealthcare.org/sites/default/files/Student%20Behavior%20Guidelines.pdf	1	0.0	0.0008348646158159601	0.2905852417302799	6	0.00035545332780232943	0.0
+https://uihealthcare.org/education/policy-fellowship/apply	41	1133.169599039578	0.06220814690373551	0.4072753209700428	5	0.0035650157314105974	0.5780487804878048
+https://uihealthcare.org/capital-management/staff	65	22.669599039576926	0.08436771461747467	0.4152727272727273	5	0.004698885770519003	0.6870192307692308
+https://uihealthcare.org/education/ui-health-care-stem-education/online-resources/activities-download	73	17475.3001537681	0.06459195219810775	0.43257575757575756	5	0.014999030848187428	0.2115677321156773
+https://uihealthcare.org/education/ui-health-care-stem-education/stem-resources/hand-hygiene-101	37	573.0029323729096	0.06062993985650063	0.40814867762687634	5	0.003092784935782812	0.5990990990990991
+https://uihealthcare.org/neuroscience-steminar	42	2601.0642350549147	0.06073927406646066	0.4110871130309575	5	0.004262381811599899	0.4634146341463415
+https://uihealthcare.org/sites/default/files/2020-01/Tour-Health-Screening-Form.pdf	1	0.0	0.0008348646158159267	0.2905852417302799	6	0.00035545332780232943	0.0
+https://uihealthcare.org/applying-ui-hospitals-clinics-administrative-fellowship	2	0.0	0.0016903213216156179	0.2907331975560081	6	0.00041510571312780993	1.0
+https://uihealthcare.org/sites/default/files/2021-02/Wayfinding%2C%20Stairs%202020_02_25-2_0.jpeg	1	0.0	0.0008014932688710976	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/Hegmann-Theresa.jpg?itok=t2Fma1vR	1	0.0	0.0008020523703128116	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/education/ui-health-care-stem-education/mathematics-health-care-steminar	40	1466.0642350548962	0.06071743036411866	0.40990667623833454	5	0.0036552835937804992	0.5115384615384615
+https://uihealthcare.org/sites/default/files/Photo%20Consent%20Form_0.pdf	1	0.0	0.0008348646158159362	0.2905852417302799	6	0.00035545332780232943	0.0
+https://uihealthcare.org/sites/default/files/styles/profile_portrait/public/2020-09/SWP%20headshot.JPG?itok=QoOTpjew	1	0.0	0.0008020523703128354	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihealthcare.org/ui-health-plans	1	0.0	0.0008085064384437886	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/people/kelly-stevenson	36	3.00293237291023	0.060714080096821055	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-01/heart-vascular.png	1	0.0	0.0008085064384437872	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/people/phil-boothby	36	3.00293237291023	0.06071408009682109	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2018_10_12-Rec%20After%20Dark-0017.jpg?itok=BY_LuiBv	1	0.0	0.0008111741776385856	0.2905852417302799	6	0.00035565059055466533	0.0
+https://uihealthcare.org/sites/default/files/2021-02/2020_02_07-Dining%20-%20Hillcrest%20Food%20Shoot%20jatorner%20-0662.jpg	1	0.0	0.0008130837641536472	0.2940267765190525	6	0.00040088332594795514	0.0
+https://uihealthcare.org/people/matt-hills	36	3.00293237291023	0.06071408009682109	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/people/jay-goodin	36	3.00293237291023	0.06071408009682109	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-02/2020_10_15-Hancher%20Illuminated%20jatorner%20-0755_0.jpg	1	0.0	0.0008130837641536231	0.2940267765190525	6	0.00040088332594795514	0.0
+https://uihealthcare.org/people/ken-bronson	36	3.00293237291023	0.06071408009682111	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/people/tony-lee	36	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-02/2019_12_18-Dining%20-%20Catering%20Food%20Shoot%20jatorner%20-0201.jpg	1	0.0	0.0008130837641536195	0.2940267765190525	6	0.00040088332594795514	0.0
+https://uihealthcare.org/people/steve-hamilton	36	3.00293237291023	0.060714080096821096	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-02/Fall%20Campus%202020.jpg	1	0.0	0.0008130837641536113	0.2940267765190525	6	0.00040088332594795514	0.0
+https://uihealthcare.org/sites/default/files/2018-09/Haws-Bradley.jpg	1	0.0	0.0008140454125291807	0.2908813041263372	6	0.00033985546920211625	0.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/041719_HooverElementary%20%287%29.jpeg?itok=FecAl7mg	1	0.0	0.0008123435932502464	0.29297075423293995	6	0.000388445817930172	0.0
+https://uihealthcare.org/people/brian-mrozek	36	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2020-12/map-marker.png	1	0.0	0.0008085064384438075	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/021519_PennElementaryScienceNight%20%283%29.jpeg?itok=KqKWHBqf	1	0.0	0.0008123435932502611	0.29297075423293995	6	0.000388445817930172	0.0
+https://uihealthcare.org/sites/default/files/2020-08/craig-kletzing.jpeg	1	0.0	0.0008256020884609193	0.2917731221257026	6	0.00034710983448023216	0.0
+https://uihealthcare.org/people/kathy-terrell	36	3.00293237291023	0.06071408009682105	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/Regina4.jpg?itok=Unlz9gxB	1	0.0	0.0008123435932502606	0.29297075423293995	6	0.000388445817930172	0.0
+https://uihealthcare.org/people/ashly-lagneaux	36	3.00293237291023	0.0607140800968211	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-01/holden.png	1	0.0	0.0008085064384437883	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/people/anne-bauer	36	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-02/Hibs%2011_2015%202.jpg	1	0.0	0.0008130837641536401	0.2940267765190525	6	0.00040088332594795514	0.0
+https://clinicaltrials.uihealthcare.org/	50	3211.9845267745677	0.02892935127555285	0.38843537414965984	6	0.00476411289534261	0.3159183673469388
+https://uihealthcare.org/people/luke-leyden	36	3.00293237291023	0.06071408009682112	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/people/peggy-carleton	36	3.00293237291023	0.06071408009682111	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/EMSLRC/	2	570.0	3.530135603213256e-07	0.21093461396379756	6	0.0016856627731328643	0.0
+https://mychart.uihealthcare.org/MyChart	1	0.0	0.0008085064384438072	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/people/john-mckenzie	36	3.00293237291023	0.060714080096821096	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2020_09_16-Spin%20Class-tschoon-041.jpg?itok=xA25hVOM	1	0.0	0.0008111741776386044	0.2905852417302799	6	0.00035565059055466533	0.0
+https://uihealthcare.org/sites/default/files/Narayanan_Nandakumar%202%20%282%29.jpg	1	0.0	0.0008143382735013567	0.29147524247064827	6	0.00034844127514429435	0.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/Longfellow%20District.jpg?itok=fauTVqN2	1	0.0	0.0008113201704305467	0.2908813041263372	6	0.00035996000186362133	0.0
+https://uihealthcare.org/people/carmela-lovelace	36	3.00293237291023	0.06071408009682106	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2020-12/ribbon-2.png	1	0.0	0.0008085064384437881	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/people/jennifer-ratner	36	3.00293237291023	0.060714080096821076	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-02/020717_HooverElementarySTEMNight%20%2820%29.jpg	1	0.0	0.0008123435932502409	0.29297075423293995	6	0.000388445817930172	0.0
+https://uihealthcare.org/sites/default/files/2020-02/ampearlman.JPG	4	2.647937411095306	0.00326803118702065	0.29539575788929123	6	0.0005885487613154722	0.0
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/College%20Green%20District.jpg?itok=aeG7O89G	1	0.0	0.0008113201704305035	0.2908813041263372	6	0.00035996000186362133	0.0
+https://uihealthcare.org/sites/default/files/2021-02/2020_02_07-Dining%20-%20Hillcrest%20Food%20Shoot%20jatorner%20-0285_0.jpg	1	0.0	0.0008130837641536267	0.2940267765190525	6	0.00040088332594795514	0.0
+https://uihealthcare.org/people/trish-moyer	36	3.00293237291023	0.060714080096821076	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-02/2019_08_02-Iowa%20BIG%20North%20Drive-In%20Theater%20jatorner%20-0330.jpg	1	0.0	0.0008130837641535983	0.2940267765190525	6	0.00040088332594795514	0.0
+https://uihealthcare.org/people/adam-ralston	36	3.00293237291023	0.06071408009682108	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/modificationform.pdf	1	0.0	0.0008748433934392309	0.2905852417302799	6	0.0003356777419381692	0.0
+https://uihealthcare.org/sites/default/files/2018-04/UIHC%20Arc%20%20Eng%20Design%20Standards_2017R%20-%20revised.pdf	1	0.0	0.0008748433934392243	0.2905852417302799	6	0.0003356777419381692	0.0
+https://uihealthcare.org/people/peter-andrade	36	3.00293237291023	0.06071408009682108	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/021519_PennElementaryScienceNight%20%2813%29.jpeg?itok=q2GHtO66	1	0.0	0.0008123435932502557	0.29297075423293995	6	0.000388445817930172	0.0
+https://uihealthcare.org/people/alisha-sena	36	3.00293237291023	0.06071408009682109	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2020-06/Darsee_0.jpeg	1	0.0	0.0008140454125292222	0.2908813041263372	6	0.0003398554692021163	0.0
+https://uihealthcare.org/sites/default/files/2021-01/ortho-sports-medicine.png	1	0.0	0.0008085064384437568	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/capital-management/design-standards/uihc-finish-standards	45	1326.8362657062503	0.06525218618408393	0.40931899641577063	5	0.0038902844497106038	0.6050505050505051
+https://uihealthcare.org/people/jamie-achrazoglou	36	3.00293237291023	0.06071408009682104	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/styles/navigation_box_image/public/2021-02/2019_2_23%20STEM%209.jpg?itok=XStKnw5Z	1	0.0	0.0008123435932503011	0.29297075423293995	6	0.000388445817930172	0.0
+https://uihealthcare.org/people/carol-pettit	36	3.00293237291023	0.06071408009682109	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-01/clinical-trials.png	1	0.0	0.0008085064384437912	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/people/pv-osiago	36	3.00293237291023	0.06071408009682105	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://uihealthcare.org/sites/default/files/2021-01/2019_2_23%20STEM%209.jpg	1	0.0	0.0008085064384437671	0.2960082944530845	6	0.0003902824509208286	0.0
+https://uihealthcare.org/people/eric-short	36	3.00293237291023	0.06071408009682108	0.4032485875706215	5	0.0027630263228171923	0.6333333333333333
+https://clinicaltrials.uihealthcare.org/themes/custom/clinical_trials/images/uihealthcare.svg	10	0.0	0.0037813221011583275	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Brain%20and%20Spinal%20Cord%20Cancer	10	0.0	0.0037813221011582967	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer	11	10.0	0.003787202923449113	0.2828132738979693	7	0.0012113698086637019	0.8363636363636363
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Head%20and%20Neck%20Cancer	10	0.0	0.003781322101158339	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5Btoggle%5D%5Bfield_study_pediatric%5D=true	1	0.0	0.00038785906373314756	0.27990196078431373	7	0.0003431857623288902	0.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Breast%20Cancer	10	0.0	0.003781322101158337	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Colorectal%20Cancer	10	0.0	0.003781322101158334	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer	2	0.0	0.0004386345189469665	0.280039234919078	7	0.0004368389098792356	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Lung%20Cancer	10	0.0	0.0037813221011583262	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies	10	0.0	0.0037813221011583015	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Leukemia	10	0.0	0.0037813221011583032	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Neuroendocrine%20Tumors	10	0.0	0.0037813221011583262	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Prostate%20Cancer	10	0.0	0.0037813221011583076	0.28267326732673265	7	0.0010257229534044506	1.0
+https://uihealthcare.org/sites/default/files/2019-05/Copy%20of%20UIHC%20Finish%20Standards3%20%282%29.xlsx	1	0.0	0.0008748433934391977	0.2905852417302799	6	0.0003356777419381692	0.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Gynecologic%20Cancer	10	0.0	0.0037813221011583488	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/about	48	1885.577447099106	0.028130448740339	0.3821954484605087	6	0.004343340408120679	0.3280141843971631
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Liver%20Cancer	10	0.0	0.0037813221011583544	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Sarcoma	10	0.0	0.0037813221011583522	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Skin%20Cancer	10	0.0	0.0037813221011583184	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/search/studies?studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B0%5D=Cancer&studies%5BhierarchicalMenu%5D%5Bfield_categories_0%5D%5B1%5D=Lymphoma	10	0.0	0.0037813221011583306	0.28267326732673265	7	0.0010257229534044506	1.0
+https://clinicaltrials.uihealthcare.org/ui-health-care-clinical-research-and-trials	1	0.0	0.00038785906373313113	0.27990196078431373	7	0.0003431857623288902	0.0
+https://uihealthcare.org/sites/default/files/Copy%20of%20UIHC%20Finish%20Standards-Offsite1%20%282%29_1.xlsx	1	0.0	0.0008748433934392091	0.2905852417302799	6	0.0003356777419381692	0.0
+https://clinicaltrials.uihealthcare.org/volunteer-research	46	1034.5774470991066	0.028115475597388705	0.38168449197860965	6	0.0038762766147963064	0.3565217391304348
+https://clinicaltrials.uihealthcare.org/about/study-risks	46	1034.5774470991066	0.028115475597388716	0.38168449197860965	6	0.0038762766147963064	0.3565217391304348
+https://clinicaltrials.uihealthcare.org/about/questions-ask-about-clinical-research	46	1034.5774470991066	0.028115475597388747	0.38168449197860965	6	0.0038762766147963064	0.3565217391304348
+https://clinicaltrials.uihealthcare.org/about/informed-consent	46	1034.5774470991066	0.02811547559738873	0.38168449197860965	6	0.0038762766147963064	0.3565217391304348
+https://clinicaltrials.uihealthcare.org/about/contact	47	1604.5774470991064	0.02812046339731896	0.38193979933110367	6	0.004159535528753447	0.34135060129509714
+https://clinicaltrials.uihealthcare.org/about/frequently-asked-questions-about-clinical-trials	53	4720.57744709913	0.028155423174304754	0.3834788448623237	6	0.0058544204936352325	0.26850507982583455
+https://clinicaltrials.uihealthcare.org/about/resources	48	2173.577447099101	0.028125452967275314	0.3821954484605087	6	0.0044488833238438465	0.3271276595744681
+https://clinicaltrials.uihealthcare.org/about/glossary	46	1034.5774470991066	0.028115475597388747	0.38168449197860965	6	0.0038762766147963064	0.3565217391304348
+https://uichildrens.org/	126	3281.9480002938126	0.11706674257244554	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://uihc.org/primary-and-specialty-care/nursing-iowa	1	0.0	0.0019539916343359683	0.35554171855541716	6	0.00033635116478316366	0.0
+https://uihc.org/node/116836	126	3281.9480002938126	0.11706674257244555	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://uihc.org/2019-novel-coronavirus-covid-19	1	0.0	0.001953991634335988	0.35554171855541716	6	0.00033635116478316366	0.0
+https://uihc.org/primary-and-specialty-care	1	0.0	0.001953991634336016	0.35554171855541716	6	0.00033635116478316366	0.0
+https://medicine.uiowa.edu/	117	2330.077950733257	0.11335649298636451	0.5366541353383458	5	0.009155162111740773	0.24167403477748306
+http://medicine.uiowa.edu/	11	39.272727272727266	0.005301105342026151	0.3729588504245591	6	0.0010922826954453812	0.8181818181818182
+https://medicine.uiowa.edu/content/2019-novel-coronavirus-covid-19-updates	1	0.0	0.001953991634336012	0.35554171855541716	6	0.00033635116478316366	0.0
+https://wsi.healthcare.uiowa.edu/Marcom/ECOI/	126	3281.9480002938126	0.11706674257244554	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://medicine.uiowa.edu/research	116	1828.462566117874	0.11328542047128726	0.5257826887661142	5	0.009070717159903277	0.24587706146926536
+https://uiowa.edu/accessibility	116	1828.462566117874	0.11328542047128723	0.5257826887661142	5	0.009070717159903277	0.24587706146926536
+https://uihc.org/	126	3281.9480002938126	0.11706674257244548	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://uihc.org/nondiscrimination-notice	126	3281.9480002938126	0.11706674257244552	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://www.youtube.com/uihealthcare	126	3281.9480002938126	0.11706674257244552	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://www.googletagmanager.com/ns.html?id=GTM-KQTXKF5	126	3281.9480002938126	0.11706674257244554	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+http://hc-vbugtracker.healthcare.uiowa.edu/projects/ui-health-care/issues/new	126	3281.9480002938126	0.11706674257244552	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://medicine.uiowa.edu/uiphysicians/	2	0.0	0.003910907131502316	0.3591194968553459	6	0.0004193648246761249	1.0
+https://twitter.com/uihealthcare	126	3281.9480002938126	0.11706674257244554	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://uihc.org/node/107836	126	3281.9480002938126	0.11706674257244554	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://uiowa.edu/	126	3281.9480002938126	0.11706674257244554	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://uihc.org/billpay	126	3281.9480002938126	0.11706674257244551	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+http://www.medicine.uiowa.edu/research	1	0.0	0.001953991634336001	0.35554171855541716	6	0.00033635116478316366	0.0
+https://nativeamericancouncil.org.uiowa.edu/	116	1828.462566117874	0.11328542047128723	0.5257826887661142	5	0.009070717159903277	0.24587706146926536
+https://www.instagram.com/uihealthcare	126	3281.9480002938126	0.11706674257244555	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+https://uihc.org/sites/default/files/nursing_annual_report_2016_0.pdf	1	0.0	0.0019560761693669213	0.35709818636647905	6	0.0003453218300990612	0.0
+https://medicine.uiowa.edu/perfusion/	1	0.0	0.0019628478896718494	0.3616212792906903	5	0.00036314638994374473	0.0
+https://medicine.uiowa.edu/orthopedics/education/master-science-athletic-training	1	0.0	0.0019628478896718655	0.3616212792906903	5	0.00036314638994374473	0.0
+https://www.youtube.com/embed/xAfVX_lW0Nk	1	0.0	0.0019512179470095345	0.3539987600743955	6	0.000328453370227392	0.0
+http://www.icts.uiowa.edu/	1	0.0	0.0019536440378979973	0.35554171855541716	6	0.00033700453813729364	0.0
+https://www.facebook.com/uihealthcare/	126	3281.9480002938126	0.11706674257244554	0.5587084148727984	5	0.009834202351069963	0.2140952380952381
+http://www.healthcare.uiowa.edu/MSTP/	1	0.0	0.0019628478896718702	0.3616212792906903	5	0.00036314638994374473	0.0
+http://www.nursing.uiowa.edu/academic-programs/dnp/plans	1	0.0	0.0019628478896718676	0.3616212792906903	5	0.00036314638994374473	0.0
+http://www.healthcare.uiowa.edu/fns/internship/internship.htm	1	0.0	0.0019628478896718308	0.3616212792906903	5	0.00036314638994374473	0.0
+https://www.healthcare.uiowa.edu/marcom/uihc/in-kind-donation-form.pdf	1	0.0	0.0019535382439197753	0.35487880671224364	6	0.0003311193827475937	0.0
+https://uiowa.qualtrics.com/jfe/form/SV_78xOSCiML4zFaHX	1	0.0	0.001954601626876316	0.35554171855541716	6	0.00033596974537744876	0.0
+https://c212.net/c/link/?t=0&l=en&o=2519504-1&h=2431781019&u=https%3A%2F%2Fwww.facebook.com%2FEncompassHealth%2F&a=Facebook	1	0.0	0.0007998417471133635	0.2894069944247339	6	0.00036023984477448923	0.0
+https://medicine.uiowa.edu/radsci/programs/radiologic-technology	1	0.0	0.001962847889671858	0.3616212792906903	5	0.00036314638994374473	0.0
+http://clas.uiowa.edu/comsci/graduate-program	1	0.0	0.0019628478896718303	0.3616212792906903	5	0.00036314638994374473	0.0
+http://www.medicine.uiowa.edu/humangenetics/	1	0.0	0.001953644037897953	0.35554171855541716	6	0.00033700453813729364	0.0
+https://medicine.uiowa.edu/radsci/programs/diagnostic-medical-sonography	1	0.0	0.00196284788967186	0.3616212792906903	5	0.00036314638994374473	0.0
+http://www.medicine.uiowa.edu/pathology/education/mlsp/mlsp/	1	0.0	0.001962847889671833	0.3616212792906903	5	0.00036314638994374473	0.0
+http://music.uiowa.edu/programs/therapy/therapy_equivalency.shtml	1	0.0	0.0019628478896718603	0.3616212792906903	5	0.00036314638994374473	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/annual_reports/2018_annual_report.pdf	1	0.0	0.001956076169366909	0.35709818636647905	6	0.0003453218300990612	0.0
+https://medicine.uiowa.edu/education/doctor-philosophy-phd	1	0.0	0.001962847889671845	0.3616212792906903	5	0.00036314638994374473	0.0
+https://medicine.uiowa.edu/ocrme/	1	0.0	0.0019628478896718867	0.3616212792906903	5	0.00036314638994374473	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/administrative_org_chart.pdf	1	0.0	0.0019554607829017643	0.3564294631710362	6	0.00034011530610053467	0.0
+https://medicine.uiowa.edu/pbi/	1	0.0	0.001953644037897984	0.35554171855541716	6	0.00033700453813729364	0.0
+https://medicine.uiowa.edu/cme/	1	0.0	0.0019628478896718355	0.3616212792906903	5	0.00036314638994374473	0.0
+https://www.youtube.com/embed/pke8SHuEF2Y?autoplay=1&start=0&rel=0	1	0.0	0.0019532970841793403	0.35532047293092717	6	0.0003357974891679182	0.0
+https://medicine.uiowa.edu/radsci/programs/radiation-therapy	1	0.0	0.001962847889671875	0.3616212792906903	5	0.00036314638994374473	0.0
+https://newsroom.encompasshealth.com/press-releases/encompass-health-to-build-its-first-hospital-in-iowa/	1	0.0	0.0007998417471133354	0.2894069944247339	6	0.00036023984477448923	0.0
+https://issuu.com/uihealthcare/docs/ar_2019_final_pages	1	0.0	0.001956076169366886	0.35709818636647905	6	0.0003453218300990612	0.0
+https://uihc.org/material-services	1	0.0	0.001956915497166331	0.3573216520650814	6	0.0003452514221307236	0.0
+https://medicine.uiowa.edu/pa/	1	0.0	0.0019628478896718603	0.3616212792906903	5	0.00036314638994374473	0.0
+https://www.youtube.com/watch?v=dF6JUqEioD8	1	0.0	0.001953297084179338	0.35532047293092717	6	0.0003357974891679182	0.0
+https://issuu.com/uihealthcare/docs/ui_nursing_ar_cy2019_singles?fr=sOWY1YTg3MDY3NQ	1	0.0	0.0019560761693669187	0.35709818636647905	6	0.0003453218300990612	0.0
+https://clic-ctsa.org/	1	0.0	0.0019536440378979812	0.35554171855541716	6	0.00033700453813729364	0.0
+https://uihc.org/services-and-amenities	1	0.0	0.001956915497166316	0.3573216520650814	6	0.0003452514221307236	0.0
+https://uihc.org/work-related-care-management	1	0.0	0.001956915497166346	0.3573216520650814	6	0.0003452514221307236	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/course_handout.pdf	1	0.0	0.001953297084179335	0.35532047293092717	6	0.0003357974891679182	0.0
+http://grad.admissions.uiowa.edu/academics/audiology-aud	1	0.0	0.001962847889671848	0.3616212792906903	5	0.00036314638994374473	0.0
+http://www.medicine.uiowa.edu/NMT/	1	0.0	0.0019628478896718824	0.3616212792906903	5	0.00036314638994374473	0.0
+https://medicine.uiowa.edu/md/	1	0.0	0.0019628478896718264	0.3616212792906903	5	0.00036314638994374473	0.0
+https://medcom.uiowa.edu/theloop/quest-newsletter-archives	1	0.0	0.001956076169366933	0.35709818636647905	6	0.0003453218300990612	0.0
+http://www.public-health.uiowa.edu/hmp-phd/	1	0.0	0.0019628478896718507	0.3616212792906903	5	0.00036314638994374473	0.0
+http://www.medicine.uiowa.edu/eye/orthoptic-training/	1	0.0	0.0019628478896718607	0.3616212792906903	5	0.00036314638994374473	0.0
+https://uihc.org/clinical-staff-office	1	0.0	0.0019569154971663377	0.3573216520650814	6	0.0003452514221307236	0.0
+http://pharmacy.uiowa.edu/residency-programs	1	0.0	0.001962847889671853	0.3616212792906903	5	0.00036314638994374473	0.0
+https://uihc.org/pharmacies	1	0.0	0.001956915497166291	0.3573216520650814	6	0.0003452514221307236	0.0
+https://pharmacy.uiowa.edu/pharmd	1	0.0	0.0019628478896718763	0.3616212792906903	5	0.00036314638994374473	0.0
+https://uihc.org/media	1	0.0	0.0019569154971663333	0.3573216520650814	6	0.0003452514221307236	0.0
+http://www.biomed-imaging.uiowa.edu/	1	0.0	0.001953644037897997	0.35554171855541716	6	0.00033700453813729364	0.0
+http://www.nursing.uiowa.edu/	1	0.0	0.0019628478896718533	0.3616212792906903	5	0.00036314638994374473	0.0
+https://medicine.uiowa.edu/pt/	1	0.0	0.001962847889671847	0.3616212792906903	5	0.00036314638994374473	0.0
+https://uihc.org/kind-donations	1	0.0	0.001953538243919728	0.35487880671224364	6	0.0003311193827475937	0.0
+https://medcom.uiowa.edu/theloop/category/noon-news	1	0.0	0.001956076169366879	0.35709818636647905	6	0.0003453218300990612	0.0
+https://www.youtube.com/watch?v=x_WRECcKRrA	1	0.0	0.0019532970841793233	0.35532047293092717	6	0.0003357974891679182	0.0
+https://medicine.uiowa.edu/alumni/meet-us/collegiate-and-community-relations-staff	1	0.0	0.0019569154971663303	0.3573216520650814	6	0.0003452514221307236	0.0
+http://www.public-health.uiowa.edu/emha/	1	0.0	0.0019628478896718373	0.3616212792906903	5	0.00036314638994374473	0.0
+https://medicineiowa.org/	1	0.0	0.001956076169366913	0.35709818636647905	6	0.0003453218300990612	0.0
+https://c212.net/c/link/?t=0&l=en&o=2519504-1&h=1188766114&u=https%3A%2F%2Fnewsroom.encompasshealth.com%2F&a=newsroom	1	0.0	0.0007998417471133326	0.2894069944247339	6	0.00036023984477448923	0.0
+http://www.dentistry.uiowa.edu/education	1	0.0	0.0019628478896718837	0.3616212792906903	5	0.00036314638994374473	0.0
+https://medcom.uiowa.edu/theloop	1	0.0	0.0019560761693668775	0.35709818636647905	6	0.0003453218300990612	0.0
+http://foundation.uiowa.edu/about/	1	0.0	0.0019569154971663463	0.3573216520650814	6	0.0003452514221307236	0.0
+https://hcis.healthcare.uiowa.edu/selfservice/	1	0.0	0.001956915497166314	0.3573216520650814	6	0.0003452514221307236	0.0
+https://medicine.uiowa.edu/education/bachelor-science-bs-programs	1	0.0	0.0019628478896718407	0.3616212792906903	5	0.00036314638994374473	0.0
+https://hr.uiowa.edu/	1	0.0	0.0019569154971663346	0.3573216520650814	6	0.0003452514221307236	0.0
+https://c212.net/c/link/?t=0&l=en&o=2519504-1&h=2519245109&u=http%3A%2F%2Fwww.encompasshealth.com%2F&a=encompasshealth.com	1	0.0	0.0007998417471133396	0.2894069944247339	6	0.00036023984477448923	0.0
+https://www.youtube.com/watch?v=papnH_k3xB4	1	0.0	0.001953297084179341	0.35532047293092717	6	0.0003357974891679182	0.0
+https://uiowa.qualtrics.com/jfe/form/SV_cMDSqf2IMD8UXty	7	0.0	0.00734568308422691	0.3705386112913692	6	0.0009478566030999684	1.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/annual_reports/nursing_ar_2018.pdf	1	0.0	0.0019560761693668835	0.35709818636647905	6	0.0003453218300990612	0.0
+https://www.youtube.com/watch?v=exp5kk4qviY	1	0.0	0.0019532970841793455	0.35532047293092717	6	0.0003357974891679182	0.0
+https://gme.medicine.uiowa.edu/	2	0.0	0.0027643411585429284	0.3653230966090851	5	0.0004954792359281974	1.0
+https://uiowa.qualtrics.com/jfe/form/SV_0kCwwNgvNNDm8Kh	4	0.0	0.004433348033298865	0.35776942355889724	6	0.0005752645029711441	1.0
+https://medicine.uiowa.edu/research/about-office-research	1	0.0	0.001956915497166304	0.3573216520650814	6	0.0003452514221307236	0.0
+https://uihc.org/procurement-services	1	0.0	0.001956915497166339	0.3573216520650814	6	0.0003452514221307236	0.0
+https://www.youtube.com/watch?v=yXKQSPRN52g&list=PLtle2YMvxbfgcTtAr8zZyN2ctUvZM0ono	1	0.0	0.0019546016268763133	0.35554171855541716	6	0.00033596974537744876	0.0
+https://uihc.org/ui-hospitals-and-clinics-engineering-services	1	0.0	0.0019569154971663455	0.3573216520650814	6	0.0003452514221307236	0.0
+http://clas.uiowa.edu/socialwork/	1	0.0	0.001962847889671837	0.3616212792906903	5	0.00036314638994374473	0.0
+https://c212.net/c/link/?t=0&l=en&o=2519504-1&h=1216162963&u=https%3A%2F%2Ftwitter.com%2Fencompasshlth&a=Twitter	1	0.0	0.0007998417471133209	0.2894069944247339	6	0.00036023984477448923	0.0
+https://uihc.org/specialty-pharmacy-services	1	0.0	0.0019569154971663485	0.3573216520650814	6	0.0003452514221307236	0.0
+https://www.youtube.com/watch?v=6mle7tAiyXw	1	0.0	0.0019532970841793637	0.35532047293092717	6	0.0003357974891679182	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/Path_Discovery.pdf	1	0.0	0.0010360889192408706	0.3063304721030043	6	0.0003701266854201961	0.0
+https://issuu.com/uihealthcare/docs/ar_2020_final	1	0.0	0.001956076169366923	0.35709818636647905	6	0.0003453218300990612	0.0
+https://uihc.org/privacy-notice-english	1	0.0	0.0007991226281695908	0.2879475542107917	6	0.00033742496617286005	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/application_2021.docx	1	0.0	0.0009527034717639589	0.2913265306122449	6	0.0003395439453509963	0.0
+https://wellmark.adaptiverx.com/web/pdf?key=8F02B26A288102C27BAC82D14C006C6FC54D480F80409B687B8A91952D0F0058	1	0.0	0.0008008119390590083	0.28970065956367325	6	0.00035964148499548714	0.0
+https://uihc.org/sites/default/files/documents/health-sciences-campus-newton-road-ramp.pdf	1	0.0	0.0008225922549783296	0.2898477157360406	6	0.00034414602229546607	0.0
+https://www.facebook.com/UIHealthCareCEP	1	0.0	0.001954601626876282	0.35554171855541716	6	0.00033596974537744876	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/annual_reports/Summary_FY19.pdf	1	0.0	0.0008618096551329107	0.2980167014613779	6	0.00035529250610582863	0.0
+https://transportation.uiowa.edu/cambus	1	0.0	0.0008007064001021432	0.29117797042325344	6	0.0003854518054298403	0.0
+https://youtu.be/y_hxoBKprA8	1	0.0	0.001036088919240892	0.3063304721030043	6	0.0003701266854201961	0.0
+https://transportation.uiowa.edu/alternative-transportation	1	0.0	0.0008007064001021302	0.29117797042325344	6	0.0003854518054298403	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/PA_Flyer.pdf	1	0.0	0.001036088919240869	0.3063304721030043	6	0.0003701266854201961	0.0
+https://uihc.org/filling-new-specialty-pharmacy-prescription	1	0.0	0.0008008119390590171	0.28970065956367325	6	0.00035964148499548714	0.0
+https://jobs.uiowa.edu/jobSearch/postdoc/	1	0.0	0.0008014932688710904	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uiowa.referrals.selectminds.com/et/7mZhJZEb/page/nursing-careers-11	1	0.0	0.0008014932688710786	0.29192229038854806	6	0.00039457060822221495	0.0
+https://hr.uiowa.edu/benefits/life-insurance	1	0.0	0.0008007064001020942	0.29117797042325344	6	0.0003854518054298403	0.0
+https://hr.uiowa.edu/benefits/health-insurance/employee-health-insurance	1	0.0	0.0008007064001021119	0.29117797042325344	6	0.0003854518054298403	0.0
+https://iowacityareadevelopment.com/	1	0.0	0.0008550670875197952	0.2975508077123502	6	0.00036495992877556426	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/project_sponsor_rec_form.docx	1	0.0	0.0009527034717639272	0.2913265306122449	6	0.0003395439453509963	0.0
+https://uihc.org/pharmacy/transfer-prescription	1	0.0	0.0008008119390589704	0.28970065956367325	6	0.00035964148499548714	0.0
+https://hr.uiowa.edu/careers/talent-acquisition/apply-iowa	1	0.0	0.0008007064001021207	0.29117797042325344	6	0.0003854518054298403	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/Pre_Med_Packet.pdf	1	0.0	0.0010360889192408823	0.3063304721030043	6	0.0003701266854201961	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/RadSciFlyer.pdf	1	0.0	0.001036088919240861	0.3063304721030043	6	0.0003701266854201961	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/annual_reports/Summary_FY20.pdf	1	0.0	0.0008618096551329154	0.2980167014613779	6	0.00035529250610582863	0.0
+https://e.issuu.com/embed.html?d=stem_summary_report_19-20&u=uihealthcare	1	0.0	0.0008618096551329186	0.2980167014613779	6	0.00035529250610582863	0.0
+https://uiowa.referrals.selectminds.com/jobs/search/3686320	1	0.0	0.0008014932688711092	0.29192229038854806	6	0.00039457060822221495	0.0
+http://www.kirkwood.edu/wplc	1	0.0	0.0008113988178864236	0.28882144663631765	6	0.0003461683923107775	0.0
+https://transparency.uiowa.edu/	1	0.0	0.0007991226281696165	0.2879475542107917	6	0.00033742496617286005	0.0
+https://www.cdrnet.org/state-licensure	1	0.0	0.0009082303495553339	0.2898477157360406	6	0.0003371126593331084	0.0
+https://youtu.be/pyys7BE3Fx4	1	0.0	0.0010360889192408604	0.3063304721030043	6	0.0003701266854201961	0.0
+https://uihc.org/frequently-asked-questions-about-specialty-pharmacy	1	0.0	0.000800811939059011	0.28970065956367325	6	0.00035964148499548714	0.0
+https://uihc.org/diseases-specialty-pharmacists-may-monitor	1	0.0	0.0008008119390589766	0.28970065956367325	6	0.00035964148499548714	0.0
+https://e.issuu.com/embed.html?d=stem_annualreport_fy20&u=uihealthcare	1	0.0	0.0008618096551329334	0.2980167014613779	6	0.00035529250610582863	0.0
+https://hr.uiowa.edu/benefits/dental-insurance/employee-dental-insurance-dental-ii	1	0.0	0.0008007064001021388	0.29117797042325344	6	0.0003854518054298403	0.0
+https://youtu.be/umu2zAAWHeQ	1	0.0	0.0010360889192408955	0.3063304721030043	6	0.0003701266854201961	0.0
+https://uihc.org/nursingjobs/	1	0.0	0.0008014932688710928	0.29192229038854806	6	0.00039457060822221495	0.0
+https://e.issuu.com/embed.html?d=final_calednarreportfy19&u=uihealthcare	1	0.0	0.0008618096551329232	0.2980167014613779	6	0.00035529250610582863	0.0
+https://youtu.be/E3G4BvgpsM4	1	0.0	0.001036088919240876	0.3063304721030043	6	0.0003701266854201961	0.0
+https://uihc.org/sites/default/files/documents/admissions_campus_color_map_2013.pdf	1	0.0	0.0008225922549783349	0.2898477157360406	6	0.00034414602229546607	0.0
+https://www.press-citizen.com/	1	0.0	0.0008550670875198243	0.2975508077123502	6	0.00036495992877556426	0.0
+https://medicine.uiowa.edu/diversity/faith-based-diversity-resources	1	0.0	0.0008550670875198338	0.2975508077123502	6	0.00036495992877556426	0.0
+https://uiowa.qualtrics.com/jfe/form/SV_9mfZFs3qZO3qOA5	2	0.0	0.0019020804814306998	0.3116812227074236	6	0.0005446833349678437	1.0
+https://uihc.org/college-student-volunteers	1	0.0	0.0008613508267038173	0.2975508077123502	6	0.0003437923259937256	0.0
+https://www.thegazette.com/	1	0.0	0.0008550670875198496	0.2975508077123502	6	0.00036495992877556426	0.0
+https://hr.uiowa.edu/benefits/flexible-spending-accounts	1	0.0	0.0008007064001021228	0.29117797042325344	6	0.0003854518054298403	0.0
+https://www.desmoinesregister.com/	1	0.0	0.0008550670875198302	0.2975508077123502	6	0.00036495992877556426	0.0
+https://www.eatrightpro.org/acend/students-and-advancing-education/information-for-students	1	0.0	0.0009082303495553682	0.2898477157360406	6	0.0003371126593331084	0.0
+https://littlevillagemag.com/	1	0.0	0.0008550670875197902	0.2975508077123502	6	0.00036495992877556426	0.0
+https://hr.uiowa.edu/compensation-classification	1	0.0	0.000800706400102102	0.29117797042325344	6	0.0003854518054298403	0.0
+https://uiowa.qualtrics.com/jfe/form/SV_8H1TSVhykXNhvzn?Q_JFE=qdg	1	0.0	0.0008613508267038231	0.2975508077123502	6	0.0003437923259937256	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/UIHC_AFP_Overview.pdf	1	0.0	0.0008565937584959025	0.2904374364191251	6	0.0003431769152551956	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/Path_Becoming_Doctor.pdf	1	0.0	0.001036088919240874	0.3063304721030043	6	0.0003701266854201961	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/nomination_form_2021.docx	1	0.0	0.0009527034717639407	0.2913265306122449	6	0.0003395439453509963	0.0
+http://financialaid.uiowa.edu/graduate	1	0.0	0.0009079081020259821	0.289553752535497	6	0.00032963746463899685	0.0
+https://www.cdrnet.org/graduatedegree	1	0.0	0.0009082303495553625	0.2898477157360406	6	0.0003371126593331084	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/education/Stacey_Cyphert_Health_Policy_Fellowship.pdf	2	0.0	0.001690773494859262	0.2907331975560081	6	0.0004148072564061922	1.0
+https://donate.givetoiowa.org/s/1773/campus20/home.aspx?sid=1773&gid=3&pgid=1182&cid=3080	1	0.0	0.0008722791426440075	0.29848405645582854	6	0.0003435785893587128	0.0
+https://uihc.org/parking-and-map	1	0.0	0.0008225922549783476	0.2898477157360406	6	0.00034414602229546607	0.0
+https://uihc.org/about-us	1	0.0	0.0008102836920384314	0.2882382635032812	6	0.0003370066734734148	0.0
+https://jobs.uiowa.edu/jobSearch/faculty/	1	0.0	0.0008014932688710664	0.29192229038854806	6	0.00039457060822221495	0.0
+https://uiowa.qualtrics.com/jfe/form/SV_dapO9HxzfrKOr8p	1	0.0	0.0008101380168227851	0.2879475542107917	6	0.00033235670811578987	0.0
+https://transportation.uiowa.edu/parking	1	0.0	0.0008007064001021458	0.29117797042325344	6	0.0003854518054298403	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/education/AdminFellowsPreviousProjects.pdf	1	0.0	0.0008565937584958489	0.2904374364191251	6	0.0003431769152551956	0.0
+https://grad.admissions.uiowa.edu/academics/master-clinical-nutrition-mcn	1	0.0	0.0009079081020259921	0.289553752535497	6	0.00032963746463899685	0.0
+https://hr.uiowa.edu/benefits/vacation-and-sick-leave	1	0.0	0.0008007064001021353	0.29117797042325344	6	0.0003854518054298403	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/PT_Program.pdf	1	0.0	0.0010360889192408981	0.3063304721030043	6	0.0003701266854201961	0.0
+https://jobs.uiowa.edu/browse-jobs	1	0.0	0.0008014932688710797	0.29192229038854806	6	0.00039457060822221495	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/course_handout.docx	1	0.0	0.0009527034717639175	0.2913265306122449	6	0.0003395439453509963	0.0
+https://uihc.org/how-sign-our-prescription-mail-service	1	0.0	0.0008008119390589638	0.28970065956367325	6	0.00035964148499548714	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/2021_MD_Class_Profile.pdf	1	0.0	0.001036088919240867	0.3063304721030043	6	0.0003701266854201961	0.0
+https://hr.uiowa.edu/uichoice/prescription-drugs	1	0.0	0.0008008119390589958	0.28970065956367325	6	0.00035964148499548714	0.0
+https://e.issuu.com/embed.html?d=final-flyer__stem_summary_report&u=uihealthcare	1	0.0	0.0008618096551329272	0.2980167014613779	6	0.00035529250610582863	0.0
+https://www.iowapublicradio.org/	1	0.0	0.0008550670875198123	0.2975508077123502	6	0.00036495992877556426	0.0
+https://uiowa.qualtrics.com/jfe/form/SV_ahIGrUyTUotR1WJ	1	0.0	0.0008020523703128223	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihc.org/professional-appearance-policy-overview	1	0.0	0.0008113988178864215	0.28882144663631765	6	0.0003461683923107775	0.0
+https://transportation.uiowa.edu/	1	0.0	0.0008007064001021434	0.29117797042325344	6	0.0003854518054298403	0.0
+https://jobs.uiowa.edu/content/temp/	1	0.0	0.0008014932688710653	0.29192229038854806	6	0.00039457060822221495	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2020-2021_ELA_Poster.pdf	1	0.0	0.0009521964313306283	0.2908813041263372	6	0.0003290720321283915	0.0
+https://medicine.uiowa.edu/community/meet-our-team	1	0.0	0.0008321740828658179	0.2898477157360406	6	0.00033263182806151455	0.0
+https://hr.uiowa.edu/employee-well-being	1	0.0	0.0008007064001020939	0.29117797042325344	6	0.0003854518054298403	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/professional_programs/Pre_Health_Science_Packet.pdf	1	0.0	0.00103608891924085	0.3063304721030043	6	0.0003701266854201961	0.0
+https://uiowa.referrals.selectminds.com/	1	0.0	0.000801493268871094	0.29192229038854806	6	0.00039457060822221495	0.0
+https://youtu.be/Up8SiSbAOuQ	1	0.0	0.00103608891924091	0.3063304721030043	6	0.0003701266854201961	0.0
+https://hr.uiowa.edu/benefits/retirement-plans	1	0.0	0.000800706400102118	0.29117797042325344	6	0.0003854518054298403	0.0
+https://uiowa.qualtrics.com/jfe/form/SV_2gg0dsKK844KmEZ	1	0.0	0.0008102836920384548	0.2882382635032812	6	0.0003370066734734148	0.0
+https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/_layouts/15/FormServer.aspx?XsnLocation=https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/Project%20Requests/Forms/template.xsn&OpenIn=browser&SaveLocation=https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/Project%20Requests&Source=https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet	6	0.0	0.005248750069212791	0.2925204918032787	6	0.0006951190594660685	1.0
+https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/_layouts/15/FormServer.aspx?XsnLocation=https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/NewSpaceRequests/Forms/template.xsn&SaveLocation=https%3A%2F%2Fthepoint.healthcare.uiowa.edu%2Fsites%2FCapManIntranet%2FNewSpaceRequests&ClientInstalled=false&DefaultItemOpen=0&Source=https%3A%2F%2Fthepoint.healthcare.uiowa.edu%2Fsites%2FCapManIntranet%2FNewSpaceRequests%2FForms%2FNew%20Requests.aspx	6	0.0	0.0052487500692127405	0.2925204918032787	6	0.0006951190594660685	1.0
+https://thepoint.healthcare.uiowa.edu/sites/CapManIntranet/General%20Documents/Project%20Maps/Project%20Map%20Master.pdf	1	0.0	0.0008746881926565799	0.2904374364191251	6	0.0003318465066587296	0.0
+https://thepoint.healthcare.uiowa.edu/_layouts/15/WopiFrame.aspx?sourcedoc=/Document%20Library/210218%20REVISED%20UI%20Health%20Care%20Strategic%20Plan.docx&action=default	1	0.0	0.0008020523703128593	0.2913265306122449	6	0.0003848867987108926	0.0
+https://thepoint.healthcare.uiowa.edu/_layouts/15/WopiFrame2.aspx?sourcedoc=/Document%20Library/CCOM_Report_1_29_2020.pdf&action=default	1	0.0	0.0008020523703128495	0.2913265306122449	6	0.0003848867987108926	0.0
+https://uihc.org/primary-and-specialty-care/orthopedics-and-rehabilitation	1	0.0	0.0008085064384437664	0.2960082944530845	6	0.0003902824509208286	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/other_health_care_career_matching.pdf	1	0.0	0.0008659915621897781	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringSheet_DoctorBadge.pdf	1	0.0	0.000865991562189813	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ANSWERKEY_BodyPartsCrosswordPuzzle.pdf	1	0.0	0.0008659915621897961	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2019-2020_ELA_Poster.pdf	1	0.0	0.0009521964313306376	0.2908813041263372	6	0.0003290720321283915	0.0
+https://www.youtube.com/embed/4ZzcvzHU-fY	1	0.0	0.0008128724174610626	0.2899949212798375	6	0.0003332340628092496	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2016-2017_ELA_Poster.pdf	1	0.0	0.0009521964313306028	0.2908813041263372	6	0.0003290720321283915	0.0
+https://uihc.org/primary-and-specialty-care/primary-care	1	0.0	0.0008085064384438046	0.2960082944530845	6	0.0003902824509208286	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ANSWERKEY_CareerCrosswordPuzzle.pdf	1	0.0	0.0008659915621898448	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.youtube.com/embed/spvJZm_yCKA	1	0.0	0.0008128724174610758	0.2899949212798375	6	0.0003332340628092496	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/scavenger_hunt.pdf	1	0.0	0.0008659915621898326	0.3021164021164021	6	0.00043679441178540987	0.0
+https://uihc.org/primary-and-specialty-care/heart-and-vascular-center	1	0.0	0.0008085064384438049	0.2960082944530845	6	0.0003902824509208286	0.0
+https://narayanan.lab.uiowa.edu/	1	0.0	0.0008143382735013798	0.29147524247064827	6	0.00034844127514429435	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/dna_coloring_sheet.pdf	1	0.0	0.0008659915621898309	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.youtube.com/embed/wQVVX3q6fmA	1	0.0	0.000812872417461087	0.2899949212798375	6	0.0003332340628092496	0.0
+https://www.thinkiowacity.com/restaurants/	1	0.0	0.0008130837641536325	0.2940267765190525	6	0.00040088332594795514	0.0
+https://buildui.facilities.uiowa.edu/buildui/bids	1	0.0	0.0008749986493078655	0.2907331975560081	6	0.0003394613735466054	0.0
+https://www.youtube.com/embed/ZvAJQasYnek	1	0.0	0.0008128724174610668	0.2899949212798375	6	0.0003332340628092496	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/medical_equipment_coloring.pdf	1	0.0	0.0008659915621897948	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Coloring_Pages_Thank_You-1.pdf	1	0.0	0.0008659915621898145	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/True_False_PhysicalActivity.pdf	1	0.0	0.0008659915621898269	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.cedarrapids.org/events/calendar	1	0.0	0.0008130837641536411	0.2940267765190525	6	0.00040088332594795514	0.0
+https://www.youtube.com/embed/Yl37ZC1DBLE	1	0.0	0.0008128724174610419	0.2899949212798375	6	0.0003332340628092496	0.0
+https://iowacity.momcollective.com/2020/01/19/iowa-city-preschool-guide-2020/	1	0.0	0.0008123435932502952	0.29297075423293995	6	0.000388445817930172	0.0
+https://iowacity.momcollective.com/2017/04/12/guide-iowa-city-neighborhoods-suburbs/	1	0.0	0.0008113201704305296	0.2908813041263372	6	0.00035996000186362133	0.0
+https://medicine.uiowa.edu/diversity/lgbtq-diversity-resources	1	0.0	0.0008130837641536396	0.2940267765190525	6	0.00040088332594795514	0.0
+https://www.niche.com/k12/search/best-private-schools/c/johnson-county-ia/	1	0.0	0.0008123435932502613	0.29297075423293995	6	0.000388445817930172	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_TheHeart.pdf	1	0.0	0.0008659915621898469	0.3021164021164021	6	0.00043679441178540987	0.0
+https://hr.uiowa.edu/well-being/family-services/child-care/back-child-care	1	0.0	0.0008123435932502966	0.29297075423293995	6	0.000388445817930172	0.0
+https://uihc.org/primary-and-specialty-care/same-day-care	1	0.0	0.0008085064384438042	0.2960082944530845	6	0.0003902824509208286	0.0
+https://cancer.uiowa.edu/	11	18.452645723287922	0.004589828539602119	0.3061662198391421	6	0.001153767642087517	0.8363636363636363
+https://www.cr.k12.ia.us/	1	0.0	0.0008123435932502916	0.29297075423293995	6	0.000388445817930172	0.0
+https://www.iowa4cs.com/	1	0.0	0.000812343593250275	0.29297075423293995	6	0.000388445817930172	0.0
+https://www.youtube.com/embed/yXKQSPRN52g	1	0.0	0.000812872417461037	0.2899949212798375	6	0.0003332340628092496	0.0
+https://littlevillagemag.com/best-of-the-crandic-2019-food-drink/	1	0.0	0.0008130837641535976	0.2940267765190525	6	0.00040088332594795514	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2014-2015_ELA_Poster.pdf	1	0.0	0.0009521964313305986	0.2908813041263372	6	0.0003290720321283915	0.0
+https://www.thinkiowacity.com/plan-your-trip/living-here/relocation-and-real-estate/	1	0.0	0.0008113201704305284	0.2908813041263372	6	0.00035996000186362133	0.0
+https://www.thinkiowacity.com/events/	1	0.0	0.000813083764153644	0.2940267765190525	6	0.00040088332594795514	0.0
+https://hr.uiowa.edu/benefits	1	0.0	0.0008085064384437842	0.2960082944530845	6	0.0003902824509208286	0.0
+https://www.facilities.uiowa.edu/projects/contractors	1	0.0	0.0008748433934392309	0.2905852417302799	6	0.00033567774193816915	0.0
+https://www.youtube.com/embed/0oNmOLZjwwM	1	0.0	0.0008140454125291761	0.2908813041263372	6	0.00033985546920211625	0.0
+https://www.icgov.org/city-government/departments-and-divisions/parks-and-recreation	1	0.0	0.0008111741776386199	0.2905852417302799	6	0.00035565059055466533	0.0
+https://www.coralville.org/324/Education	1	0.0	0.0008123435932502856	0.29297075423293995	6	0.000388445817930172	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_Cell.pdf	1	0.0	0.0008659915621898282	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.coralville.org/256/Parks-Recreation-Facilities	1	0.0	0.0008111741776385946	0.2905852417302799	6	0.00035565059055466533	0.0
+https://iowacityareadevelopment.com/live-the-good-life/community-profile/	1	0.0	0.000811320170430506	0.2908813041263372	6	0.00035996000186362133	0.0
+https://www.youtube.com/embed/bIchihUNRy0	1	0.0	0.0008128724174610633	0.2899949212798375	6	0.0003332340628092496	0.0
+https://uihc.org/amy-m-pearlman?_ga=2.101270531.320783768.1592581150-636136941.1590097930	1	0.0	0.0008256020884609087	0.2917731221257026	6	0.00034710983448023216	0.0
+https://medicine.uiowa.edu/diversity/community-diversity-resources	1	0.0	0.0008130837641536306	0.2940267765190525	6	0.00040088332594795514	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_STEMatIowa.pdf	1	0.0	0.000865991562189807	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.facilities.uiowa.edu/projects/design-professionals	1	0.0	0.0008748433934392285	0.2905852417302799	6	0.00033567774193816915	0.0
+https://docs.google.com/forms/d/e/1FAIpQLSezFBa9Qqa1LzqAsk26rCDIU9wNMdp43oSfvHFLgL6FvLZKfA/viewform?embedded=true	1	0.0	0.0008256020884608967	0.2917731221257026	6	0.00034710983448023216	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Common_Infectious_Diseases.pdf	1	0.0	0.0008659915621898079	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ANSWERKEY_ResearchWordSearch.pdf	1	0.0	0.0008659915621897991	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/bone_matching_sheet.pdf	1	0.0	0.000865991562189845	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2018-2019_ELA_Poster.pdf	1	0.0	0.0009521964313306063	0.2908813041263372	6	0.0003290720321283915	0.0
+https://www.iowacityschools.org/	1	0.0	0.0008123435932502575	0.29297075423293995	6	0.000388445817930172	0.0
+https://www.youtube.com/embed/RivsGe6T6mM	1	0.0	0.0008128724174610278	0.2899949212798375	6	0.0003332340628092496	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ANSWERKEY_BodyPartsWordSearch.pdf	1	0.0	0.0008659915621898064	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Brain_WordSearch.pdf	1	0.0	0.0008659915621898287	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.icgov.org/city-government/departments-and-divisions/housing-authority	1	0.0	0.0008113201704305479	0.2908813041263372	6	0.00035996000186362133	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/CrosswordPuzzle_BodyParts.pdf	1	0.0	0.0008659915621898184	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.youtube.com/embed/uMtWAlCVgJM	1	0.0	0.0008128724174610508	0.2899949212798375	6	0.0003332340628092496	0.0
+https://uiowa.edu/ap-purchasing/ebid	1	0.0	0.0008749986493078998	0.2907331975560081	6	0.0003394613735466054	0.0
+https://www.thinkiowacity.com/things-to-do/sports-and-recreation/	1	0.0	0.0008111741776385826	0.2905852417302799	6	0.00035565059055466533	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/body_parts_word_scramble.pdf	1	0.0	0.000865991562189794	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.kirkwood.edu/workplace-learning-connection/index	1	0.0	0.0008123435932502537	0.29297075423293995	6	0.000388445817930172	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/CareerCrosswordPuzzle.pdf	1	0.0	0.0008659915621898065	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.uiowaplanroom.com/	1	0.0	0.000874998649307921	0.2907331975560081	6	0.0003394613735466054	0.0
+https://twitter.com/narayananlab	1	0.0	0.0008143382735013583	0.29147524247064827	6	0.00034844127514429435	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Coloring_Pages_Thank_You-2.pdf	1	0.0	0.0008659915621898022	0.3021164021164021	6	0.00043679441178540987	0.0
+https://medicine.uiowa.edu/acb/profile/kathleen-andersen	1	0.0	0.0008130185843637797	0.2902897813929842	6	0.0003378773516133378	0.0
+https://www.youtube.com/embed/_hzoD2DaJ_A	1	0.0	0.0008128724174610648	0.2899949212798375	6	0.0003332340628092496	0.0
+https://uiowa.referrals.selectminds.com/jobs/administrative-fellow-14196	1	0.0	0.0008337275631197104	0.2894069944247339	6	0.00033416656011037664	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/PhysicalActivityBINGO.pdf	1	0.0	0.0008659915621897999	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/MADLIB_DayinthelifeofaDoctor.pdf	1	0.0	0.0008659915621898374	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_TheLungs.pdf	1	0.0	0.0008659915621898238	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/MADLIB_LifeasaScientist.pdf	1	0.0	0.0008659915621898357	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2017-2018_ELA_Poster.pdf	1	0.0	0.0009521964313305871	0.2908813041263372	6	0.0003290720321283915	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Super_Smile_Challenge.pdf	1	0.0	0.0008659915621898001	0.3021164021164021	6	0.00043679441178540987	0.0
+https://uiowa.referrals.selectminds.com/jobs/admin-services-specialist-14182	1	0.0	0.0008334236721177739	0.28926038500506585	6	0.00033212872319993657	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/WordSearch_BodyParts.pdf	1	0.0	0.0008659915621898319	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_STEMobjects.pdf	1	0.0	0.0008659915621898489	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.youtube.com/embed/_ifwS-NzQc0	1	0.0	0.0008128724174610685	0.2899949212798375	6	0.0003332340628092496	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ResearchWordSearch.pdf	1	0.0	0.0008659915621898406	0.3021164021164021	6	0.00043679441178540987	0.0
+https://www.youtube.com/embed/8rmS0zYSWnk	1	0.0	0.0008256020884609214	0.2917731221257026	6	0.00034710983448023216	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/ColoringPage_TheBrain.pdf	1	0.0	0.0008659915621898152	0.3021164021164021	6	0.00043679441178540987	0.0
+http://pubs.royle.com/publication/?m=22116&l=1	1	0.0	0.0008113201704305292	0.2908813041263372	6	0.00035996000186362133	0.0
+https://www.youtube.com/embed/ZXoidLnr_hk	1	0.0	0.0008140454125291985	0.2908813041263372	6	0.0003398554692021163	0.0
+http://p.rfer.us/UIOWAqoC3qL	1	0.0	0.0008340316167077428	0.289553752535497	6	0.0003360978430890878	0.0
+https://calendar.littlevillagemag.com/	1	0.0	0.000813083764153611	0.2940267765190525	6	0.00040088332594795514	0.0
+https://recserv.uiowa.edu/	1	0.0	0.0008111741776385821	0.2905852417302799	6	0.00035565059055466533	0.0
+https://uihc.org/amy-m-pearlman	3	1.0263157894736843	0.0024424290985597397	0.29327170005136105	6	0.0005036766890730023	0.0
+https://downtowniowacity.com/arts-and-culture/	1	0.0	0.0008130837641536134	0.2940267765190525	6	0.00040088332594795514	0.0
+https://uihc.org/primary-and-specialty-care/pharmacy-services	1	0.0	0.0008085064384438182	0.2960082944530845	6	0.0003902824509208286	0.0
+https://www.youtube.com/embed/kFvr6fmf3Sw	1	0.0	0.0008130185843638071	0.2902897813929842	6	0.0003378773516133378	0.0
+https://downtowniowacity.com/eat-drink/	1	0.0	0.0008130837641536316	0.2940267765190525	6	0.00040088332594795514	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/executive_leadership_academy/2015-2016_ELA_Poster.pdf	1	0.0	0.0009521964313306072	0.2908813041263372	6	0.0003290720321283915	0.0
+https://www.healthcare.uiowa.edu/marcom/uihealthcare/stem/activities/Match_Organ.pdf	1	0.0	0.0008659915621897964	0.3021164021164021	6	0.00043679441178540987	0.0
+https://uihc.org/node/106036	1	0.0	4.73289247719545e-09	0.17424473603906013	7	0.0009770092761179168	0.0
+https://www.youtube.com/embed/58uQWop3v8Q	1	0.0	0.0008143382735013704	0.29147524247064827	6	0.00034844127514429435	0.0
+https://uihc.org/appointment	10	0.0	0.003781322101158344	0.28267326732673265	7	0.0010257229534044506	1.0
+https://redcap.icts.uiowa.edu/redcap/surveys/?s=J4TWRF8DAJ	10	0.0	0.003781322101158326	0.28267326732673265	7	0.0010257229534044506	1.0
+https://uihc.org/resources-referring-providers	10	0.0	0.003781322101158338	0.28267326732673265	7	0.0010257229534044506	1.0
+https://www.tourismcedarrapids.com/restaurants/	1	0.0	0.0008130837641536352	0.2940267765190525	6	0.00040088332594795514	0.0
+https://www.youtube.com/embed/U6WSisuehf0	1	0.0	0.0003771480876600951	0.2766472868217054	7	0.00033910509829131115	0.0
+https://icts.uiowa.edu/	1	0.0	0.00037748292270297485	0.2773190869354055	7	0.0003560802043645959	0.0
+https://hso.research.uiowa.edu/institutional-review-boards-irbs	2	0.0	0.0007546310103630491	0.27758872143898883	7	0.00043294754041814474	1.0
+https://uihc.org/medical-services/holden-comprehensive-cancer-center	1	0.0	0.0003774829227029714	0.2773190869354055	7	0.0003560802043645959	0.0
+https://hso.research.uiowa.edu/info-public-research-subjects	1	0.0	0.0003770142130440356	0.2765133171912833	7	0.0003374180950272157	0.0
+https://www.nih.gov/	1	0.0	0.0003774829227029632	0.2773190869354055	7	0.0003560802043645959	0.0
+https://www.clinicaltrials.gov/	1	0.0	0.00037748292270297485	0.2773190869354055	7	0.0003560802043645959	0.0
+https://www.cancer.gov/about-cancer/treatment/clinical-trials	1	0.0	0.0003774829227029818	0.2773190869354055	7	0.0003560802043645959	0.0
+https://www.youtube.com/watch?v=0SgsWQWu1vc&list=PLrl7E8KABz1Ex7n0cjhxVgGDDF7xWHpF1&index=3	1	0.0	0.00037708110876917545	0.2766472868217054	7	0.00034097414653230356	0.0
+https://www.hhs.gov/ohrp/education-and-outreach/about-research-participation/informational-videos/index.html	1	0.0	0.00037708110876916157	0.2766472868217054	7	0.00034097414653230356	0.0
+https://www.hhs.gov/	1	0.0	0.0003774829227029818	0.2773190869354055	7	0.0003560802043645959	0.0
